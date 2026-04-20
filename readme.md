@@ -4,19 +4,19 @@ This repository contains the replication package for our Systematic Literature R
 
 ## Repository Structure
 
-The following files are included in this replication package:
+The following folders are included in this replication package:
 
-1. **`all.bib`**  
-    This file contains the results of our initial search query.
+1. **`scripts/`**  
+    This folder contains Python scripts used for data processing:
+    - `remove_types.py`: Removes irrelevant references such as books, book chapters, and entries with empty titles.
+    - `keyword_screen.py`: Filters papers based on title, abstract, and specific keywords related to IaC and quality.
+    - `random_selection.py`: Randomly selects 45 studies out of the excluded papers.
 
-2. **`non-duplicate.bib`**  
-    This file contains the results of the `all.bib` file after removing duplicates using [Parsifal](https://parsif.al/).
-
-3. **`filtered_nondup.bib`**  
-    This file contains the results of the `remove_types.py` script, which filters out irrelevant references such as books, book chapters, and entries with empty titles.
-
-4. **`screened.bib`**  
-    This file contains the results of the `keyword_screen.py` script, which filters papers based on title, abstract, IaC-related terms, and quality-related terms.
+2. **`data/`**  
+    This folder contains raw and processed data files:
+    - `raw_data/`: Contains the raw data file, `all.bib`, retrieved through applying the search query.
+    - `processed_data/`: Contains intermediate and processed data files, such as `non-duplicate.bib`, `filtered_nondup.bib`, and `screened.bib`.
+    - `results/`: Contains the main spreadsheet presenting the final results of the study.
 
 ## Process Overview
 
@@ -33,14 +33,6 @@ The following steps outline the process used to produce the results:
 
 4. **Keyword Screening**  
     The `keyword_screen.py` script was applied to filter papers based on title, abstract, and relevant terms, resulting in `screened.bib`.
-
-## Scripts
-
-- **`remove_types.py`**  
-  A Python script to remove irrelevant references such as books, book chapters, and entries with empty titles.
-
-- **`keyword_screen.py`**  
-  A Python script to filter papers based on title, abstract, and specific keywords related to IaC and quality.
 
 ## Reproducibility
 
