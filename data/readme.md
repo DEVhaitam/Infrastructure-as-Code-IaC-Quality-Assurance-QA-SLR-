@@ -7,6 +7,7 @@ This folder contains the data files used and generated during the replication pa
 ### 1. `raw_data/`
 This subfolder contains the raw data collected during the initial stage of the study. This folder includes:
 - `all.bib`: The complete set of references retrieved from the search query.
+- `classifiations.md`: The complete list of reported of quality issues/support techniques categories, and their internal sub-categories.
 
 
 ### 2. `processed_data/`
