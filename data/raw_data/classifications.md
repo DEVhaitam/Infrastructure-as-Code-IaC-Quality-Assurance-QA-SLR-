@@ -1,4 +1,4 @@
-This file contains the list of intermediate values for classifying the quality issues and the supprot techniques.
+This file contains the list of intermediate values for classifying the quality issues and the support techniques.
 
 ## Quality issues:
 1. **Structural Quality**
@@ -199,7 +199,7 @@ This file contains the list of intermediate values for classifying the quality i
     - Storage configurations
 
 ## Techniques:
-Some techniques instances that we used for classifying the support techniques used in the literrature:
+Some techniques instances that we used for classifying the support techniques used in the literature:
 1. **Rule-Based and Pattern-Matching Approaches**
 - Regular Expressions - RegX
 - Rule-based checks
