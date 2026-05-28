@@ -19,17 +19,18 @@ import re
 import csv
 
 # === KEYWORDS ===
+#IAC_TERMS = ["infrastructure as code", "infrastructure-as-code", "iac", "configuration as code"]
 IAC_TERMS = [
     "infrastructure as code", "infrastructure-as-code", "iac", "configuration as code",
     "ansible", "terraform", "chef", "puppet", "pulumi", "docker", "dockerfile", "docker-compose",
     "docker compose", "docker-compose", "kubernetes", "k8s", "cloudformation", "cloud formation",
-    "packer", "container", "containerization", "compose file", "ARM", "Juju", "Nomad", "TOSCA", "SaltStack", "CFEngine", "Heat"
+    "packer", "container", "containerization", "helm","compose file", "ARM", "Juju", "Nomad", "TOSCA", "SaltStack", "CFEngine", "Heat"
 ]
 
 QUALITY_TERMS = [
     "quality", "bug", "defect", "fault", "smell", "code smell", "anti-pattern", "antipattern",
     "antipattern", "vulnerability", "vulnerabilit", "security", "misconfiguration", "mis-config",
-    "misconfig", "analysis", "analyzing", "testing", "test", "validation", "validate",
+    "misconfig", "analysis", "analyzing", "testing", "test", "validation", "validate","inconsistenc",
     "practice", "practice(s)", "lint", "linter", "linting", "performance", "reliability", "maintainability"
 ]
 
@@ -57,14 +58,19 @@ def extract_fields(entry):
     body = re.sub(r'^\s*@\w+\s*[{(]\s*[^,]+,', '', entry, count=1, flags=re.IGNORECASE | re.S)
     # remove trailing } or );
     body = re.sub(r'\}\s*$', '', body.strip(), flags=re.S)
-    # find fields like fieldname = {value}  or field = "value"
+    # Match field values with up to two levels of nested braces so that titles
+    # like {Analyzing {Infrastructure} as {Code}...} are captured in full.
+    field_re = re.compile(
+        r'(\w+)\s*=\s*(?:\{((?:[^{}]|\{(?:[^{}]|\{[^{}]*\})*\})*)\}|"([^"]*)")\s*,?',
+        re.S,
+    )
     fields = {}
-    for m in re.finditer(r'(\w+)\s*=\s*({(?P<br>[^}]*)}|\"(?P<qt>[^\"]*)\")\s*,?', body, flags=re.S):
+    for m in field_re.finditer(body):
         name = m.group(1).lower()
-        val = (m.group('br') if m.group('br') is not None else m.group('qt') or "")
+        val = m.group(2) if m.group(2) is not None else (m.group(3) or "")
+        # Strip any residual inner braces so keywords are plain text
+        val = re.sub(r'[{}]', '', val)
         fields[name] = val.strip()
-    # also include entire body as fallback
-    #fields['_all'] = " ".join(fields.values())
     return fields
 
 def find_matches(text, terms):
