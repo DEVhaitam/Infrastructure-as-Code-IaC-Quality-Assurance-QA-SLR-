@@ -1,838 +1,819 @@
 key,title,reason
-vasileiou_knowledge-based_2025,A knowledge-based approach for guided development of {Infrastructure,no_IaC_term;no_quality_term
-opdebeeck_infrastructure-as-code_2023,Infrastructure-as-{Code,no_IaC_term;no_quality_term
-bhatia_terraform_2023,Terraform: {Infrastructure,no_quality_term
-filho_dynamic_2025,A {Dynamic,no_IaC_term;no_quality_term
-gavandi_infrastructure_2025,Infrastructure as {Code,no_IaC_term;no_quality_term
-hong_enhancing_2025,Enhancing {Software,no_IaC_term;no_quality_term
-mustafa_infrastructure_2023,Infrastructure as {Code,no_IaC_term;no_quality_term
-qiao_statically_2025,Statically {Inferring,no_IaC_term;no_quality_term
-borovits_findici_2022,{FindICI,no_IaC_term;no_quality_term
-ketonen_strategies_2024,Strategies and {Challenges,no_IaC_term;no_quality_term
-zeini_preliminary_2023,Preliminary {Investigation,no_IaC_term;no_quality_term
-begoug_how_2024,How {Do,no_IaC_term;no_quality_term
-patel_enhancing_2025,Enhancing software quality of {CI,no_IaC_term
-rendon_why_2022,Why {Infrastructure,no_IaC_term;no_quality_term
-rong_openiac_2022,{OpenIaC,no_quality_term
-pandya_introduction_2022,Introduction to {Infrastructure,no_IaC_term;no_quality_term
-wang_overview_2024,An {Overview,no_IaC_term;no_quality_term
-kumar_infrastructure_2023,Infrastructure as {Code,no_IaC_term;no_quality_term
-osaba_evolutionary_2023,An {Evolutionary,no_IaC_term;no_quality_term
-chiari_doml_2023,{DOML,no_IaC_term;no_quality_term
-pandya_management_2022,Management of {Infrastructure,no_IaC_term;no_quality_term
-wizenty_model-driven_2024,Model-{Driven,no_IaC_term;no_quality_term
-pandya_hands-infrastructure_2022,Hands-on {Infrastructure,no_IaC_term;no_quality_term
-pandya_business_2022,Business {Solutions,no_IaC_term;no_quality_term
-khushalani_infrastructure_2022,Infrastructure as {Code,no_IaC_term;no_quality_term
-sabharwal_moving_2021,Moving to {Agile,no_IaC_term;no_quality_term
-pandya_patterns_2022,Patterns and {Principles,no_IaC_term;no_quality_term
-deshmukh_automated_2025,Automated {Security,no_IaC_term
-pandya_introduction_2022-1,Introduction to {Infrastructure,no_IaC_term;no_quality_term
+vasileiou_knowledge-based_2025,A knowledge-based approach for guided development of Infrastructure as Code,no_quality_term
+opdebeeck_infrastructure-as-code_2023,Infrastructure-as-Code Ecosystems,no_quality_term
+bhatia_terraform_2023,Terraform: Infrastructure as Code,no_quality_term
+filho_dynamic_2025,A Dynamic Network Intrusion Detection Model for Infrastructure as Code Deployed Environments,no_quality_term
+gavandi_infrastructure_2025,"Infrastructure as Code (IaC) in Azure: Automating Azure Deployments for Repeatability, Governance, and Velocity",no_quality_term
+mustafa_infrastructure_2023,Infrastructure as Code,no_quality_term
+qiao_statically_2025,Statically Inferring Usage Bounds for Infrastructure as Code,no_quality_term
+ketonen_strategies_2024,Strategies and Challenges in Cloud-to-Cloud Migration Using Infrastructure as Code,no_quality_term
+begoug_how_2024,How Do Infrastructure-as-Code Practitioners Update their Provider Dependencies? An Empirical Study on the AWS Provider,no_quality_term
+patel_enhancing_2025,Enhancing software quality of CI/CD pipeline through continuous testing: a DevOps-driven maintainable hybrid automation testing framework,no_IaC_term
+rendon_why_2022,Why Infrastructure as Code?,no_quality_term
+rong_openiac_2022,OpenIaC: open infrastructure as code - the network is my computer,no_quality_term
+pandya_introduction_2022,Introduction to Infrastructure as Code,no_quality_term
+kumar_infrastructure_2023,Infrastructure as Code (IaC): Insights on Various Platforms,no_quality_term
+osaba_evolutionary_2023,An Evolutionary Computation-Based Platform for Optimizing Infrastructure-as-Code Deployment Configurations,no_quality_term
+chiari_doml_2023,DOML: A New Modelling Approach to Infrastructure-as-Code,no_quality_term
+pandya_management_2022,Management of Infrastructure as Code,no_quality_term
+wizenty_model-driven_2024,Model-Driven Security Smell Resolution in Microservice Architecture Using LEMMA,no_IaC_term
+pandya_hands-infrastructure_2022,Hands-on Infrastructure as Code with Puppet,no_quality_term
+pandya_business_2022,Business Solutions with Infrastructure as Code,no_quality_term
+khushalani_infrastructure_2022,Infrastructure as Code and Service Mesh,no_quality_term
+sabharwal_moving_2021,Moving to Agile with Infrastructure as Code,no_quality_term
+pandya_patterns_2022,Patterns and Principles of Infrastructure as Code,no_quality_term
+deshmukh_automated_2025,Automated Security Testing Using CI/CD Pipeline,no_IaC_term
+pandya_introduction_2022-1,Introduction to Infrastructure as Code with Chef,no_quality_term
 giordano_adoption_2023,On the adoption and effects of source code reuse on defect proneness and maintenance effort,no_IaC_term
-pandya_hands-infrastructure_2022-1,Hands-on {Infrastructure,no_IaC_term;no_quality_term
-melis_time-sensitive_2025,Time-{Sensitive,no_IaC_term;no_quality_term
-wang_testing_2024,Testing and {Automation,no_IaC_term
-smart_logging_2022,Logging and {Testing,no_IaC_term
-modi_infrastructure_2021,Infrastructure as {Code,no_IaC_term;no_quality_term
-riti_infrastructure_2021,Infrastructure as {Code,no_IaC_term;no_quality_term
-kyryk_infrastructure_2021,Infrastructure as {Code,no_IaC_term;no_quality_term
-stapp_chapter_2023,Chapter 2 {Testing,no_IaC_term
+pandya_hands-infrastructure_2022-1,Hands-on Infrastructure as Code with Hashicorp Terraform,no_quality_term
+melis_time-sensitive_2025,Time-Sensitive Networking Digital Twin for STRIDE-based security testing,no_IaC_term
+wang_testing_2024,Testing and Automation,no_IaC_term
+smart_logging_2022,Logging and Testing,no_IaC_term
+modi_infrastructure_2021,Infrastructure as Code,no_quality_term
+riti_infrastructure_2021,Infrastructure as Code,no_quality_term
+kyryk_infrastructure_2021,Infrastructure as Code and Microservices for Intent-Based Cloud Networking,no_quality_term
+stapp_chapter_2023,Chapter 2 Testing Throughout the Software Development Life Cycle,no_IaC_term
 malhotra_enhanced_2025,Enhanced software change proneness prediction in android applications using balanced data techniques and advanced language models,no_IaC_term;no_quality_term
-iosif_bring_2025,Bring {Your,no_IaC_term;no_quality_term
-codabux_teaching_2024,Teaching {Mining,no_IaC_term;no_quality_term
-mittal_ai-driven_2025,{AI,no_IaC_term;no_quality_term
-rahman_come_2023,"Come for syntax, stay for speed, understand defects: an empirical study of defects in {Julia",no_IaC_term
-gavandi_real-world_2025,Real-{World,no_IaC_term;no_quality_term
+iosif_bring_2025,Bring Your Own Bug: Enabling User-Generated Content in Serious Games for Industrial Cybersecurity and AppSec Education,no_IaC_term
+codabux_teaching_2024,Teaching Mining Software Repositories,no_IaC_term;no_quality_term
+mittal_ai-driven_2025,AI-Driven DevOps Automation for Cloud-Native Application Modernization,no_IaC_term;no_quality_term
+rahman_come_2023,"Come for syntax, stay for speed, understand defects: an empirical study of defects in Julia programs",no_IaC_term
+gavandi_real-world_2025,"Real-World Case Studies and Future Trends: Architecting Azure Infrastructure with Evidence, Experience, and Emerging Insight",no_IaC_term;no_quality_term
 santos_need_2025,On the need to monitor continuous integration practices,no_IaC_term
-azuma_empirical_2022,An empirical study on self-admitted technical debt in {Dockerfiles,no_quality_term
-baruah_devops_2024,{DevOps,no_IaC_term;no_quality_term
-chiari_developing_2022,Developing a {New,no_IaC_term;no_quality_term
-golis_creating_2024,Creating a {Self,no_IaC_term;no_quality_term
-raju_ai_2025,{AI,no_IaC_term;no_quality_term
-carducci_microservices_2025,The {Microservices,no_IaC_term;no_quality_term
-lepiller_analyzing_2021,Analyzing {Infrastructure,no_IaC_term
-tomtsis_icarus_2025,Icarus: {A,no_IaC_term;no_quality_term
-szandala_aiops_2025,{AIOps,no_IaC_term;no_quality_term
-konala_metadata_2025,Metadata {Assisted,no_IaC_term;no_quality_term
-clark_implementing_2025,Implementing {CI,no_IaC_term;no_quality_term
-rahman_elevating_2025,Elevating skills in {Azure,no_IaC_term;no_quality_term
-ntentos_assessing_2022,Assessing {Architecture,no_IaC_term;no_quality_term
-prates_devsecops_2024,{DevSecOps,no_IaC_term;no_quality_term
-azad_understanding_2024,Understanding {DevOps,no_IaC_term;no_quality_term
-rao_comparative_2025,A {Comparative,no_IaC_term;no_quality_term
-antonelli_dirclustering_2024,“{Dirclustering,no_IaC_term;no_quality_term
-sion_ctam_2023,Ctam: {A,no_IaC_term;no_quality_term
-lesteve_applying_2023,Applying {DevOps,no_IaC_term;no_quality_term
-kalantari_systematizing_2024,Systematizing modeler experience ({MX,no_IaC_term;no_quality_term
-lawand_making_2025,Making a {Pipeline,no_IaC_term;no_quality_term
-bhatia_debugging_2023,Debugging for {Import,no_IaC_term
-vorel_generative_2025,Generative {AI,no_IaC_term;no_quality_term
-kwon_exploring_2024,Exploring the {Feasibility,no_IaC_term;no_quality_term
-clark_introduction_2025,Introduction to {Continuous,no_IaC_term;no_quality_term
-mustafa_understanding_2023,Understanding {DevOps,no_IaC_term;no_quality_term
-chung_multivocal_2025,A {Multivocal,no_IaC_term;no_quality_term
-mahavaishnavi_secure_2024,Secure container {Orchestration,no_quality_term
-presilla_building_2022,Building {Secured,no_IaC_term;no_quality_term
-poth_make_2025,Make {Product,no_IaC_term;no_quality_term
-pylayeva_what_2024,What {You,no_IaC_term;no_quality_term
-oliveira_how_2022,How do developers collaborate? {Investigating,no_IaC_term;no_quality_term
-ahmed_security_2024,Security in {Cloud,no_IaC_term
-krishna_kaiser_introduction_2023,Introduction to {DevOps,no_IaC_term;no_quality_term
-van_merode_requirements_2023,Requirements {Analysis,no_IaC_term
-okumoto_digital_2025,Digital {Transformation,no_IaC_term;no_quality_term
-clark_fundamentals_2025,The {Fundamentals,no_IaC_term;no_quality_term
-beloki_automation_2025,Automation to {Enable,no_IaC_term;no_quality_term
-jakku_integrating_2025,Integrating {Zero,no_IaC_term;no_quality_term
-wienholt_test_2025,Test {Augmentation,no_IaC_term
-gupta_big_2025,Big {Data,no_IaC_term;no_quality_term
+azuma_empirical_2022,An empirical study on self-admitted technical debt in Dockerfiles,no_quality_term
+baruah_devops_2024,DevOps and SysOps for SAP,no_IaC_term;no_quality_term
+chiari_developing_2022,Developing a New DevOps Modelling Language to Support the Creation of Infrastructure as Code,no_quality_term
+raju_ai_2025,AI in Engineering,no_IaC_term;no_quality_term
+carducci_microservices_2025,The Microservices Abstract Style,no_IaC_term;no_quality_term
+tomtsis_icarus_2025,Icarus: A Testing-as-a-Service Utility for Serverless Functions,no_IaC_term
+szandala_aiops_2025,AIOps for Reliability: Evaluating Large Language Models for Automated Root Cause Analysis in Chaos Engineering,no_IaC_term
+konala_metadata_2025,Metadata Assisted Supply-Chain Attack Detection for Ansible,no_quality_term
+clark_implementing_2025,Implementing CI/CD Safely,no_IaC_term;no_quality_term
+rahman_elevating_2025,Elevating skills in Azure Governance and Security,no_IaC_term
+prates_devsecops_2024,DevSecOps practices and tools,no_IaC_term
+azad_understanding_2024,Understanding DevOps Critical Success Factors: A Thematic Analysis,no_IaC_term
+rao_comparative_2025,"A Comparative Analysis of Software Development Models: Waterfall, Agile and DevOps",no_IaC_term
+antonelli_dirclustering_2024,“Dirclustering”: a semantic clustering approach to optimize website structure discovery during penetration testing,no_IaC_term
+sion_ctam_2023,Ctam: A Tool for Continuous Threat Analysis and Management,no_IaC_term
+lesteve_applying_2023,Applying DevOps,no_IaC_term;no_quality_term
+kalantari_systematizing_2024,Systematizing modeler experience (MX) in model-driven engineering success stories,no_IaC_term;no_quality_term
+lawand_making_2025,Making a Pipeline Production-Ready: Challenges and Lessons Learned in the Healthcare Domain,no_IaC_term;no_quality_term
+bhatia_debugging_2023,Debugging for Import Issues and Best Practices,no_IaC_term
+vorel_generative_2025,Generative AI for IaC and Data Provisioning,no_quality_term
+clark_introduction_2025,Introduction to Continuous Integration and Continuous Deployment,no_IaC_term;no_quality_term
+mustafa_understanding_2023,Understanding DevOps Concepts,no_IaC_term;no_quality_term
+chung_multivocal_2025,"A Multivocal Literature Review on DataOps—Concepts, Benefits, and Challenges",no_IaC_term;no_quality_term
+presilla_building_2022,Building Secured Software Defined Networks by Analyzing Anomaly Detection Algorithms on Various Attacks,no_IaC_term
+poth_make_2025,Make Product and Service Requirements Shippable: From the Cloud Service Vision to a Continuous Value Stream Which Satisfies Current and Future User Needs,no_IaC_term;no_quality_term
+pylayeva_what_2024,What You Will Teach with LEGO and Chocolate Simulation,no_IaC_term;no_quality_term
+oliveira_how_2022,How do developers collaborate? Investigating GitHub heterogeneous networks,no_IaC_term;no_quality_term
+ahmed_security_2024,Security in Cloud-Native Applications with a Shift-Left Approach,no_IaC_term
+krishna_kaiser_introduction_2023,Introduction to DevOps,no_IaC_term;no_quality_term
+van_merode_requirements_2023,Requirements Analysis,no_IaC_term
+okumoto_digital_2025,Digital Transformation in Software Quality Assurance,no_IaC_term
+clark_fundamentals_2025,The Fundamentals of CI/CD,no_IaC_term;no_quality_term
+beloki_automation_2025,Automation to Enable SRE with GitHub Actions/Azure DevOps/Azure Automation,no_IaC_term;no_quality_term
+jakku_integrating_2025,Integrating Zero Trust in CI/CD: A Modern Approach to DevSecOps Security,no_IaC_term
+wienholt_test_2025,Test Augmentation with AI,no_IaC_term
+gupta_big_2025,Big Data Analysis in Biotechnology,no_IaC_term
 aditi_utilizing_2024,Utilizing convolutional neural networks for resource allocation bottleneck analysis in cloud ecosystems,no_IaC_term
-minon_artifactops_2025,{ArtifactOps,no_IaC_term;no_quality_term
-lombardi_devops_2023,From {DevOps,no_IaC_term;no_quality_term
-kumara_mlops_2025,{MLOps,no_IaC_term;no_quality_term
-sahu_future_2024,Future {Trends,no_IaC_term;no_quality_term
-soh_infrastructure_2020,Infrastructure as {Code,no_IaC_term;no_quality_term
-sahu_security_2024,Security {Standards,no_IaC_term
-salecha_what_2022,What {Is,no_IaC_term;no_quality_term
-iftikhar_future_2025,Future {Emerging,no_IaC_term;no_quality_term
-luntovskyy_advanced_2024,Advanced {Software,no_IaC_term;no_quality_term
-berton_installing_2022,Installing {Ansible,no_quality_term
-stencel_best_2025,Best {Practices,no_IaC_term
-azad_devops_2024,{DevOps,no_IaC_term;no_quality_term
-puppala_serverless_2024,Serverless {Computing,no_IaC_term;no_quality_term
-pylayeva_be_2024,Be the {Gamemaster,no_IaC_term;no_quality_term
-arabat_empirical_2024,An empirical study on cross-component dependent changes: {A,no_IaC_term;no_quality_term
+minon_artifactops_2025,ArtifactOps and ArtifactDL: a methodology and a language for conceptualizing and operationalising different types of pipelines,no_IaC_term;no_quality_term
+lombardi_devops_2023,From DevOps to DevSecOps is not enough. CyberDevOps: an extreme shifting-left architecture to bring cybersecurity within software security lifecycle pipeline,no_IaC_term
+kumara_mlops_2025,MLOps in Practice: Requirements and a Reference Architecture from Industry,no_IaC_term
+sahu_future_2024,Future Trends in PHP Application Security,no_IaC_term
+soh_infrastructure_2020,Infrastructure as Code (IaC),no_quality_term
+sahu_security_2024,Security Standards and Best Practices,no_IaC_term
+salecha_what_2022,What Is GitOps?,no_IaC_term;no_quality_term
+iftikhar_future_2025,Future Emerging Challenges and Innovations in Next Gen-Cybersecurity and Information Systems Security,no_IaC_term
+luntovskyy_advanced_2024,Advanced Software Technology Paradigms and AI Deployment,no_IaC_term;no_quality_term
+berton_installing_2022,Installing Ansible,no_quality_term
+azad_devops_2024,DevOps Challenges and Risk Mitigation Strategies by DevOps Professionals Teams,no_IaC_term;no_quality_term
+puppala_serverless_2024,Serverless Computing and DevOps: A Synergistic Approach to Modern Software Development,no_IaC_term;no_quality_term
+pylayeva_be_2024,Be the Gamemaster,no_IaC_term;no_quality_term
+arabat_empirical_2024,An empirical study on cross-component dependent changes: A case study on the components of OpenStack,no_IaC_term;no_quality_term
 callegati_investigating_2025,Investigating operational technology attacks as code,no_IaC_term;no_quality_term
-kaiser_ai_2024,{AI,no_IaC_term;no_quality_term
-kamata_intentional_2025,Intentional {Reproduction,no_IaC_term;no_quality_term
-ahmed_cicd_2024,{CI,no_IaC_term;no_quality_term
-vorel_cloud-native_2025,Cloud-{Native,no_IaC_term;no_quality_term
-russo_cloud-native_2023,Cloud-{Native,no_IaC_term;no_quality_term
-neharika_investigations_2022,Investigations into {Secure,no_IaC_term;no_quality_term
-graham_architecture_2025,Architecture {Technical,no_IaC_term;no_quality_term
-delgado-troncoso_software_2025,Software {Application,no_IaC_term;no_quality_term
-tomar_migration_2024,Migration of {Model,no_IaC_term;no_quality_term
-choi_upgrading_2024,Upgrading {Multiple,no_IaC_term;no_quality_term
-elnour_vspace_2025,{vSPACE,no_IaC_term;no_quality_term
-stencel_getting_2025,Getting {Started,no_IaC_term;no_quality_term
-selvaraj_advanced_2023,Advanced {DevOps,no_IaC_term;no_quality_term
-chowdhury_network_2025,Network {Automation,no_IaC_term;no_quality_term
-hoeppner_tools_2025,Tools and {Techniques,no_IaC_term;no_quality_term
-sosa_build_2025,Build {Software,no_IaC_term;no_quality_term
-edwards_application_2024,Application {Security,no_IaC_term
-leander_essence_2025,The {Essence,no_IaC_term;no_quality_term
-sendas_operational_2024,Operational {Excellence,no_IaC_term;no_quality_term
-azad_understanding_2023,Understanding {DevOps,no_IaC_term;no_quality_term
-gupta_continuous_2024,Continuous {Integration,no_IaC_term;no_quality_term
+kaiser_ai_2024,AI in Continuous Delivery,no_IaC_term;no_quality_term
+kamata_intentional_2025,Intentional Reproduction of Vulnerable Environments,no_IaC_term;no_quality_term
+ahmed_cicd_2024,CI/CD Pipeline in Cloud-Native DevOps,no_IaC_term;no_quality_term
+vorel_cloud-native_2025,Cloud-Native and Data-Centric Approaches,no_IaC_term;no_quality_term
+russo_cloud-native_2023,Cloud-Native Application Security Training and Testing with Cyber Ranges,no_IaC_term
+graham_architecture_2025,Architecture Technical Debt Management and Prioritization: A Systematic Mapping Study,no_IaC_term;no_quality_term
+delgado-troncoso_software_2025,Software Application to Manage the Most Frequent CI/CD Issues in a DevOps Environment,no_IaC_term;no_quality_term
+tomar_migration_2024,Migration of Model-based Software Components to Service-oriented Architectures,no_IaC_term;no_quality_term
+choi_upgrading_2024,Upgrading Multiple Cisco IOS Routers,no_IaC_term;no_quality_term
+elnour_vspace_2025,"vSPACE: Voting in a Scalable, Privacy-Aware and Confidential Election",no_IaC_term;no_quality_term
+stencel_getting_2025,Getting Started,no_IaC_term;no_quality_term
+selvaraj_advanced_2023,Advanced DevOps and Infrastructure Automation,no_IaC_term;no_quality_term
+chowdhury_network_2025,Network Automation,no_IaC_term;no_quality_term
+hoeppner_tools_2025,Tools and Techniques for Scaling SRE,no_IaC_term;no_quality_term
+sosa_build_2025,Build Software Right,no_IaC_term;no_quality_term
+edwards_application_2024,Application Security,no_IaC_term
+leander_essence_2025,The Essence of Developer Experience,no_IaC_term;no_quality_term
+sendas_operational_2024,Operational Excellence in MLOps,no_IaC_term;no_quality_term
+azad_understanding_2023,Understanding DevOps Critical Success Factors: Insights from Professionals,no_IaC_term;no_quality_term
+gupta_continuous_2024,"Continuous Integration, Delivery and Deployment: A Systematic Review of Approaches, Tools, Challenges and Practices",no_IaC_term
 park_private_2025,Private cloud bespoke orchestrator: techniques for constructing and operating bespoke-private cloud virtual machine environments for cloud users,no_IaC_term;no_quality_term
-rahman_multi-cloud_2025,Multi-{Cloud,no_IaC_term;no_quality_term
-compagnucci_safari_2025,{SAFARI,no_IaC_term;no_quality_term
-stencel_kubernetes_2025,Kubernetes on {Cloud,no_quality_term
-wienholt_designing_2025,Designing {Applications,no_IaC_term;no_quality_term
-patel_automating_2025,Automating {IAM,no_IaC_term;no_quality_term
-wienholt_infrastructure_2025,"Infrastructure, {DevOps",no_IaC_term;no_quality_term
-okumoto_star_2024,{STAR,no_IaC_term;no_quality_term
-torres-charles_xook-sec_2025,Xook-{Sec,no_IaC_term;no_quality_term
-khan_identifying_2025,Identifying and prioritizing key success factors for scaling {DevOps,no_IaC_term;no_quality_term
-aguilar_experiments_2024,Experiments as {Code,no_IaC_term;no_quality_term
-khalefa_managing_2025,Managing {HPC,no_IaC_term;no_quality_term
-kingsley_well-architected_2023,Well-{Architected,no_IaC_term;no_quality_term
-hoeppner_new_2025,New {Capabilities,no_IaC_term;no_quality_term
-benala_transforming_2025,Transforming {Software,no_IaC_term;no_quality_term
-cankar_auto-scaling_2020,Auto-scaling {Using,no_IaC_term;no_quality_term
-choi_cisco_2024,Cisco {IOS,no_IaC_term;no_quality_term
-karnaukh_research_2025,Research and {Practical,no_IaC_term;no_quality_term
-krause_scalable_2023,A {Scalable,no_IaC_term;no_quality_term
-hajizadeh_motivation_2025,Motivation and {Chapter,no_IaC_term;no_quality_term
-kica_accelerating_2025,Accelerating {Cloud,no_IaC_term;no_quality_term
-mens_introduction_2023,An {Introduction,no_IaC_term;no_quality_term
-barac_deploying_2023,Deploying {Azure,no_IaC_term;no_quality_term
-ahmed_scalability_2024,Scalability and {Autoscaling,no_quality_term
-vorel_what_2025,What “{Good,no_IaC_term;no_quality_term
+rahman_multi-cloud_2025,Multi-Cloud Environment,no_IaC_term;no_quality_term
+compagnucci_safari_2025,SAFARI: A Scalable Air-Gapped Framework for Automated Ransomware Investigation,no_IaC_term;no_quality_term
+stencel_kubernetes_2025,Kubernetes on Cloud Providers,no_quality_term
+wienholt_designing_2025,Designing Applications with Copilot,no_IaC_term;no_quality_term
+patel_automating_2025,Automating IAM Policies,no_IaC_term;no_quality_term
+wienholt_infrastructure_2025,"Infrastructure, DevOps, and Monitoring with Copilot and AI",no_IaC_term;no_quality_term
+okumoto_star_2024,STAR: An Innovative Data-Driven Solution for Software Quality Assurance,no_IaC_term
+torres-charles_xook-sec_2025,Xook-Sec: A policy-as-code framework for secure data-sharing on the computing continuum,no_IaC_term;no_quality_term
+khan_identifying_2025,Identifying and prioritizing key success factors for scaling DevOps methods in distributed software development environment using analytical hierarchy process,no_IaC_term;no_quality_term
+aguilar_experiments_2024,Experiments as Code and its application to VR studies in human-building interaction,no_IaC_term;no_quality_term
+khalefa_managing_2025,Managing HPC Cluster for Research and Teaching Workload,no_IaC_term;no_quality_term
+kingsley_well-architected_2023,Well-Architected Framework,no_IaC_term;no_quality_term
+hoeppner_new_2025,New Capabilities for the Tech Operating Model,no_IaC_term;no_quality_term
+benala_transforming_2025,Transforming Software Development: From Traditional Methods to Generative Artificial Intelligence,no_IaC_term;no_quality_term
+cankar_auto-scaling_2020,Auto-scaling Using TOSCA Infrastructure as Code,no_quality_term
+choi_cisco_2024,Cisco IOS-XE Upgrade Tools Development Part 1,no_IaC_term;no_quality_term
+karnaukh_research_2025,Research and Practical Implementation of a Framework for Teaching Students the Development of a Virtual Laboratory,no_IaC_term;no_quality_term
+krause_scalable_2023,A Scalable Architecture for Smart Genomic Data Analysis in Medical Laboratories,no_IaC_term
+hajizadeh_motivation_2025,Motivation and Chapter Overview,no_IaC_term;no_quality_term
+kica_accelerating_2025,Accelerating Cloud-Based Transcriptomics: Performance Analysis and Optimization of the STAR Aligner Workflow,no_IaC_term
+mens_introduction_2023,An Introduction to Software Ecosystems,no_IaC_term;no_quality_term
+barac_deploying_2023,Deploying Azure SQL DB Hyperscale Using Bash and Azure CLI,no_IaC_term;no_quality_term
+ahmed_scalability_2024,Scalability and Autoscaling Strategies,no_quality_term
+vorel_what_2025,What “Good” Looks Like: A Reference Architecture,no_IaC_term;no_quality_term
 kaiser_containers_2024,Containers,no_quality_term
-sousa_pattern_2025,A {Pattern,no_IaC_term;no_quality_term
-vijayaraghavan_policy_2025,Policy as {Code,no_IaC_term;no_quality_term
-carducci_distributed_2025,The {Distributed,no_IaC_term;no_quality_term
-gu_-esa_2024,A-{ESA,no_IaC_term;no_quality_term
-scott_docker_2023,Docker {Hub,no_quality_term
-andrade_study_2025,A {Study,no_IaC_term;no_quality_term
-khanna_case_2024,Case {Studies,no_IaC_term;no_quality_term
-scott_introducing_2023,Introducing {Docker,no_quality_term
-syed_key_2024,Key {Technologies,no_IaC_term;no_quality_term
-mallesh_intelligent_2025,Intelligent {Identity,no_IaC_term;no_quality_term
-rahman_scaling_2025,Scaling {Governance,no_IaC_term;no_quality_term
-beloki_azure_2025,Azure {Well,no_IaC_term;no_quality_term
-bankoff_quality_2024,Quality 4.0 in {Software,no_IaC_term
-ghane_cloud-native_2025,Cloud-{Native,no_IaC_term;no_quality_term
-battista_innovating_2025,Innovating {Cloud,no_IaC_term;no_quality_term
-revar_rag-enhanced_2025,{RAG,no_IaC_term;no_quality_term
-hartmannsgruber_improving_2024,Improving {3D,no_IaC_term;no_quality_term
-almog_serverless_2023,Serverless {Debugging,no_IaC_term
-berton_ansible_2023,Ansible for {Enterprise,no_quality_term
-cagle_ai_2024,{AI,no_IaC_term;no_quality_term
-bartlett_basic_2022,Basic {Kubernetes,no_quality_term
-baresi_sodalite_2022,The {SODALITE,no_IaC_term;no_quality_term
-prakash_introduction_2025,Introduction to {AWS,no_IaC_term;no_quality_term
-feil_stage_2024,Stage 2—{Keeping,no_IaC_term;no_quality_term
-gu_-esa_2024-1,A-{ESA,no_IaC_term;no_quality_term
-moudoud_securing_2025,Securing {O,no_IaC_term;no_quality_term
-bedoya_enhancing_2024,Enhancing {DevSecOps,no_IaC_term;no_quality_term
-acevedo_toward_2025,Toward the {Implementation,no_IaC_term;no_quality_term
-gavandi_high_2025,High {Availability,no_IaC_term;no_quality_term
-kim_domain_2024,Domain knowledge free cloud-{IDS,no_IaC_term;no_quality_term
-revar_leveraging_2025,Leveraging {Cloud,no_IaC_term;no_quality_term
-kumar_performance_2025,"Performance, portability, productivity, and security in {HPC",no_IaC_term
-goel_parameterized_2023,Parameterized {Clustering,no_IaC_term;no_quality_term
-clark_future_2025,The {Future,no_IaC_term;no_quality_term
-dileo_workweek_2025,The {Workweek,no_IaC_term;no_quality_term
-kapitsaki_generative_2024,Generative {AI,no_IaC_term;no_quality_term
-kumara_quality_2022,Quality {Assurance,no_IaC_term
-sabharwal_introduction_2021,Introduction to {Agile,no_IaC_term;no_quality_term
-langerman_operationalising_2025,Operationalising {Information,no_IaC_term;no_quality_term
-li_information_2024,Information {System,no_IaC_term;no_quality_term
-hamza_unveiling_2025,Unveiling the {Skills,no_IaC_term;no_quality_term
-patil_cloud_2025,Cloud {Computing,no_IaC_term;no_quality_term
-minna_analyzing_2025,Analyzing and mitigating (with {LLMs,no_IaC_term
-myat_towards_2025,Towards {Infrastructure,no_IaC_term;no_quality_term
-patel_introduction_2025,Introduction to {Identity,no_IaC_term;no_quality_term
-horng-jyh_virtual_2023,Virtual {Lab,no_IaC_term;no_quality_term
-syed_devsecops_2024,{DevSecOps,no_IaC_term;no_quality_term
-wang_introduction_2024,Introduction to {IaC,no_quality_term
-caballer_infrastructure_2023,Infrastructure {Manager,no_IaC_term;no_quality_term
-vorel_case_2025,The {Case,no_IaC_term;no_quality_term
-mukhopadhyay_cost_2024,Cost and energy aware migration through dependency analysis of {VM,no_IaC_term
-galvan-cruz_open-source_2024,Open-{Source,no_IaC_term;no_quality_term
-ifrah_introduction_2024,Introduction to {Azure,no_IaC_term;no_quality_term
-mishra_provisioning_2022,Provisioning {Resources,no_IaC_term;no_quality_term
-josyula_establishing_2025,Establishing {Observability,no_IaC_term;no_quality_term
-slama_holistic_2023,Holistic {AIoT,no_IaC_term;no_quality_term
-el_ghachi_web_2025,Web {Application,no_IaC_term;no_quality_term
-john_predictive_2024,Predictive digital twin driven trust model for cloud service providers with {Fuzzy,no_IaC_term;no_quality_term
-katal_evolution_2025,Evolution from {Monolithic,no_IaC_term;no_quality_term
-paintsil_eks_2025,{EKS,no_IaC_term;no_quality_term
-bhatia_basics_2023,The {Basics,no_IaC_term;no_quality_term
-rael_greenfield_2025,Greenfield: {Implementing,no_IaC_term;no_quality_term
-vorel_fragmented_2025,Fragmented {Software,no_IaC_term;no_quality_term
-edwards_network_2024,Network {Infrastructure,no_IaC_term;no_quality_term
-modi_terraform_2021,Terraform {Unit,no_quality_term
-telang_cloud-native_2022,Cloud-{Native,no_IaC_term;no_quality_term
-rajput_deciding_2023,Deciding on {Digital,no_IaC_term;no_quality_term
-vorel_future_2025,The {Future,no_IaC_term;no_quality_term
-juner_praxisbasierte_2022,Praxisbasierte {Capability,no_IaC_term;no_quality_term
-sabharwal_factors_2021,Factors {Leading,no_IaC_term;no_quality_term
-wendt_operationalizing_2025,Operationalizing {AI,no_IaC_term;no_quality_term
-stencel_configuring_2025,Configuring {Stateful,no_IaC_term;no_quality_term
+sousa_pattern_2025,A Pattern Language for Engineering Software for the Cloud,no_IaC_term;no_quality_term
+vijayaraghavan_policy_2025,Policy as Code: A Paradigm Shift in Infrastructure Security and Governance,no_IaC_term
+carducci_distributed_2025,The Distributed N-Tier Architecture Abstract Style,no_IaC_term;no_quality_term
+gu_-esa_2024,A-ESA Governance Techniques,no_IaC_term;no_quality_term
+scott_docker_2023,Docker Hub and Image Repositories,no_quality_term
+andrade_study_2025,A Study on 5G Network Slice Isolation Based on Native Cloud and Edge Computing Tools,no_IaC_term;no_quality_term
+khanna_case_2024,Case Studies in Cloud Computing,no_IaC_term;no_quality_term
+scott_introducing_2023,Introducing Docker and Oracle,no_quality_term
+syed_key_2024,Key Technologies in Supply Chain Security,no_IaC_term
+mallesh_intelligent_2025,Intelligent Identity Orchestration with AI-Driven Policy Reconciliation for Multi-Cloud Security,no_IaC_term
+rahman_scaling_2025,Scaling Governance with Azure Blueprints,no_IaC_term;no_quality_term
+beloki_azure_2025,Azure Well-Architected Framework (WAF),no_IaC_term;no_quality_term
+bankoff_quality_2024,Quality 4.0 in Software Engineering: Incorporating Scaled Agile Insights to a Framework Proposal,no_IaC_term
+ghane_cloud-native_2025,Cloud-Native Phenomena,no_IaC_term;no_quality_term
+battista_innovating_2025,Innovating Cloud-Based Academic Services: Advancing the University of Naples Federico II’s Infrastructure with Terraform and Oracle GoldenGate,no_quality_term
+revar_rag-enhanced_2025,RAG-Enhanced Spam Detection Framework: A Synergy of Cloud Scalability and Adaptive AI Models,no_IaC_term;no_quality_term
+hartmannsgruber_improving_2024,Improving 3D Object Detection for Autonomous Driving – A Case Study of Data-Driven Development,no_IaC_term;no_quality_term
+almog_serverless_2023,Serverless Debugging,no_IaC_term
+berton_ansible_2023,Ansible for Enterprise,no_quality_term
+cagle_ai_2024,AI Agents,no_IaC_term;no_quality_term
+bartlett_basic_2022,Basic Kubernetes Management,no_quality_term
+baresi_sodalite_2022,The SODALITE Approach: An Overview,no_IaC_term;no_quality_term
+prakash_introduction_2025,Introduction to AWS,no_IaC_term;no_quality_term
+feil_stage_2024,Stage 2—Keeping Costs and Cloud Usage Under Control,no_IaC_term;no_quality_term
+gu_-esa_2024-1,A-ESA Measurement,no_IaC_term;no_quality_term
+moudoud_securing_2025,Securing O-RAN with Zero Trust Architecture and Large Language Models,no_IaC_term;no_quality_term
+bedoya_enhancing_2024,Enhancing DevSecOps practice with Large Language Models and Security Chaos Engineering,no_IaC_term
+acevedo_toward_2025,"Toward the Implementation of DevOps: A Guide of Tools, Practices and Activities",no_IaC_term
+gavandi_high_2025,"High Availability and Disaster Recovery: Designing for Resilience, Redundancy, and Business Continuity in Azure",no_IaC_term;no_quality_term
+kim_domain_2024,Domain knowledge free cloud-IDS with lightweight embedding method,no_IaC_term;no_quality_term
+revar_leveraging_2025,Leveraging Cloud Resources for Machine Learning-Based Spam Detection API,no_IaC_term;no_quality_term
+kumar_performance_2025,"Performance, portability, productivity, and security in HPC cloud: a systematic literature review",no_IaC_term
+goel_parameterized_2023,Parameterized Clustering Cleaning Approach for High-Dimensional Datasets with Class Overlap and Imbalance,no_IaC_term;no_quality_term
+clark_future_2025,The Future of CI/CD,no_IaC_term;no_quality_term
+dileo_workweek_2025,The Workweek,no_IaC_term;no_quality_term
+kapitsaki_generative_2024,Generative AI for Code Generation: Software Reuse Implications,no_IaC_term;no_quality_term
+kumara_quality_2022,Quality Assurance and Design-Time Optimization,no_IaC_term
+sabharwal_introduction_2021,Introduction to Agile Methods,no_IaC_term;no_quality_term
+langerman_operationalising_2025,Operationalising Information Systems Resilience Within the Financial Services Sector,no_IaC_term;no_quality_term
+li_information_2024,Information System Failure Prediction Technology Based on Ansible Automated Operation and Maintenance,no_quality_term
+hamza_unveiling_2025,Unveiling the Skills and Responsibilities of Serverless Practitioners: An Empirical Investigation,no_IaC_term;no_quality_term
+patil_cloud_2025,Cloud Computing for Industry 5.0,no_IaC_term;no_quality_term
+myat_towards_2025,Towards Infrastructure Automation Using IaC in the Era of GenAI,no_quality_term
+patel_introduction_2025,Introduction to Identity and Access Management on Google Cloud Platform,no_IaC_term;no_quality_term
+horng-jyh_virtual_2023,Virtual Lab Workspace for Programming Computers – Towards Agile STEM Education,no_IaC_term;no_quality_term
+syed_devsecops_2024,DevSecOps Integration in Supply Chain Security,no_IaC_term
+wang_introduction_2024,Introduction to IaC and Terraform,no_quality_term
+caballer_infrastructure_2023,Infrastructure Manager: A TOSCA-Based Orchestrator for the Computing Continuum,no_quality_term
+vorel_case_2025,The Case for Standardization: Building the Foundation for NoOps,no_IaC_term;no_quality_term
+mukhopadhyay_cost_2024,Cost and energy aware migration through dependency analysis of VM components in virtual cloud infrastructure,no_IaC_term
+galvan-cruz_open-source_2024,Open-Source Tools and Their Coverage to Implement DevOps,no_IaC_term;no_quality_term
+ifrah_introduction_2024,Introduction to Azure AI and OpenAI,no_IaC_term;no_quality_term
+mishra_provisioning_2022,Provisioning Resources with Azure DevOps and Azure CLI,no_IaC_term;no_quality_term
+josyula_establishing_2025,"Establishing Observability Foundations in Istio: Infrastructure, Tracing, and Metrics",no_IaC_term;no_quality_term
+slama_holistic_2023,Holistic AIoT DevOps,no_IaC_term;no_quality_term
+el_ghachi_web_2025,Web Application Security: A Review of Broken Access Control in Web Applications,no_IaC_term
+john_predictive_2024,Predictive digital twin driven trust model for cloud service providers with Fuzzy inferred trust score calculation,no_IaC_term;no_quality_term
+katal_evolution_2025,Evolution from Monolithic to Microservices Architecture: A New Era in Software Architecture,no_IaC_term;no_quality_term
+paintsil_eks_2025,EKS Implementations,no_IaC_term;no_quality_term
+bhatia_basics_2023,The Basics of Reverse Engineering,no_IaC_term;no_quality_term
+rael_greenfield_2025,Greenfield: Implementing New Systems with .NET Aspire,no_IaC_term;no_quality_term
+vorel_fragmented_2025,Fragmented Software Development: Why DevOps Isn’t Always Enough,no_IaC_term;no_quality_term
+edwards_network_2024,Network Infrastructure Management,no_IaC_term;no_quality_term
+telang_cloud-native_2022,Cloud-Native Application Development,no_IaC_term;no_quality_term
+rajput_deciding_2023,Deciding on Digital Architectural Frameworks and Best Practices,no_IaC_term
+vorel_future_2025,The Future of Software Development,no_IaC_term;no_quality_term
+juner_praxisbasierte_2022,Praxisbasierte Capability-Modelle für DevOps-Einsätze in Unternehmen,no_IaC_term;no_quality_term
+sabharwal_factors_2021,Factors Leading to Agile Operations,no_IaC_term;no_quality_term
+wendt_operationalizing_2025,Operationalizing AI,no_IaC_term;no_quality_term
+stencel_configuring_2025,Configuring Stateful Applications,no_IaC_term;no_quality_term
 okpara_role_2023,The role of informal communication in building shared understanding of non-functional requirements in remote continuous software engineering,no_IaC_term;no_quality_term
-frati_cybersecurity_2024,Cybersecurity training and healthcare: the {AERAS,no_IaC_term
-smart_devops_2022,{DevOps,no_IaC_term;no_quality_term
-gajewski_case_2024,Case {Study,no_IaC_term;no_quality_term
-dupont_product_2023,Product {Incremental,no_IaC_term;no_quality_term
-caterino_remanufacturing_2025,Remanufacturing as a {Service,no_IaC_term;no_quality_term
-tasic_reinforcing_2024,Reinforcing cybersecurity with {Bloom,no_IaC_term
-dalla_palma_devops_2021,{DevOps,no_IaC_term;no_quality_term
-kingsley_cloud_2023,Cloud {Industry,no_IaC_term;no_quality_term
+frati_cybersecurity_2024,Cybersecurity training and healthcare: the AERAS approach,no_IaC_term
+smart_devops_2022,DevOps and Tooling,no_IaC_term;no_quality_term
+gajewski_case_2024,Case Study: Applying Automated Optimization Tooling to Microservice Environments that Scale Safely at Ancestry.com and the Learnings,no_IaC_term;no_quality_term
+dupont_product_2023,Product Incremental Security Risk Assessment Using DevSecOps Practices,no_IaC_term
+caterino_remanufacturing_2025,Remanufacturing as a Service: A New Approach to Reduce Remanufacturing Related Barriers,no_IaC_term;no_quality_term
+tasic_reinforcing_2024,Reinforcing cybersecurity with Bloom filters: a novel approach to password cracking efficiency,no_IaC_term
+dalla_palma_devops_2021,DevOps and Quality Management in Serverless Computing: The RADON Approach,no_IaC_term
+kingsley_cloud_2023,Cloud Industry Trends,no_IaC_term;no_quality_term
 smart_architecture_2022,Architecture,no_IaC_term;no_quality_term
 kanumuri_automation_2024,Automation,no_IaC_term;no_quality_term
-nastic_self-provisioning_2024,Self-{Provisioning,no_IaC_term;no_quality_term
-cauli_actions_2022,Actions over {Core,no_IaC_term;no_quality_term
-rahman_modern_2025,Modern {Governance,no_IaC_term;no_quality_term
-wang_key_2024,Key {Concepts,no_IaC_term;no_quality_term
-choi_cisco_2023,Cisco {Wireless,no_IaC_term;no_quality_term
-rehan_generative_2025,Generative {AI,no_IaC_term;no_quality_term
-gu_-esa_2024-2,A-{ESA,no_IaC_term;no_quality_term
-madhyastha_neuroimaging_2024,Neuroimaging {Workflows,no_IaC_term;no_quality_term
-christudas_microservices_2024,Microservices in {AWS,no_IaC_term;no_quality_term
-mishra_providing_2025,Providing {Practical,no_IaC_term;no_quality_term
-hilpert_developing_2023,Developing a {Fully,no_IaC_term;no_quality_term
-pando_devops_2024,{DevOps,no_IaC_term;no_quality_term
-feil_three_2024,The {Three,no_IaC_term;no_quality_term
-lesteve_managing_2023,Managing {Agile,no_IaC_term;no_quality_term
+nastic_self-provisioning_2024,Self-Provisioning Infrastructures for the Next Generation Serverless Computing,no_IaC_term;no_quality_term
+cauli_actions_2022,Actions over Core-Closed Knowledge Bases,no_IaC_term;no_quality_term
+rahman_modern_2025,Modern Governance in the Cloud,no_IaC_term;no_quality_term
+wang_key_2024,Key Concepts of Terraform,no_quality_term
+choi_cisco_2023,Cisco Wireless LAN Controller Upgrading Playbook,no_IaC_term;no_quality_term
+rehan_generative_2025,Generative AI and Cybersecurity in AWS,no_IaC_term
+gu_-esa_2024-2,A-ESA Modeling by Example,no_IaC_term;no_quality_term
+madhyastha_neuroimaging_2024,Neuroimaging Workflows in the Cloud,no_IaC_term;no_quality_term
+christudas_microservices_2024,Microservices in AWS Elastic Compute Cloud,no_IaC_term;no_quality_term
+mishra_providing_2025,Providing Practical Guidance,no_IaC_term;no_quality_term
+hilpert_developing_2023,Developing a Fully Automated Prototype for Scaling Automotive Software Tests in the Cloud,no_IaC_term
+pando_devops_2024,DevOps Adoption: A Tertiary Study,no_IaC_term;no_quality_term
+feil_three_2024,The Three Phases of Cloud Adoption,no_IaC_term;no_quality_term
+lesteve_managing_2023,Managing Agile Cloud Projects,no_IaC_term;no_quality_term
 wu_characterizing_2024,Characterizing and classifying developer forum posts with their intentions,no_IaC_term;no_quality_term
-beilharz_continuously_2022,Continuously {Testing,no_IaC_term
+beilharz_continuously_2022,Continuously Testing Distributed IoT Systems: An Overview of the State of the Art,no_IaC_term
 smart_strategy_2022,Strategy,no_IaC_term;no_quality_term
-mustafa_aws_2023,{AWS,no_IaC_term;no_quality_term
-cochran_securing_2024,Securing the {Cloud,no_IaC_term;no_quality_term
-kumara_quality_2021,Quality {Assurance,no_IaC_term
-zhang_cbdc_2024,{CBDC,no_IaC_term;no_quality_term
-khushalani_cicd_2022,{CI,no_IaC_term;no_quality_term
-gavandi_observability_2025,"Observability, {Cost",no_IaC_term;no_quality_term
-sutherland_cloud_2024,‘{The,no_IaC_term;no_quality_term
-lumpatki_implementing_2024,Implementing “{DevSecOps,no_IaC_term;no_quality_term
-mishra_onnyx_2025,{ONNYX,no_IaC_term;no_quality_term
-beloki_automation_2022,Automation to {Enable,no_IaC_term;no_quality_term
-friedrich_general_2024,General {Discussion,no_IaC_term;no_quality_term
-vahdati_model-driven_2025,Model-{Driven,no_IaC_term;no_quality_term
-lloyd_other_2022,Other {Key,no_IaC_term;no_quality_term
-rael_deploying_2025,Deploying {Your,no_IaC_term;no_quality_term
-rahman_contemporary_2025,Contemporary {Azure,no_IaC_term;no_quality_term
-baruah_introduction_2024,Introduction: {Why,no_IaC_term;no_quality_term
-baars_dataops_2025,{DataOps,no_IaC_term;no_quality_term
-kozhevin_choosing_2024,Choosing the {Right,no_IaC_term;no_quality_term
-rael_wrapping_2025,Wrapping {Up,no_IaC_term;no_quality_term
-zalila_modmacao_2022,{MoDMaCAO,no_IaC_term;no_quality_term
-aljawawdeh_toward_2023,Toward {Serverless,no_IaC_term;no_quality_term
-balon_cybercompetitions_2023,Cybercompetitions: {A,no_IaC_term;no_quality_term
-ul_haq_extending_2024,Extending a {Low,no_IaC_term;no_quality_term
-murthy_cloud_2024,Cloud {Framework,no_IaC_term;no_quality_term
-ahmed_open-source_2024,Open-{Source,no_IaC_term;no_quality_term
-feil_assessmentdetermine_2024,Assessment—{Determine,no_IaC_term;no_quality_term
-feil_stage_2024-1,Stage 1—{Cloud,no_IaC_term;no_quality_term
-edwards_cloud_2024,Cloud {Security,no_IaC_term
-prakash_using_2024,Using {AI,no_IaC_term;no_quality_term
-hamsavath_automated_2025,Automated {CI,no_IaC_term;no_quality_term
-patil_building_2025,Building and {Deploying,no_IaC_term;no_quality_term
-sunil_manohar_reddy_study_2024,A {Study,no_IaC_term;no_quality_term
-kaur_drap-cpu_2024,{DRAP,no_IaC_term;no_quality_term
-colom_development_2023,Development {Efforts,no_IaC_term;no_quality_term
-patel_managing_2025,Managing {Multicloud,no_IaC_term;no_quality_term
-shvaika_distributed_2025,A distributed architecture for {MQTT,no_IaC_term;no_quality_term
-lesteve_adopting_2023,Adopting a {Cloud,no_IaC_term;no_quality_term
-piedade_visual_2022,Visual notations in container orchestrations: an empirical study with {Docker,no_quality_term
-van_merode_pitfalls_2023,The {Pitfalls,no_IaC_term;no_quality_term
-rahman_future_2025,Future {Directions,no_IaC_term;no_quality_term
-diaz-sanchez_hybrid_2022,A {Hybrid,no_IaC_term;no_quality_term
-vadlamani_postgresql_2024,{PostgreSQL,no_IaC_term;no_quality_term
-ghane_observability_2025,Observability {Engineering,no_IaC_term;no_quality_term
-lad_introduction_2022,Introduction: {Dimensions,no_IaC_term;no_quality_term
-rendon_building_2022,Building {Your,no_IaC_term;no_quality_term
-sharma_development_2024,Development and {Evaluation,no_IaC_term;no_quality_term
-sendas_mlops_2024,{MLOps,no_IaC_term;no_quality_term
-van_merode_pipeline_2023,Pipeline {Design,no_IaC_term;no_quality_term
-wang_getting_2024,Getting {Started,no_IaC_term;no_quality_term
-rahman_exercise_2021,Exercise {Perceptions,no_IaC_term;no_quality_term
-rael_introducing_2025,Introducing .{NET,no_IaC_term;no_quality_term
-shvedenko_analyzing_2024,Analyzing {Toolkits,no_IaC_term
-grunewald_cloud_2022,Cloud {Native,no_IaC_term;no_quality_term
-paul_ui_2023,{UI,no_IaC_term;no_quality_term
-kanumuri_cloud_2024,Cloud {Cost,no_IaC_term;no_quality_term
+mustafa_aws_2023,AWS Services for Continuous Integration,no_IaC_term;no_quality_term
+cochran_securing_2024,Securing the Cloud: A Comprehensive Guide to Cloud Security,no_IaC_term
+kumara_quality_2021,Quality Assurance of Heterogeneous Applications: The SODALITE Approach,no_IaC_term
+zhang_cbdc_2024,CBDC Security,no_IaC_term
+khushalani_cicd_2022,CI/CD Systems,no_IaC_term;no_quality_term
+gavandi_observability_2025,"Observability, Cost Optimization, and Compliance: Building a Transparent, Efficient, and Governable Azure Infrastructure",no_IaC_term;no_quality_term
+sutherland_cloud_2024,‘The Cloud is Not Not IT’: Ecological Change in Research Computing in the Cloud,no_IaC_term;no_quality_term
+lumpatki_implementing_2024,"Implementing “DevSecOps as a Culture”—The Concept, Benefits, Execution Strategies, and Challenges",no_IaC_term;no_quality_term
+mishra_onnyx_2025,ONNYX : Optimized Neural Networks Yielding eXplainable Insights from ECG Signals-Based Data Streams,no_IaC_term;no_quality_term
+beloki_automation_2022,Automation to Enable SRE with GitHub Actions/Azure DevOps/Azure Automation,no_IaC_term;no_quality_term
+friedrich_general_2024,General Discussion,no_IaC_term;no_quality_term
+vahdati_model-driven_2025,Model-Driven Development of Chatbot Microservices,no_IaC_term;no_quality_term
+lloyd_other_2022,Other Key Day 2 Products and Services,no_IaC_term;no_quality_term
+rael_deploying_2025,Deploying Your Aspire-Based System,no_IaC_term;no_quality_term
+rahman_contemporary_2025,Contemporary Azure Naming Conventions and Standards,no_IaC_term;no_quality_term
+baruah_introduction_2024,Introduction: Why Evolve from Infrastructure to Innovation with SAP on AWS?,no_IaC_term;no_quality_term
+baars_dataops_2025,DataOps as a Prerequisite for the Next Level of Self-service Analytics—Balancing User Agency and Central Control,no_IaC_term;no_quality_term
+kozhevin_choosing_2024,Choosing the Right CI/CD Platform,no_IaC_term;no_quality_term
+rael_wrapping_2025,Wrapping Up,no_IaC_term;no_quality_term
+zalila_modmacao_2022,"MoDMaCAO: a model-driven framework for the design, validation and configuration management of cloud applications based on OCCI",no_IaC_term
+aljawawdeh_toward_2023,"Toward Serverless and Microservices Architecture: Literature, Methods, and Best Practices",no_IaC_term
+balon_cybercompetitions_2023,"Cybercompetitions: A survey of competitions, tools, and systems to support cybersecurity education",no_IaC_term
+ul_haq_extending_2024,Extending a Low-Code Tool with Multi-cloud Deployment Capabilities,no_IaC_term;no_quality_term
+murthy_cloud_2024,Cloud Framework for Data Practitioners for Research and Higher Education Community,no_IaC_term;no_quality_term
+ahmed_open-source_2024,Open-Source Tools for Cloud-Native DevOps,no_IaC_term;no_quality_term
+feil_assessmentdetermine_2024,Assessment—Determine Your Readiness Level for Cloud Readiness,no_IaC_term;no_quality_term
+feil_stage_2024-1,Stage 1—Cloud Strategy and Launch Phase,no_IaC_term;no_quality_term
+edwards_cloud_2024,Cloud Security,no_IaC_term
+prakash_using_2024,Using AI Planning to Automate Cloud Infrastructure,no_IaC_term;no_quality_term
+hamsavath_automated_2025,Automated CI/CD Pipeline: A DevOps Approach for Deploy Containerized Applications,no_quality_term
+patil_building_2025,Building and Deploying a Useful CLI Tool,no_IaC_term;no_quality_term
+sunil_manohar_reddy_study_2024,A Study on Benefits of Continuous Integration and Continuous Delivery in Software Engineering,no_IaC_term;no_quality_term
+kaur_drap-cpu_2024,DRAP-CPU: a novel vm migration approach through a dynamic prioritized resource allocation strategy,no_IaC_term;no_quality_term
+colom_development_2023,"Development Efforts for Reproducible Research: Platform, Library and Editorial Investment",no_IaC_term;no_quality_term
+patel_managing_2025,Managing Multicloud and Hybrid IAM,no_IaC_term;no_quality_term
+shvaika_distributed_2025,A distributed architecture for MQTT messaging: the case of TBMQ,no_IaC_term;no_quality_term
+lesteve_adopting_2023,Adopting a Cloud Platform,no_IaC_term;no_quality_term
+piedade_visual_2022,Visual notations in container orchestrations: an empirical study with Docker Compose,no_quality_term
+van_merode_pitfalls_2023,The Pitfalls of CI/CD,no_IaC_term;no_quality_term
+rahman_future_2025,Future Directions in Cloud Governance and Security,no_IaC_term
+diaz-sanchez_hybrid_2022,A Hybrid Approach to Ephemeral PKI Credentials Validation and Auditing,no_IaC_term
+vadlamani_postgresql_2024,PostgreSQL on AWS RDS/Azure SQL Database,no_IaC_term;no_quality_term
+ghane_observability_2025,Observability Engineering Fundamentals,no_IaC_term;no_quality_term
+lad_introduction_2022,Introduction: Dimensions of Cloud Security,no_IaC_term
+rendon_building_2022,Building Your Environment with Azure DevOps and ARM Templates,no_quality_term
+sharma_development_2024,Development and Evaluation of Network Utilities Using Python for Efficient Management,no_IaC_term;no_quality_term
+sendas_mlops_2024,MLOps Reliability in AI/ML,no_IaC_term
+van_merode_pipeline_2023,Pipeline Design,no_IaC_term;no_quality_term
+wang_getting_2024,Getting Started with Terraform,no_quality_term
+rahman_exercise_2021,Exercise Perceptions: Experience Report from a Secure Software Development Course,no_IaC_term;no_quality_term
+rael_introducing_2025,Introducing .NET Aspire,no_IaC_term;no_quality_term
+shvedenko_analyzing_2024,Analyzing Toolkits for the Development of Information Support for Smart Spaces,no_IaC_term
+grunewald_cloud_2022,Cloud Native Privacy Engineering through DevPrivOps,no_IaC_term;no_quality_term
+paul_ui_2023,UI Component and Authentication,no_IaC_term;no_quality_term
+kanumuri_cloud_2024,Cloud Cost Visibility,no_IaC_term;no_quality_term
 zaeske_background_2022,Background,no_IaC_term;no_quality_term
-prakash_cloud_2025,Cloud {DevOps,no_IaC_term;no_quality_term
-huang_securing_2025,Securing {Multi,no_IaC_term;no_quality_term
-goniwada_microservices_2021,Microservices {Architecture,no_IaC_term;no_quality_term
+prakash_cloud_2025,Cloud DevOps,no_IaC_term;no_quality_term
+huang_securing_2025,Securing Multi-Modal Agentic AI Systems,no_IaC_term;no_quality_term
+goniwada_microservices_2021,Microservices Architecture and Design,no_IaC_term;no_quality_term
 qiu_virtual_2024,Virtual monitoring method for computer network security in earth observation communication using multi ant colony random walk classification algorithm,no_IaC_term
-wendt_team_2025,The {Team,no_IaC_term;no_quality_term
-das_codescribe_2023,{CoDescribe,no_IaC_term;no_quality_term
-mito_feature-based_2023,Feature-{Based,no_IaC_term;no_quality_term
-singh_review_2025,A {Review,no_IaC_term;no_quality_term
-rahman_enhanced_2025,Enhanced {Security,no_IaC_term
-berton_ansible_2023-2,Ansible {Language,no_quality_term
-salecha_introduction_2022,Introduction to {Terraform,no_quality_term
+wendt_team_2025,The Team,no_IaC_term;no_quality_term
+das_codescribe_2023,CoDescribe: An Intelligent Code Analyst for Enhancing Productivity and Software Quality,no_IaC_term
+mito_feature-based_2023,Feature-Based Cloud Provisioning for Rehosting,no_IaC_term;no_quality_term
+singh_review_2025,"A Review on Interplay of AutoML and MLOps “AutoMLOps”: Current State, Challenges, and Future Scope",no_IaC_term;no_quality_term
+rahman_enhanced_2025,Enhanced Security with Microsoft Defender for Cloud,no_IaC_term
+berton_ansible_2023-2,Ansible Language Code,no_quality_term
+salecha_introduction_2022,Introduction to Terraform Cloud and Workspaces,no_quality_term
 goniwada_designing_2021,Designing for “-ilities”,no_IaC_term;no_quality_term
-sorvisto_introducing_2023,Introducing {MLOps,no_IaC_term;no_quality_term
-rall_os4ml_2024,{OS4ML,no_IaC_term;no_quality_term
-pianini_smart_2024,Smart {Collective,no_IaC_term;no_quality_term
-feil_stage_2024-2,Stage 3—{Using,no_IaC_term;no_quality_term
-plazotta_data_2024,Data {Architectures,no_IaC_term;no_quality_term
-poth_engineering_2025,Engineering of {Sustainability,no_IaC_term;no_quality_term
-suhail_framework_2025,A {Framework,no_IaC_term;no_quality_term
-josyula_emerging_2025,Emerging {Trends,no_IaC_term;no_quality_term
-camargo_deploying_2023,Deploying {Deep,no_IaC_term;no_quality_term
-bhatnagar_overview_2025,Overview of {Microservices,no_IaC_term;no_quality_term
-provenzano_circular_2025,Circular {Economy,no_IaC_term;no_quality_term
-hoeppner_sre_2025,{SRE,no_IaC_term;no_quality_term
-rupani_ai_2025,{AI,no_IaC_term;no_quality_term
-rahman_implementing_2025,Implementing {Zero,no_IaC_term;no_quality_term
-sendas_mlops_2024-1,{MLOps,no_IaC_term;no_quality_term
-faubel_mlops_2023,{MLOps,no_IaC_term;no_quality_term
-josyula_deploying_2025,Deploying {Istio,no_IaC_term;no_quality_term
-hoeppner_influence_2025,Influence of {AI,no_IaC_term;no_quality_term
-udayakumar_design_2023,Design and {Deploy,no_IaC_term;no_quality_term
-barac_deploying_2023-1,Deploying {Azure,no_IaC_term;no_quality_term
-ferreira_infragenie_2025,Infragenie: {Living,no_IaC_term;no_quality_term
-kuppam_organization_2024,Organization {Structure,no_IaC_term;no_quality_term
-belouaddane_microservice_2024,Microservice {Architecture,no_IaC_term;no_quality_term
-lloyd_cloud-native_2022,Cloud-{Native,no_IaC_term;no_quality_term
-branco_cloud-native_2024,Cloud-{Native,no_IaC_term;no_quality_term
-mustafa_devops_2023,{DevOps,no_IaC_term;no_quality_term
-scott_understanding_2023,Understanding the {Container,no_quality_term
-chatterjee_security_2020,Security in {DevOps,no_IaC_term
-hacioglu_observability_2024,Observability and {Learnability,no_IaC_term;no_quality_term
-lloyd_additional_2022,Additional {Workload,no_IaC_term;no_quality_term
-chowdhury_toward_2025,Toward {Intelligent,no_IaC_term;no_quality_term
-matter_scaling_2025,Scaling {Web,no_IaC_term;no_quality_term
-pandya_production_2022,Production {Complexity,no_IaC_term;no_quality_term
-bhatia_life-cycle_2023,Life-{Cycle,no_IaC_term;no_quality_term
-sorvisto_infrastructure_2023,Infrastructure for {MLOps,no_IaC_term;no_quality_term
-udayakumar_managing_2022,Managing and {Securing,no_IaC_term;no_quality_term
-beuran_cyber_2025,Cyber {Ranges,no_IaC_term;no_quality_term
-gorronogoitia_sodalite_2022,The {SODALITE,no_IaC_term;no_quality_term
-bauer_artificial_2022,Artificial {Intelligence,no_IaC_term;no_quality_term
-ozkan_refactoring_2023,Refactoring with domain-driven design in an industrial context: {An,no_IaC_term;no_quality_term
-srivastava_customer_2025,Customer {Case,no_IaC_term;no_quality_term
-copei_industrial_2025,Industrial {Views,no_IaC_term;no_quality_term
-kapetanidou_cognitive_2025,Cognitive {Computing,no_IaC_term;no_quality_term
-lyu_going_2023,Going {Serverless,no_IaC_term;no_quality_term
-sagar_cloud_2022,Cloud: {On,no_IaC_term;no_quality_term
-huang_ai_2025,{AI,no_IaC_term;no_quality_term
-demchenko_data_2024,Data {Science,no_IaC_term;no_quality_term
+sorvisto_introducing_2023,Introducing MLOps,no_IaC_term;no_quality_term
+rall_os4ml_2024,OS4ML: Open Space for Machine Learning,no_IaC_term;no_quality_term
+pianini_smart_2024,Smart Collective Services in the Edge–Cloud Continuum Based on a Simulation-Driven Toolchain,no_IaC_term;no_quality_term
+feil_stage_2024-2,Stage 3—Using Innovative Technologies and Expanding Cloud Usage,no_IaC_term;no_quality_term
+plazotta_data_2024,Data Architectures in Cloud Environments,no_IaC_term;no_quality_term
+poth_engineering_2025,Engineering of Sustainability with Existing Levers in Cloud Services,no_IaC_term;no_quality_term
+suhail_framework_2025,A Framework for Applying Digital Twins to Support Incident Response,no_IaC_term;no_quality_term
+josyula_emerging_2025,Emerging Trends and the Future of Istio,no_IaC_term;no_quality_term
+camargo_deploying_2023,Deploying Deep Learning Models Using Serverless Computing for Diabetic Retinopathy Detection,no_IaC_term;no_quality_term
+bhatnagar_overview_2025,Overview of Microservices,no_IaC_term;no_quality_term
+provenzano_circular_2025,"Circular Economy, Bioeconomy and Ecosystem Services: The Craftsmanship Activities in Sicily",no_IaC_term;no_quality_term
+hoeppner_sre_2025,SRE Transformation Exemplified on Two Deep Dives,no_IaC_term;no_quality_term
+rupani_ai_2025,AI TRiSM in Cloud Security: Leveraging AI-Powered DevSecOps for Robust Security Management,no_IaC_term
+rahman_implementing_2025,Implementing Zero Trust Architecture in Azure,no_IaC_term;no_quality_term
+sendas_mlops_2024-1,MLOps Security in AI/ML,no_IaC_term
+faubel_mlops_2023,MLOps Challenges in Industry 4.0,no_IaC_term;no_quality_term
+josyula_deploying_2025,Deploying Istio in Production,no_IaC_term;no_quality_term
+hoeppner_influence_2025,Influence of AI and Generative AI in SRE Adoption,no_IaC_term;no_quality_term
+udayakumar_design_2023,Design and Deploy a Recovery Solution,no_IaC_term;no_quality_term
+barac_deploying_2023-1,Deploying Azure SQL DB Hyperscale Using PowerShell,no_IaC_term;no_quality_term
+ferreira_infragenie_2025,Infragenie: Living Software Architecture Diagrams From Docker Compose Files,no_quality_term
+kuppam_organization_2024,Organization Structure and Skill Set Challenges,no_IaC_term;no_quality_term
+belouaddane_microservice_2024,Microservice Architecture DevOps Integration Challenges: A Qualitative Study,no_IaC_term;no_quality_term
+lloyd_cloud-native_2022,Cloud-Native Development,no_IaC_term;no_quality_term
+branco_cloud-native_2024,Cloud-Native Software Development Life Cycle: A Case Study with Italian Ministry of Justice,no_IaC_term;no_quality_term
+mustafa_devops_2023,DevOps Security (DevSecOps),no_IaC_term
+scott_understanding_2023,Understanding the Container Landscape,no_quality_term
+chatterjee_security_2020,Security in DevOps and Automation,no_IaC_term
+hacioglu_observability_2024,Observability and Learnability as Opposed to ‘Seen and Unseen’,no_IaC_term;no_quality_term
+lloyd_additional_2022,Additional Workload Architectural Considerations,no_IaC_term;no_quality_term
+chowdhury_toward_2025,Toward Intelligent and Self-Healing Networks,no_IaC_term;no_quality_term
+matter_scaling_2025,Scaling Web Mining in the Cloud,no_IaC_term;no_quality_term
+pandya_production_2022,Production Complexity Management,no_IaC_term;no_quality_term
+bhatia_life-cycle_2023,Life-Cycle Management After Import,no_IaC_term;no_quality_term
+sorvisto_infrastructure_2023,Infrastructure for MLOps,no_IaC_term;no_quality_term
+udayakumar_managing_2022,Managing and Securing AVD Solution,no_IaC_term;no_quality_term
+beuran_cyber_2025,Cyber Ranges,no_IaC_term;no_quality_term
+gorronogoitia_sodalite_2022,The SODALITE Model-Driven Approach,no_IaC_term;no_quality_term
+bauer_artificial_2022,"Artificial Intelligence in Medicine: Applications, Limitations and Future Directions",no_IaC_term;no_quality_term
+ozkan_refactoring_2023,Refactoring with domain-driven design in an industrial context: An action research report,no_IaC_term;no_quality_term
+srivastava_customer_2025,Customer Case Studies,no_IaC_term;no_quality_term
+copei_industrial_2025,Industrial Views on DevOps Adoption Before and After Implementation: A Qualitative Comparison,no_IaC_term;no_quality_term
+kapetanidou_cognitive_2025,Cognitive Computing Continuum: State-of-the-Art Review and ENACT Vision \&amp; Approach,no_IaC_term;no_quality_term
+lyu_going_2023,Going Serverless with the Amazon AWS Rust SDK,no_IaC_term;no_quality_term
+sagar_cloud_2022,Cloud: On Demand Computing Resources for Scale and Speed,no_IaC_term;no_quality_term
+huang_ai_2025,AI Agent Tools and Frameworks,no_IaC_term;no_quality_term
+demchenko_data_2024,"Data Science Projects Management, DataOps, MLOPs",no_IaC_term;no_quality_term
 rumbelow_infrastructure_2023,Infrastructure,no_IaC_term;no_quality_term
-penberthy_moving_2022,Moving to {Virtual,no_IaC_term;no_quality_term
-lates_cyber_2023,Cyber {Range,no_IaC_term;no_quality_term
-buchanan_gitops_2021,{GitOps,no_IaC_term;no_quality_term
-gupta_databricks_2024,Databricks {Platform,no_IaC_term;no_quality_term
-xu_hypertasking_2025,Hypertasking: {From,no_IaC_term;no_quality_term
-ahmadpanah_fleximigrate_2025,{FlexiMigrate,no_IaC_term;no_quality_term
-krishna_kaiser_teams_2023,Teams and {Structures,no_IaC_term;no_quality_term
-ifrah_install_2024,Install {Tools,no_IaC_term;no_quality_term
-stocker_ict_2022,An {ICT,no_IaC_term;no_quality_term
-hitchcock_estate_2022,Estate {Management,no_IaC_term;no_quality_term
-mishra_case_2024,Case {Studies,no_IaC_term;no_quality_term
-goniwada_datafication_2023,Datafication {Engineering,no_IaC_term;no_quality_term
-cherinka_impact_2021,The {Impact,no_IaC_term;no_quality_term
-nica_cmk_2024,{CMK,no_IaC_term;no_quality_term
-hitchcock_estate_2022-1,Estate {Management,no_IaC_term;no_quality_term
-udayakumar_manage_2022,Manage and {Secure,no_IaC_term;no_quality_term
-penberthy_additional_2022,Additional {Tools,no_IaC_term;no_quality_term
-s_working_2024,Working with {Development,no_IaC_term;no_quality_term
-udayakumar_get_2023,Get {Started,no_IaC_term;no_quality_term
-m_r_pod_2025,Pod {Scheduling,no_IaC_term;no_quality_term
-olsson_strategic_2024,Strategic {Digital,no_IaC_term;no_quality_term
-choi_introduction_2024,Introduction to {Python,no_IaC_term;no_quality_term
-krishna_kaiser_integration_2023,Integration: {Alignment,no_IaC_term;no_quality_term
-berton_ansible_2022,Ansible for {Beginners,no_quality_term
+penberthy_moving_2022,Moving to Virtual Machines,no_IaC_term;no_quality_term
+lates_cyber_2023,Cyber Range Technology Stack Review,no_IaC_term;no_quality_term
+buchanan_gitops_2021,GitOps Insights,no_IaC_term;no_quality_term
+gupta_databricks_2024,Databricks Platform Overview,no_IaC_term;no_quality_term
+xu_hypertasking_2025,Hypertasking: From Information Web to Computing Utility,no_IaC_term;no_quality_term
+ahmadpanah_fleximigrate_2025,FlexiMigrate: enhancing live container migration in heterogeneous computing environments,no_quality_term
+krishna_kaiser_teams_2023,Teams and Structures,no_IaC_term;no_quality_term
+ifrah_install_2024,"Install Tools (Azure CLI, Azure PowerShell, VS Code, Copilot)",no_IaC_term;no_quality_term
+stocker_ict_2022,An ICT architecture for enabling ancillary services in Distributed Renewable Energy Sources based on the SGAM framework,no_IaC_term;no_quality_term
+hitchcock_estate_2022,Estate Management Tools,no_IaC_term;no_quality_term
+mishra_case_2024,Case Studies and Best Practices,no_IaC_term
+goniwada_datafication_2023,Datafication Engineering,no_IaC_term;no_quality_term
+cherinka_impact_2021,The Impact of Agile Methods and “DevOps” on Day 2+ Operations for Large Enterprises,no_IaC_term;no_quality_term
+nica_cmk_2024,CMK: Enhancing Resource Usage Monitoring across Diverse Bioinformatics Workflow Management Systems,no_IaC_term;no_quality_term
+hitchcock_estate_2022-1,Estate Management,no_IaC_term;no_quality_term
+udayakumar_manage_2022,Manage and Secure AVS,no_IaC_term;no_quality_term
+penberthy_additional_2022,Additional Tools,no_IaC_term;no_quality_term
+s_working_2024,Working with Development Tools in Business Central,no_IaC_term;no_quality_term
+udayakumar_get_2023,Get Started with Azure Security,no_IaC_term
+m_r_pod_2025,Pod Scheduling and Proactive Resource Management in an Edge Cluster using MCDM and Federated Learning,no_IaC_term;no_quality_term
+olsson_strategic_2024,Strategic Digital Product Management in the Age of AI,no_IaC_term;no_quality_term
+choi_introduction_2024,Introduction to Python Network Automation,no_IaC_term;no_quality_term
+krishna_kaiser_integration_2023,Integration: Alignment of Processes,no_IaC_term;no_quality_term
+berton_ansible_2022,Ansible for Beginners with Examples,no_quality_term
 zaeske_introduction_2022,Introduction,no_IaC_term;no_quality_term
-barac_deploying_2023-2,Deploying a {Highly,no_IaC_term;no_quality_term
-calcaterra_policy-based_2023,Policy-{Based,no_IaC_term;no_quality_term
-grunewald_scalable_2022,Scalable {Discovery,no_IaC_term;no_quality_term
-goniwada_cloud_2021,Cloud {Native,no_IaC_term;no_quality_term
-tonello_containerizing_2022,Containerizing and {Automating,no_quality_term
-schenk_enterprise_2025,Enterprise {Architecture,no_IaC_term;no_quality_term
-kanumuri_cloud_2024-1,Cloud {Cost,no_IaC_term;no_quality_term
-bors_getting_2022,Getting {Started,no_IaC_term;no_quality_term
-modi_terraform_2021-1,Terraform {Modules,no_quality_term
-sargiotis_future_2024,Future {Trends,no_IaC_term;no_quality_term
-goniwada_infrastructure_2021,Infrastructure {Automation,no_IaC_term;no_quality_term
-ranjan_architectural_2025,Architectural {Patterns,no_IaC_term;no_quality_term
-mukhopadhyay_efficient_2022,Efficient {IaC,no_quality_term
-gwangwadza_towards_2023,Towards the {Success,no_IaC_term;no_quality_term
-dorsey_dbt_2025,dbt in {Production,no_IaC_term;no_quality_term
-gavhale_data_2025,Data {Pipeline,no_IaC_term;no_quality_term
-ramaj_training_2024,Training and {Security,no_IaC_term
-haff_free_2021,From “{Free,no_IaC_term;no_quality_term
-mustafa_aws_2023-1,{AWS,no_IaC_term;no_quality_term
-choi_cisco_2023-1,Cisco {Router,no_IaC_term;no_quality_term
-cabianca_managing_2023,Managing {Network,no_IaC_term;no_quality_term
-goniwada_enterprise_2021,Enterprise {Cloud,no_IaC_term;no_quality_term
-ganeshan_survey_2020,A {Survey,no_IaC_term;no_quality_term
-shan_digital_2022,Digital {Transformation,no_IaC_term;no_quality_term
-syed_emerging_2024,Emerging {Trends,no_IaC_term;no_quality_term
-kanumuri_reviewing_2024,Reviewing {Your,no_IaC_term;no_quality_term
+barac_deploying_2023-2,Deploying a Highly Available Hyperscale Database into a Virtual Network,no_IaC_term;no_quality_term
+calcaterra_policy-based_2023,Policy-Based Holistic Application Management with BPMN and TOSCA,no_quality_term
+grunewald_scalable_2022,Scalable Discovery and Continuous Inventory of Personal Data at Rest in Cloud Native Systems,no_IaC_term;no_quality_term
+goniwada_cloud_2021,Cloud Native Trends,no_IaC_term;no_quality_term
+tonello_containerizing_2022,Containerizing and Automating Your Deployments,no_quality_term
+schenk_enterprise_2025,Enterprise Architecture and IT Infrastructure,no_IaC_term;no_quality_term
+kanumuri_cloud_2024-1,Cloud Cost Governance,no_IaC_term;no_quality_term
+bors_getting_2022,Getting Started,no_IaC_term;no_quality_term
+modi_terraform_2021-1,Terraform Modules,no_quality_term
+sargiotis_future_2024,Future Trends in Data Governance: Preparing for Tomorrow,no_IaC_term;no_quality_term
+goniwada_infrastructure_2021,Infrastructure Automation,no_IaC_term;no_quality_term
+ranjan_architectural_2025,Architectural Patterns for LLM Adoption in Agentic AI,no_IaC_term;no_quality_term
+mukhopadhyay_efficient_2022,Efficient IaC-Based Resource Allocation for Virtualized Cloud Platforms,no_quality_term
+gwangwadza_towards_2023,Towards the Success of DevOps Environments in Software Organizations: A Conceptual Model Approach,no_IaC_term;no_quality_term
+dorsey_dbt_2025,dbt in Production,no_IaC_term;no_quality_term
+gavhale_data_2025,Data Pipeline Approaches in Serverless Computing,no_IaC_term;no_quality_term
+ramaj_training_2024,Training and Security Awareness Under the Lens of Practitioners: A DevSecOps Perspective Towards Risk Management,no_IaC_term
+haff_free_2021,From “Free” to “Open Source” to Products,no_IaC_term;no_quality_term
+mustafa_aws_2023-1,AWS Deployment Strategies,no_IaC_term;no_quality_term
+choi_cisco_2023-1,Cisco Router and Switch Configuration with Ansible,no_quality_term
+cabianca_managing_2023,Managing Network Operations,no_IaC_term;no_quality_term
+goniwada_enterprise_2021,Enterprise Cloud Native Automation,no_IaC_term;no_quality_term
+ganeshan_survey_2020,A Survey on DevOps Techniques Used in Cloud-Based IOT Mashups,no_IaC_term;no_quality_term
+shan_digital_2022,Digital Transformation Method for Healthcare Data,no_IaC_term;no_quality_term
+syed_emerging_2024,Emerging Trends in Software Supply Chain Security,no_IaC_term
+kanumuri_reviewing_2024,Reviewing Your FinOps Toolbox,no_IaC_term;no_quality_term
 lin_multi-dimensional_2022,A multi-dimensional extensible cloud-native service stack for enterprises,no_IaC_term;no_quality_term
-naik_cloud-agnostic_2021,Cloud-{Agnostic,no_IaC_term;no_quality_term
-modi_cicd_2021,{CI,no_IaC_term;no_quality_term
-baruah_starting_2024,Starting your {SAP,no_IaC_term;no_quality_term
-srivastava_cloud_2025,Cloud {Fundamentals,no_IaC_term;no_quality_term
-dayton_application_2024,Application {Integration,no_IaC_term;no_quality_term
-bhimji_snowmass_2023,Snowmass 2021 {Computational,no_IaC_term;no_quality_term
-choi_is_2023,Is {Ansible,no_quality_term
-zeeshan_automating_2020,Automating {Everything,no_IaC_term;no_quality_term
-van_geene_faasonto_2023,{FaaSOnto,no_IaC_term;no_quality_term
-ogier_du_terrail_fedeca_2025,{FedECA,no_IaC_term;no_quality_term
-kanumuri_cloud_2024-2,Cloud {Cost,no_IaC_term;no_quality_term
-weber_business_2023,Business {Analytics,no_IaC_term;no_quality_term
-riti_terraform_2021,Terraform {HCL,no_quality_term
-beloki_azure_2022,Azure {Well,no_IaC_term;no_quality_term
-bird_reinforcing_2022,Reinforcing the {Importance,no_IaC_term;no_quality_term
-iosif_large-scale_2022,A {Large,no_IaC_term;no_quality_term
-lesteve_delivering_2023,Delivering {Cloud,no_IaC_term;no_quality_term
-orviz_fernandez_software_2020,Software {Quality,no_IaC_term
-zaeske_demonstrator_2022,Demonstrator and {Evaluation,no_IaC_term;no_quality_term
-kumara_sodalitert_2021,{SODALITE,no_IaC_term;no_quality_term
-edwards_secure_2024,Secure {Configuration,no_IaC_term;no_quality_term
+naik_cloud-agnostic_2021,Cloud-Agnostic and Lightweight Big Data Processing Platform in Multiple Clouds Using Docker Swarm and Terraform,no_quality_term
+modi_cicd_2021,CI/CD with Terraform,no_quality_term
+baruah_starting_2024,Starting your SAP on AWS Modernization Initiatives,no_IaC_term;no_quality_term
+srivastava_cloud_2025,Cloud Fundamentals and Overview of AWS,no_IaC_term;no_quality_term
+dayton_application_2024,Application Integration,no_IaC_term;no_quality_term
+bhimji_snowmass_2023,Snowmass 2021 Computational Frontier CompF4 Topical Group Report Storage and Processing Resource Access,no_IaC_term;no_quality_term
+choi_is_2023,Is Ansible Good for Network Automation?,no_quality_term
+zeeshan_automating_2020,Automating Everything as Code,no_IaC_term;no_quality_term
+van_geene_faasonto_2023,FaaSOnto: A Semantic Model for Enabling Function-as-a-Service Platform Selection,no_IaC_term;no_quality_term
+ogier_du_terrail_fedeca_2025,FedECA: federated external control arms for causal inference with time-to-event data in distributed settings,no_quality_term
+kanumuri_cloud_2024-2,Cloud Cost Optimization,no_IaC_term;no_quality_term
+weber_business_2023,Business Analytics and Intelligence,no_IaC_term;no_quality_term
+riti_terraform_2021,Terraform HCL,no_quality_term
+beloki_azure_2022,Azure Well-Architected Framework (WAF),no_IaC_term;no_quality_term
+bird_reinforcing_2022,Reinforcing the Importance of Host Forensics for Customer Environments Hosted Using Amazon Web Services and Azure Public Cloud Platforms,no_IaC_term;no_quality_term
+iosif_large-scale_2022,A Large-Scale Study on the Security Vulnerabilities of Cloud Deployments,no_IaC_term
+lesteve_delivering_2023,Delivering Cloud Innovation and Excellence,no_IaC_term;no_quality_term
+orviz_fernandez_software_2020,Software Quality Assurance in INDIGO-DataCloud Project: a Converging Evolution of Software Engineering Practices to Support European Research e-Infrastructures,no_IaC_term
+zaeske_demonstrator_2022,Demonstrator and Evaluation,no_IaC_term;no_quality_term
+kumara_sodalitert_2021,SODALITE@RT: Orchestrating Applications on Cloud-Edge Infrastructures,no_IaC_term;no_quality_term
+edwards_secure_2024,Secure Configuration of Enterprise Assets and Software,no_IaC_term;no_quality_term
 imoukhuede_optimization_2025,Optimization of network device hardening in a multivendor environment,no_IaC_term;no_quality_term
-rolando_revolutionizing_2023,Revolutionizing {Fair,no_IaC_term;no_quality_term
-ifrah_azure_2023,Azure {DevOps,no_IaC_term;no_quality_term
-penberthy_events_2022,Events and {Messaging,no_IaC_term;no_quality_term
-mirampalli_dynamic_2025,Dynamic {Deployment,no_IaC_term;no_quality_term
-modi_getting_2021,Getting {Started,no_IaC_term;no_quality_term
-fowler_cloud_2023,Cloud {Network,no_IaC_term;no_quality_term
-thakur_towards_2022,Towards a {Software,no_IaC_term;no_quality_term
-rael_net_2025,.{NET,no_IaC_term;no_quality_term
-rajasekharaiah_process_2020,Process {Changes,no_IaC_term;no_quality_term
-altimiras_computational_2025,A {Computational,no_IaC_term;no_quality_term
-rajput_creating_2023,Creating the {Target,no_IaC_term;no_quality_term
-berton_modern_2023,Modern {IT,no_IaC_term;no_quality_term
-sabharwal_getting_2021,Getting {Started,no_IaC_term;no_quality_term
-van_merode_use_2023,Use {Case,no_IaC_term;no_quality_term
-sabharwal_using_2021,Using {Agile,no_IaC_term;no_quality_term
-diaz-pace_supporting_2023,Supporting the {Exploration,no_IaC_term;no_quality_term
-bhatia_proxmox_2025,"Proxmox, {RedHat",no_IaC_term;no_quality_term
-scott_customizing_2023,Customizing {Images,no_IaC_term;no_quality_term
-baumgarten_grundlagen_2025,Grundlagen und {Konzepte,no_IaC_term;no_quality_term
+rolando_revolutionizing_2023,Revolutionizing Fair Trade and Food Sovereignty: The Powerful Synergy Between Computing and Engineering in a Web-Based Bartering Application,no_IaC_term;no_quality_term
+ifrah_azure_2023,Azure DevOps and Container Service,no_quality_term
+penberthy_events_2022,Events and Messaging,no_IaC_term;no_quality_term
+mirampalli_dynamic_2025,Dynamic Deployment of Serverless Data Pipeline on Fog Nodes,no_IaC_term;no_quality_term
+modi_getting_2021,Getting Started with Terraform,no_quality_term
+fowler_cloud_2023,Cloud Network Engineering,no_IaC_term;no_quality_term
+thakur_towards_2022,Towards a Software Development Framework for Interconnected Science Ecosystems,no_IaC_term;no_quality_term
+rael_net_2025,.NET Aspire Integrations,no_IaC_term;no_quality_term
+rajasekharaiah_process_2020,Process Changes,no_IaC_term;no_quality_term
+altimiras_computational_2025,A Computational Framework for Crop Yield Estimation and Phenological Monitoring,no_IaC_term;no_quality_term
+rajput_creating_2023,Creating the Target Digital Technology Architecture,no_IaC_term;no_quality_term
+berton_modern_2023,Modern IT Infrastructure and Hello App,no_IaC_term;no_quality_term
+sabharwal_getting_2021,Getting Started with HashiCorp Automation Solutions,no_IaC_term;no_quality_term
+van_merode_use_2023,Use Case,no_IaC_term;no_quality_term
+sabharwal_using_2021,Using Agile for Infrastructure Operations,no_IaC_term;no_quality_term
+diaz-pace_supporting_2023,Supporting the Exploration of Quality Attribute Tradeoffs in Large Design Spaces,no_IaC_term
+bhatia_proxmox_2025,"Proxmox, RedHat, and Beyond",no_IaC_term;no_quality_term
+scott_customizing_2023,Customizing Images,no_IaC_term;no_quality_term
+baumgarten_grundlagen_2025,Grundlagen und Konzepte der Low-Code-Entwicklung,no_IaC_term;no_quality_term
 nicolas-plata_service_2024,A service mesh approach to integrate processing patterns into microservices applications,no_IaC_term;no_quality_term
 smart_people_2022,People,no_IaC_term;no_quality_term
-ilag_secure_2024,Secure {Software,no_IaC_term;no_quality_term
-ahmed_unveiling_2024,Unveiling the {Cloud,no_IaC_term;no_quality_term
+ilag_secure_2024,Secure Software Development Lifecycle Through GitHub Advanced Security,no_IaC_term
+ahmed_unveiling_2024,Unveiling the Cloud-Native Paradigm,no_IaC_term;no_quality_term
 whitesell_containerization_2022,Containerization,no_quality_term
-haff_open_2021,Open {Source,no_IaC_term;no_quality_term
-jeya_mala_towards_2020,Towards {Green,no_IaC_term;no_quality_term
-surianarayanan_demystifying_2023,Demystifying the {Cloud,no_IaC_term;no_quality_term
-tonello_server_2022,Server {Management,no_IaC_term;no_quality_term
-perumal_designing_2025,Designing and {Implementing,no_IaC_term;no_quality_term
-tummalapalli_novel_2021,A {Novel,no_IaC_term;no_quality_term
-borana_software_2023,A {Software,no_IaC_term;no_quality_term
-lennon_devops_2022,{DevOps,no_IaC_term;no_quality_term
-switalik_introduction_2024,Introduction to {Azure,no_IaC_term;no_quality_term
-barac_migrating_2023,Migrating to {Hyperscale,no_IaC_term;no_quality_term
-gottschick_code_2023,Code {Generation,no_IaC_term;no_quality_term
-mahmoud_design_2025,Design and {Development,no_IaC_term;no_quality_term
-williams_cluster_2024,Cluster in the {Cloud,no_IaC_term;no_quality_term
-borin_deploying_2023,Deploying and {Configuring,no_IaC_term;no_quality_term
-udayakumar_design_2023-1,Design and {Deploy,no_IaC_term;no_quality_term
-olaoye_integrating_2022,Integrating {AWS,no_IaC_term;no_quality_term
-srivastava_designing_2025,Designing the {Operating,no_IaC_term;no_quality_term
-sabharwal_introduction_2021-1,Introduction to {Agile,no_IaC_term;no_quality_term
-ullah_orchestration_2023,Orchestration in the {Cloud,no_IaC_term;no_quality_term
-feil_stufe_2023,Stufe 3 – {Verwendung,no_IaC_term;no_quality_term
+haff_open_2021,Open Source Development Model,no_IaC_term;no_quality_term
+jeya_mala_towards_2020,Towards Green Software Testing in Agile and DevOps Using Cloud Virtualization for Environmental Protection,no_IaC_term
+surianarayanan_demystifying_2023,Demystifying the Cloud-Native Computing Paradigm,no_IaC_term;no_quality_term
+tonello_server_2022,Server Management and Maintenance,no_IaC_term;no_quality_term
+perumal_designing_2025,Designing and Implementing a Scalable and Secure Cloud Infrastructure for Real-Time Data Processing in High-Performance Analytics,no_IaC_term
+tummalapalli_novel_2021,A Novel Approach for the Detection of Web Service Anti-Patterns Using Word Embedding Techniques,no_IaC_term
+borana_software_2023,A Software Quality Characteristics Optimization Model to Reduce Evaluation Overhead,no_IaC_term
+lennon_devops_2022,DevOps Best Practices in Highly Regulated Industry,no_IaC_term
+switalik_introduction_2024,Introduction to Azure,no_IaC_term;no_quality_term
+barac_migrating_2023,Migrating to Hyperscale,no_IaC_term;no_quality_term
+gottschick_code_2023,Code Generation for Cloud-Based Implementation of Public Sector Processes Using a Pattern-Based Approach,no_IaC_term;no_quality_term
+mahmoud_design_2025,Design and Development of an AI Agriculture System,no_IaC_term;no_quality_term
+williams_cluster_2024,"Cluster in the Cloud—Scalable, Heterogeneous Compute Clusters for HPC, HTC and AI in the Public Cloud or On-Premise",no_IaC_term;no_quality_term
+borin_deploying_2023,Deploying and Configuring Infrastructure,no_IaC_term;no_quality_term
+udayakumar_design_2023-1,"Design and Deploy Security for Infrastructure, Data, and Applications",no_IaC_term
+olaoye_integrating_2022,Integrating AWS CodeCommit with Jenkins,no_IaC_term;no_quality_term
+srivastava_designing_2025,Designing the Operating Model,no_IaC_term;no_quality_term
+sabharwal_introduction_2021-1,Introduction to Agile Frameworks,no_IaC_term;no_quality_term
+ullah_orchestration_2023,"Orchestration in the Cloud-to-Things compute continuum: taxonomy, survey and future directions",no_IaC_term;no_quality_term
+feil_stufe_2023,Stufe 3 – Verwendung innovativer Technologien und Ausbau der Cloud-Nutzung,no_IaC_term;no_quality_term
 sabharwal_introduction_2021-2,Introduction,no_IaC_term;no_quality_term
-landeck_software_2025,Software in the {Manufacturing,no_IaC_term;no_quality_term
-cauli_pre-deployment_2021,Pre-deployment {Security,no_IaC_term
-leirvik_why_2022,Why {Is,no_IaC_term;no_quality_term
-goniwada_cloud_2021-1,Cloud {Native,no_IaC_term;no_quality_term
-sorvisto_deploying_2023,Deploying {Stochastic,no_IaC_term;no_quality_term
-hernandez_collante_development_2024,Development of a {Prototype,no_IaC_term;no_quality_term
-sozykin_teaching_2022,Teaching {Advanced,no_IaC_term;no_quality_term
-goniwada_enterprise_2021-1,Enterprise {IT,no_IaC_term;no_quality_term
-leon-sandoval_using_2022,Using {Big,no_IaC_term;no_quality_term
-zhao_devops_2021,{DevOps,no_IaC_term;no_quality_term
+landeck_software_2025,Software in the Manufacturing Industry: A Review of Security Challenges and Implications,no_IaC_term
+cauli_pre-deployment_2021,Pre-deployment Security Assessment for Cloud Services Through Semantic Reasoning,no_IaC_term
+leirvik_why_2022,Why Is It Complicated?,no_IaC_term;no_quality_term
+goniwada_cloud_2021-1,Cloud Native Architecture Principles,no_IaC_term;no_quality_term
+sorvisto_deploying_2023,Deploying Stochastic Systems,no_IaC_term;no_quality_term
+hernandez_collante_development_2024,Development of a Prototype for the Monitoring and Management of Telecommunications Network Infrastructure,no_IaC_term;no_quality_term
+sozykin_teaching_2022,Teaching Advanced AI Development Techniques with a New Master’s Program in Artificial Intelligence Engineering,no_IaC_term;no_quality_term
+goniwada_enterprise_2021-1,Enterprise IT Assessment for a Cloud Native Journey,no_IaC_term;no_quality_term
+leon-sandoval_using_2022,Using Big Data and Serverless Architecture to Follow the Emotional Response to the COVID-19 Pandemic in Mexico,no_IaC_term;no_quality_term
+zhao_devops_2021,DevOps for Open Source Multimedia Frameworks,no_IaC_term;no_quality_term
 lichtenthaler_formulating_2024,Formulating a quality model for cloud-native software architectures: conceptual and methodological considerations,no_IaC_term
-udayakumar_design_2022,Design {Essentials,no_IaC_term;no_quality_term
-block_agile_2023,Agile {Prioritization,no_IaC_term;no_quality_term
-barac_planning_2023,Planning an {Azure,no_IaC_term;no_quality_term
-rahman_why_2022,Why secret detection tools are not enough: {It,no_IaC_term;no_quality_term
-fernandez_gonzalez_secdocker_2021,{SecDocker,no_quality_term
-altunel_software_2021,Software {Product,no_IaC_term;no_quality_term
-rendon_azure_2022,Azure {Resource,no_IaC_term;no_quality_term
+udayakumar_design_2022,Design Essentials of AVS,no_IaC_term;no_quality_term
+block_agile_2023,Agile Prioritization Model for Software Manufacturers,no_IaC_term;no_quality_term
+barac_planning_2023,Planning an Azure SQL DB Hyperscale Environment,no_IaC_term;no_quality_term
+rahman_why_2022,Why secret detection tools are not enough: It’s not just about false positives - An industrial case study,no_IaC_term;no_quality_term
+fernandez_gonzalez_secdocker_2021,SecDocker: Hardening the Continuous Integration Workflow: Wrapping the container layer,no_quality_term
+altunel_software_2021,"Software Product System Model: A Customer-Value Oriented, Adaptable, DevOps-Based Product Model",no_IaC_term;no_quality_term
+rendon_azure_2022,Azure Resource Manager,no_IaC_term;no_quality_term
 bartlett_introduction_2022,Introduction,no_IaC_term;no_quality_term
-weller_deployment_2023,The {Deployment,no_IaC_term;no_quality_term
-kyryk_dynamic_2025,Dynamic {Data,no_IaC_term;no_quality_term
-choi_learning_2023,Learning {Ansible,no_quality_term
-kumar_when_2021,When {Security,no_IaC_term
-otte_hardware---loop-based_2024,Hardware-in-{The,no_IaC_term;no_quality_term
-lloyd_cloud_2022,Cloud {Adoption,no_IaC_term;no_quality_term
-bhatia_navigating_2025,Navigating {Challenges,no_IaC_term;no_quality_term
-vadlamani_amazon_2024,Amazon {EC2,no_IaC_term;no_quality_term
-asher_career_2024,Career {Foundations,no_IaC_term;no_quality_term
-sendas_mlops_2024-2,{MLOps,no_IaC_term;no_quality_term
-copeland_reduce_2020,Reduce {Cyber,no_IaC_term;no_quality_term
-portella_reservoir_2023,Reservoir {Simulation,no_IaC_term;no_quality_term
-bonino_da_silva_santos_personal_2022,Personal {Health,no_IaC_term;no_quality_term
-fuhr_0_2023,0 {Trust,no_IaC_term;no_quality_term
-giommi_improving_2025,Improving the {Cloud,no_IaC_term;no_quality_term
-udayakumar_solution_2022,Solution {Overview,no_IaC_term;no_quality_term
+weller_deployment_2023,The Deployment Model Abstraction Framework,no_IaC_term;no_quality_term
+kyryk_dynamic_2025,Dynamic Data Processing and Microservices in Promoting Sustainable Practices in Content Delivery Network Infrastructure,no_IaC_term
+choi_learning_2023,"Learning Ansible Basic Concepts IV: Users, Roles, Host Variables, Templates, and Password Vault",no_quality_term
+kumar_when_2021,When Security Meets Velocity: Modeling Continuous Security for Cloud Applications using DevSecOps,no_IaC_term
+otte_hardware---loop-based_2024,"Hardware-in-The-Loop-Based Validation of Distribution System Control Applications with Grid Operators, Customer and Market Participants",no_IaC_term
+lloyd_cloud_2022,Cloud Adoption and Cultural Change,no_IaC_term;no_quality_term
+bhatia_navigating_2025,Navigating Challenges in Transitioning,no_IaC_term;no_quality_term
+vadlamani_amazon_2024,Amazon EC2/Azure VM Linux Install Tasks,no_IaC_term;no_quality_term
+asher_career_2024,Career Foundations,no_IaC_term;no_quality_term
+sendas_mlops_2024-2,MLOps Case Studies,no_IaC_term;no_quality_term
+copeland_reduce_2020,Reduce Cyber Security Vulnerabilities: IaaS and Data,no_IaC_term
+portella_reservoir_2023,Reservoir Simulation in the Cloud,no_IaC_term;no_quality_term
+bonino_da_silva_santos_personal_2022,Personal Health Train Architecture with Dynamic Cloud Staging,no_IaC_term;no_quality_term
+fuhr_0_2023,"0 Trust, 100 \% Trust Anchor: Ultimative Herausforderung für die Kryptographie?",no_IaC_term;no_quality_term
+giommi_improving_2025,Improving the Cloud Provider Ranking in the INDIGO PaaS Orchestration System Using AI Techniques,no_IaC_term;no_quality_term
+udayakumar_solution_2022,Solution Overview of AVS,no_IaC_term;no_quality_term
 marin_serverless_2022,Serverless computing: a security perspective,no_IaC_term
-kuppam_resilient_2024,The {Resilient,no_IaC_term;no_quality_term
-zhao_copycat_2024,{COPYCAT,no_IaC_term;no_quality_term
+kuppam_resilient_2024,The Resilient Design Techniques,no_IaC_term;no_quality_term
+zhao_copycat_2024,COPYCAT: Applying Serious Games in Industry for Defending Supply Chain Attack,no_IaC_term;no_quality_term
 chen_practitioners_2023,On practitioners’ concerns when adopting service mesh frameworks,no_IaC_term;no_quality_term
-barac_configuring_2023,Configuring {Security,no_IaC_term
-singh_survey_2022,Survey of {Predictive,no_IaC_term;no_quality_term
-abbasi_network_2023,Network {Automation,no_IaC_term;no_quality_term
-rojo_containers_2022,Containers’ {Privacy,no_quality_term
-casale_radon_2019,{RADON,no_IaC_term;no_quality_term
-gupta_large_2024,Large {Language,no_IaC_term;no_quality_term
-maxwell_managing_2024,Managing {Kubernetes,no_quality_term
-nino-martinez_microservice_2022,A {Microservice,no_IaC_term;no_quality_term
-di_nitto_orchestrating_2022,Orchestrating {Heterogeneous,no_IaC_term;no_quality_term
-napoli_cost_2023,Cost {Effective,no_IaC_term;no_quality_term
-caballer_deployment_2021,Deployment of {Elastic,no_IaC_term;no_quality_term
-sharma_working_2021,Working with {Pulsar,no_IaC_term;no_quality_term
-stefanovic_azure_2021,Azure {Security,no_IaC_term
-gartner_mobile_2022,A {Mobile,no_IaC_term;no_quality_term
-bhatia_terraform_2023-1,Terraform and {Reverse,no_quality_term
-mishra_java_2022,Java for {Azure,no_IaC_term;no_quality_term
-cyr_dbt_2023,dbt in {Production,no_IaC_term;no_quality_term
-weigell_go_2025,Go {Where,no_IaC_term;no_quality_term
+barac_configuring_2023,Configuring Security Features and Enabling Diagnostic and Audit Logs,no_IaC_term
+abbasi_network_2023,Network Automation: From Intent-Based Networking to Cloud-Native Networking,no_IaC_term;no_quality_term
+rojo_containers_2022,Containers’ Privacy and Data Protection via Runtime Scanning Methods,no_quality_term
+casale_radon_2019,RADON: rational decomposition and orchestration for serverless computing,no_IaC_term;no_quality_term
+gupta_large_2024,Large Language Model Operations,no_IaC_term;no_quality_term
+maxwell_managing_2024,Managing Kubernetes Workloads in Hybrid or Multi-cloud Data Centers,no_quality_term
+nino-martinez_microservice_2022,A Microservice Deployment Guide,no_IaC_term;no_quality_term
+di_nitto_orchestrating_2022,Orchestrating Heterogeneous Applications: Motivation and State of the Art,no_IaC_term;no_quality_term
+napoli_cost_2023,Cost Effective Deep Learning on the Cloud,no_IaC_term;no_quality_term
+caballer_deployment_2021,Deployment of Elastic Virtual Hybrid Clusters Across Cloud Sites,no_IaC_term;no_quality_term
+sharma_working_2021,Working with Pulsar Functions,no_IaC_term;no_quality_term
+stefanovic_azure_2021,Azure Security and Compliance,no_IaC_term
+gartner_mobile_2022,A Mobile and Compact Control Center for Quick Decentral Satellite Access,no_IaC_term;no_quality_term
+bhatia_terraform_2023-1,Terraform and Reverse Engineering,no_quality_term
+mishra_java_2022,Java for Azure WebApp,no_IaC_term;no_quality_term
+cyr_dbt_2023,dbt in Production,no_IaC_term;no_quality_term
+weigell_go_2025,"Go Where Energy Can be Saved: A Vision for a Green Infrastructure Evaluation, Optimization, and Alignment System",no_IaC_term;no_quality_term
 shashi_introduction_2023,Introduction,no_IaC_term;no_quality_term
-auth_devops_2022,{DevOps,no_IaC_term;no_quality_term
-olaoye_macos_2022,{macOS,no_IaC_term;no_quality_term
-amiri_tool_2023,Tool {Support,no_IaC_term;no_quality_term
-juan_ferrer_next_2022,Next {Steps,no_IaC_term;no_quality_term
-zurita_macias_integrative_2025,Integrative {Cloud,no_IaC_term;no_quality_term
-grieco_enabling_2022,Enabling {Portability,no_IaC_term;no_quality_term
-bansal_optimize_2023,An {Optimize,no_IaC_term;no_quality_term
-sabharwal_getting_2021-1,Getting {Started,no_IaC_term;no_quality_term
-haff_business_2021,Business {Models,no_IaC_term;no_quality_term
-bisegna_integrating_2021,Integrating a {Pentesting,no_IaC_term
-rahman_harnessing_2025,Harnessing {Azure,no_IaC_term;no_quality_term
-paintsil_cluster_2025,Cluster {Nodes,no_IaC_term;no_quality_term
-liebel_human_2024,Human factors in model-driven engineering: future research goals and initiatives for {MDE,no_IaC_term;no_quality_term
-alt_devops_2021,{DevOps,no_IaC_term;no_quality_term
-kaiser_practices_2020,Practices to {Manage,no_IaC_term
-mishra_gold_2025,The {Gold,no_IaC_term;no_quality_term
-sorgalla_applying_2021,Applying {Model,no_IaC_term;no_quality_term
-bogelsack_sap_2022,{SAP,no_IaC_term;no_quality_term
-k_k_devops_2020,{DevOps,no_IaC_term;no_quality_term
-sabharwal_automation_2020,Automation and {Orchestration,no_IaC_term;no_quality_term
+auth_devops_2022,DevOps und Qualität – Der DevQOps-Ansatz von T-Systems MMS,no_IaC_term;no_quality_term
+olaoye_macos_2022,macOS Server on AWS,no_IaC_term;no_quality_term
+amiri_tool_2023,Tool Support for the Adaptation of Quality of Service Trade-Offs in Service- and Cloud-Based Dynamic Routing Architectures,no_IaC_term
+juan_ferrer_next_2022,Next Steps for Ad-hoc Edge Cloud and Swarm Computing Realization,no_quality_term
+zurita_macias_integrative_2025,"Integrative Cloud to Mist Computing: Architectures, Applications, and Innovations in Data Engineering",no_IaC_term;no_quality_term
+grieco_enabling_2022,Enabling Portability and Reusability of Open Science Infrastructures,no_IaC_term;no_quality_term
+bansal_optimize_2023,An Optimize Approach to Reduce Uncertainties in WDM Networks,no_IaC_term;no_quality_term
+sabharwal_getting_2021-1,Getting Started with HashiCorp Terraform,no_quality_term
+haff_business_2021,Business Models and Accelerated Development,no_IaC_term;no_quality_term
+bisegna_integrating_2021,Integrating a Pentesting Tool for IdM Protocols in a Continuous Delivery Pipeline,no_IaC_term
+rahman_harnessing_2025,Harnessing Azure AI and Copilot for Governance and Security,no_IaC_term
+paintsil_cluster_2025,Cluster Nodes,no_IaC_term;no_quality_term
+liebel_human_2024,Human factors in model-driven engineering: future research goals and initiatives for MDE,no_IaC_term;no_quality_term
+alt_devops_2021,DevOps for Continuous Innovation,no_IaC_term;no_quality_term
+kaiser_practices_2020,Practices to Manage Releases,no_IaC_term
+mishra_gold_2025,The Gold Standard MLOps,no_IaC_term;no_quality_term
+sorgalla_applying_2021,Applying Model-Driven Engineering to Stimulate the Adoption of DevOps Processes in Small and Medium-Sized Development Organizations: The Case for Microservice Architecture,no_IaC_term;no_quality_term
+bogelsack_sap_2022,SAP S/4HANA on Google Cloud – Deployment and Setup,no_IaC_term;no_quality_term
+k_k_devops_2020,DevOps Basics and Variations,no_IaC_term;no_quality_term
+sabharwal_automation_2020,Automation and Orchestration of Container Monitoring,no_quality_term
 elabd_enhancing_2025,Enhancing automated network function onboarding through language extension and code refactoring,no_IaC_term;no_quality_term
-bendicho_cyber_2021,Cyber {Security,no_IaC_term
+bendicho_cyber_2021,Cyber Security in Cloud: Risk Assessment Models,no_IaC_term
 hitchcock_containers_2022,Containers,no_quality_term
-liu_scheduling_2023,Scheduling {Containerized,no_quality_term
-scott_container_2023,Container {Networks,no_quality_term
-sagar_system_2022,System {Design,no_IaC_term;no_quality_term
-kostler_network_2021,Network {Federation,no_IaC_term;no_quality_term
-sabharwal_getting_2021-2,Getting {Started,no_IaC_term;no_quality_term
-orviz_fernandez_umd-verification_2018,umd-verification: {Automation,no_IaC_term;no_quality_term
-sabharwal_automation_2020-1,Automation of {GKE,no_IaC_term;no_quality_term
-macero_garcia_common_2023,Common {Patterns,no_IaC_term;no_quality_term
+liu_scheduling_2023,Scheduling Containerized Workflow in Multi-cluster Kubernetes,no_quality_term
+scott_container_2023,Container Networks,no_quality_term
+sagar_system_2022,"System Design: Architecting Robust, Scalable, and Modular Applications",no_IaC_term;no_quality_term
+kostler_network_2021,Network Federation for Inter-cloud Operations,no_IaC_term;no_quality_term
+sabharwal_getting_2021-2,Getting Started with Nomad,no_quality_term
+orviz_fernandez_umd-verification_2018,umd-verification: Automation of Software Validation for the EGI Federated e-Infrastructure,no_IaC_term
+sabharwal_automation_2020-1,"Automation of GKE Cluster, Application, and Monitoring Deployments",no_IaC_term;no_quality_term
+macero_garcia_common_2023,Common Patterns in Microservice Architectures,no_IaC_term;no_quality_term
 erbel_scientific_2023,Scientific workflow execution in the cloud using a dynamic runtime model,no_IaC_term;no_quality_term
-laato_trends_2022,Trends and {Trajectories,no_IaC_term;no_quality_term
-bjarnason_software_2023,Software selection in large-scale software engineering: {A,no_IaC_term;no_quality_term
+laato_trends_2022,Trends and Trajectories in the Software Industry: implications for the future of work,no_IaC_term;no_quality_term
+bjarnason_software_2023,Software selection in large-scale software engineering: A model and criteria based on interactive rapid reviews,no_IaC_term;no_quality_term
 salecha_observability_2022,Observability,no_IaC_term;no_quality_term
-smith_your_2022,Your {First,no_IaC_term;no_quality_term
-tonello_extend_2022,Extend {Your,no_IaC_term;no_quality_term
-pothecary_developing_2021,Developing on {AWS,no_IaC_term;no_quality_term
-zeeshan_securing_2020,Securing {Build,no_IaC_term;no_quality_term
-atwal_devops_2019,{DevOps,no_IaC_term;no_quality_term
-cabrera-vives_managing_2022,Managing the {Root,no_IaC_term;no_quality_term
+smith_your_2022,Your First Steps with Ansible,no_quality_term
+tonello_extend_2022,Extend Your DevOps Capabilities with Git,no_IaC_term;no_quality_term
+pothecary_developing_2021,Developing on AWS,no_IaC_term;no_quality_term
+zeeshan_securing_2020,Securing Build Systems for DevOps,no_IaC_term;no_quality_term
+atwal_devops_2019,DevOps for DataOps,no_IaC_term;no_quality_term
+cabrera-vives_managing_2022,Managing the Root Causes of “Internal API Hell”: An Experience Report,no_IaC_term;no_quality_term
 sayagh_what_2020,What should your run-time configuration framework do to help developers?,no_IaC_term;no_quality_term
-camacho_elasticblast_2023,{ElasticBLAST,no_IaC_term;no_quality_term
-chandrasekara_introduction_2021,Introduction to {GitHub,no_IaC_term;no_quality_term
-redder_information_2025,Information and {Communication,no_IaC_term;no_quality_term
-rademacher_towards_2022,Towards an {Extensible,no_IaC_term;no_quality_term
-castro_hybrid_2023,Hybrid {Serverless,no_IaC_term;no_quality_term
-soldatos_reference_2022,A {Reference,no_IaC_term;no_quality_term
-riti_hashicorp_2021,The {HashiCorp,no_IaC_term;no_quality_term
-rastogi_introduction_2023,Introduction to {Jamf,no_IaC_term;no_quality_term
-beneken_deployment_2022,Deployment und {Betrieb,no_IaC_term;no_quality_term
-malvik_apis_2022,{APIs,no_IaC_term;no_quality_term
-harzenetter_integrated_2023,An {Integrated,no_IaC_term;no_quality_term
+camacho_elasticblast_2023,ElasticBLAST: accelerating sequence search via cloud computing,no_IaC_term;no_quality_term
+chandrasekara_introduction_2021,Introduction to GitHub Actions,no_IaC_term;no_quality_term
+redder_information_2025,"Information and Communication Technologies (ICT) for the intelligent operation of building energy systems: design, implementation and evaluation in a living lab",no_IaC_term;no_quality_term
+rademacher_towards_2022,Towards an Extensible Approach for Generative Microservice Development and Deployment Using LEMMA,no_IaC_term;no_quality_term
+castro_hybrid_2023,Hybrid Serverless Computing: Opportunities and Challenges,no_IaC_term;no_quality_term
+soldatos_reference_2022,A Reference Architecture Model for Big Data Systems in the Finance Sector,no_IaC_term;no_quality_term
+riti_hashicorp_2021,The HashiCorp Ecosystem,no_IaC_term;no_quality_term
+rastogi_introduction_2023,Introduction to Jamf and Apple Enterprise Management,no_IaC_term;no_quality_term
+beneken_deployment_2022,Deployment und Betrieb,no_IaC_term;no_quality_term
+malvik_apis_2022,APIs and Products,no_IaC_term;no_quality_term
+harzenetter_integrated_2023,An Integrated Management System for Composed Applications Deployed by Different Deployment Automation Technologies,no_IaC_term;no_quality_term
 berardi_time_2023,Time sensitive networking security: issues of precision time protocol and its implementation,no_IaC_term
-janovic_aci_2022,{ACI,no_IaC_term;no_quality_term
-chaganti_introduction_2018,Introduction to {Infrastructure,no_IaC_term;no_quality_term
+janovic_aci_2022,ACI Automation and Programmability,no_IaC_term;no_quality_term
+chaganti_introduction_2018,Introduction to Infrastructure as Code and PowerShell DSC,no_quality_term
 lalanda_service-oriented_2020,A service-oriented edge platform for cyber-physical systems,no_IaC_term;no_quality_term
-basmadjian_orchestration_2025,Orchestration to {Optimize,no_IaC_term;no_quality_term
-lyu_going_2021,Going {Serverless,no_IaC_term;no_quality_term
-goniwada_modernize_2021,Modernize {Monolithic,no_IaC_term;no_quality_term
-sabharwal_introduction_2020,Introduction to {GCP,no_IaC_term;no_quality_term
-smart_serverless_2022,Serverless {Basics,no_IaC_term;no_quality_term
-risco_serverless_2021,Serverless {Workflows,no_IaC_term;no_quality_term
-kanumuri_cloud_2024-3,Cloud {FinOps,no_IaC_term;no_quality_term
-cottrell_deployment_2020,Deployment and {Monitoring,no_IaC_term;no_quality_term
-zweihoff_aligned_2021,"Aligned, {Purpose",no_IaC_term;no_quality_term
-zhao_cats_2023,{CATS,no_IaC_term;no_quality_term
-cruzes_testing_2019,Testing in a {DevOps,no_IaC_term
+basmadjian_orchestration_2025,Orchestration to Optimize Energy and Demand,no_IaC_term;no_quality_term
+lyu_going_2021,Going Serverless,no_IaC_term;no_quality_term
+goniwada_modernize_2021,Modernize Monolithic Applications to Cloud Native,no_IaC_term;no_quality_term
+sabharwal_introduction_2020,Introduction to GCP Automation,no_IaC_term;no_quality_term
+smart_serverless_2022,Serverless Basics,no_IaC_term;no_quality_term
+risco_serverless_2021,Serverless Workflows for Containerised Applications in the Cloud Continuum,no_quality_term
+kanumuri_cloud_2024-3,Cloud FinOps,no_IaC_term;no_quality_term
+cottrell_deployment_2020,Deployment and Monitoring,no_IaC_term;no_quality_term
+zweihoff_aligned_2021,"Aligned, Purpose-Driven Cooperation: The Future Way of System Development",no_IaC_term;no_quality_term
+zhao_cats_2023,CATS: A Serious Game in Industry Towards Stronger Cloud Security,no_IaC_term
+cruzes_testing_2019,Testing in a DevOps Era: Perceptions of Testers in Norwegian Organisations,no_IaC_term
 hitchcock_automation_2022,Automation,no_IaC_term;no_quality_term
-vlasov_analysis_2020,Analysis of {Modern,no_IaC_term
-konig_devops_2022,{DevOps,no_IaC_term;no_quality_term
-pereira_junior_interfacer_2019,Interfacer: {A,no_IaC_term;no_quality_term
-oliveira_rocha_overcoming_2021,Overcoming the {Challenges,no_IaC_term;no_quality_term
-christian_low-cost_2022,A {Low,no_IaC_term;no_quality_term
-cespedes_software_2019,Software {Product,no_IaC_term;no_quality_term
-bilke_development_2019,Development of {Open,no_IaC_term;no_quality_term
-soh_continuous_2020,Continuous {Integration,no_IaC_term;no_quality_term
-johnston_devops_2020,{DevOps,no_IaC_term;no_quality_term
-choi_python_2021,Python {Network,no_IaC_term;no_quality_term
-alfonso_model-based_2023,A model-based infrastructure for the specification and runtime execution of self-adaptive {IoT,no_IaC_term;no_quality_term
-rendon_working_2022,Working with {Larger,no_IaC_term;no_quality_term
-price_language_2021,Language – {Understand,no_IaC_term;no_quality_term
-colomb_applying_2022,Applying {Zero,no_IaC_term;no_quality_term
-peregud_control_2021,Control {Plane,no_IaC_term;no_quality_term
-sabharwal_traditional_2021,Traditional {Infrastructure,no_IaC_term;no_quality_term
-rangras_design_2020,Design of {Framework,no_IaC_term;no_quality_term
-dorasamy_platform_2021,Platform {Architecture,no_IaC_term;no_quality_term
-diaz_why_2021,Why are many businesses instilling a {DevOps,no_IaC_term;no_quality_term
-pessolani_service_2022,Service {Proxy,no_IaC_term;no_quality_term
-goniwada_intelligent_2021,Intelligent {Operations,no_IaC_term;no_quality_term
-song_model-based_2022,Model-based fleet deployment in the {IoT,no_IaC_term;no_quality_term
+konig_devops_2022,DevOps – Welcome to the Jungle,no_IaC_term;no_quality_term
+pereira_junior_interfacer_2019,Interfacer: A Model-Driven Development Method for SDN Applications,no_IaC_term;no_quality_term
+oliveira_rocha_overcoming_2021,Overcoming the Challenges in Quality Assurance,no_IaC_term
+christian_low-cost_2022,"A Low-Cost and Cloud Native Solution for Security Orchestration, Automation, and Response",no_IaC_term
+cespedes_software_2019,Software Product Quality in DevOps Contexts: A Systematic Literature Review,no_IaC_term
+bilke_development_2019,Development of Open-Source Porous Media Simulators: Principles and Experiences,no_IaC_term;no_quality_term
+soh_continuous_2020,Continuous Integration/Continuous Delivery with Azure DevOps,no_IaC_term;no_quality_term
+johnston_devops_2020,DevOps Infrastructure,no_IaC_term;no_quality_term
+choi_python_2021,Python Network Automation Lab: Cisco IOS Upgrade Mini Tools Development,no_IaC_term;no_quality_term
+alfonso_model-based_2023,A model-based infrastructure for the specification and runtime execution of self-adaptive IoT architectures,no_IaC_term;no_quality_term
+rendon_working_2022,Working with Larger and More Complex Environments,no_IaC_term;no_quality_term
+price_language_2021,Language – Understand Unstructured Text and Models,no_IaC_term;no_quality_term
+colomb_applying_2022,Applying Zero Trust Architecture and Probability-Based Authentication to Preserve Security and Privacy of Data in the Cloud,no_IaC_term
+peregud_control_2021,Control Plane Systems Tracing and Debugging—Existing Problems and Proposed Solution,no_IaC_term
+sabharwal_traditional_2021,Traditional Infrastructure Operations,no_IaC_term;no_quality_term
+rangras_design_2020,Design of Framework for Disaster Recovery in Cloud Computing,no_IaC_term;no_quality_term
+dorasamy_platform_2021,Platform Architecture,no_IaC_term;no_quality_term
+diaz_why_2021,Why are many businesses instilling a DevOps culture into their organization?,no_IaC_term;no_quality_term
+pessolani_service_2022,Service Proxy for a Distributed Virtualization System,no_IaC_term;no_quality_term
+goniwada_intelligent_2021,Intelligent Operations,no_IaC_term;no_quality_term
+song_model-based_2022,Model-based fleet deployment in the IoT–edge–cloud continuum,no_IaC_term;no_quality_term
 mogadem_survey_2021,"A survey on internet of energy security: related fields, challenges, threats and emerging technologies",no_IaC_term
-choi_learning_2023-1,Learning {Ansible,no_quality_term
-copeland_azure_2020,Azure {Network,no_IaC_term;no_quality_term
-sabharwal_aiops_2022,{AIOps,no_IaC_term;no_quality_term
-desbiens_what_2022,What {Is,no_IaC_term;no_quality_term
-alt_continuous_2021,Continuous {Innovation,no_IaC_term;no_quality_term
-mock_upilio_2022,Upilio: {Leveraging,no_IaC_term;no_quality_term
-do_towards_2022,Towards {Remote,no_IaC_term;no_quality_term
-harrison_shifting_2019,Shifting {Left,no_IaC_term;no_quality_term
-lesteve_tools_2021,The {Tools,no_IaC_term;no_quality_term
-upadrista_iot_2021,{IoT,no_IaC_term;no_quality_term
-haines_getting_2022,Getting {Started,no_IaC_term;no_quality_term
-hass_interactive_2021,Interactive {Application,no_IaC_term;no_quality_term
-debab_containers_2020,Containers {Runtimes,no_quality_term
-yussupov_serverless_2022,Serverless or {Serverful,no_IaC_term;no_quality_term
-jimenez_devops_2019,{DevOps,no_IaC_term;no_quality_term
-copeland_other_2021,Other {Azure,no_IaC_term;no_quality_term
-copeland_security_2020,Security {Governance,no_IaC_term
-satapathi_authentication_2021,Authentication and {Authorization,no_IaC_term;no_quality_term
-erich_devops_2019,{DevOps,no_IaC_term;no_quality_term
-zolfagharinia_study_2019,A study of build inflation in 30 million {CPAN,no_IaC_term;no_quality_term
-kaschner_cyber_2024,Cyber {Crisis,no_IaC_term;no_quality_term
-campbell_cloudformation_2019,{CloudFormation,no_quality_term
-kumara_qsoc_2021,{QSOC,no_IaC_term;no_quality_term
-ots_identity_2021,Identity and {Access,no_IaC_term;no_quality_term
-chakraborty_disaster_2020,Disaster {Recovery,no_IaC_term;no_quality_term
-ots_workload_2021,Workload {Protection,no_IaC_term;no_quality_term
-png_architecting_2022,Architecting a {Secure,no_IaC_term;no_quality_term
-glake_towards_2021,Towards {Taming,no_IaC_term;no_quality_term
-chandrasekara_understanding_2020,Understanding the {Importance,no_IaC_term;no_quality_term
-sheikh_automated_2019,Automated {Resource,no_IaC_term;no_quality_term
-tomarchio_torch_2021,{TORCH,no_IaC_term;no_quality_term
-raatikainen_state_2021,State of the {Practice,no_IaC_term
-wei_deployment_2021,Deployment {Management,no_IaC_term;no_quality_term
+choi_learning_2023-1,"Learning Ansible Basic Concepts III: Git, Tags, Managing Files, and Services",no_quality_term
+copeland_azure_2020,Azure Network Security Configuration,no_IaC_term
+sabharwal_aiops_2022,AIOps Architecture and Methodology,no_IaC_term;no_quality_term
+desbiens_what_2022,What Is IoT?,no_IaC_term;no_quality_term
+alt_continuous_2021,Continuous Innovation with DevOps at T-Systems MMS,no_IaC_term;no_quality_term
+mock_upilio_2022,Upilio: Leveraging the Serverless Paradigm for Building a Versatile IoT Application,no_IaC_term;no_quality_term
+do_towards_2022,Towards Remote Deployment for Intrusion Detection System to IoT Edge Devices,no_IaC_term;no_quality_term
+harrison_shifting_2019,Shifting Left,no_IaC_term;no_quality_term
+lesteve_tools_2021,The Tools and Prerequisites,no_IaC_term;no_quality_term
+upadrista_iot_2021,IoT Product Team,no_IaC_term;no_quality_term
+haines_getting_2022,Getting Started with Apache Spark,no_IaC_term;no_quality_term
+hass_interactive_2021,Interactive Application Deployment Planning for Heterogeneous Computing Continuums,no_IaC_term;no_quality_term
+debab_containers_2020,Containers Runtimes War: A Comparative Study,no_quality_term
+yussupov_serverless_2022,Serverless or Serverful? A Pattern-Based Approach for Exploring Hosting Alternatives,no_IaC_term;no_quality_term
+jimenez_devops_2019,DevOps Round-Trip Engineering: Traceability from Dev to Ops and Back Again,no_IaC_term;no_quality_term
+copeland_other_2021,Other Azure Security Services,no_IaC_term
+copeland_security_2020,Security Governance Operations,no_IaC_term
+satapathi_authentication_2021,Authentication and Authorization Using Azure Active Directory,no_IaC_term;no_quality_term
+erich_devops_2019,DevOps is Simply Interaction Between Development and Operations,no_IaC_term;no_quality_term
+zolfagharinia_study_2019,A study of build inflation in 30 million CPAN builds on 13 Perl versions and 10 operating systems,no_IaC_term;no_quality_term
+kaschner_cyber_2024,Cyber Crisis Response,no_IaC_term;no_quality_term
+campbell_cloudformation_2019,CloudFormation In-Depth,no_quality_term
+kumara_qsoc_2021,QSOC: Quantum Service-Oriented Computing,no_IaC_term;no_quality_term
+ots_identity_2021,Identity and Access Management,no_IaC_term;no_quality_term
+chakraborty_disaster_2020,Disaster Recovery: Background,no_IaC_term;no_quality_term
+ots_workload_2021,Workload Protection – IaaS,no_IaC_term;no_quality_term
+png_architecting_2022,Architecting a Secure Infrastructure for APEX,no_IaC_term;no_quality_term
+glake_towards_2021,Towards Taming the Adaptivity Problem: Formalizing Poly-/MultiStore Topology Descriptions,no_IaC_term;no_quality_term
+chandrasekara_understanding_2020,Understanding the Importance of Software Delivery Automation,no_IaC_term;no_quality_term
+sheikh_automated_2019,Automated Resource Management on AWS Cloud Platform,no_IaC_term;no_quality_term
+tomarchio_torch_2021,TORCH: a TOSCA-Based Orchestrator of Multi-Cloud Containerised Applications,no_quality_term
+raatikainen_state_2021,State of the Practice in Application Programming Interfaces (APIs): A Case Study,no_IaC_term
+wei_deployment_2021,Deployment Management and Topology Discovery of Microservice Applications in the Multicloud Environment,no_IaC_term;no_quality_term
 ruiz-rube_applying_2019,Applying static code analysis for domain-specific languages,no_IaC_term
-ikeshita_test_2017,Test {Suite,no_IaC_term
-copeland_azure_2020-1,Azure {Kubernetes,no_quality_term
-steffen_agile_2021,Agile {Business,no_IaC_term;no_quality_term
-buchanan_regulatory_2021,Regulatory and {Security,no_IaC_term
-lourenco_experimenting_2020,Experimenting with {Liveness,no_IaC_term;no_quality_term
-harrison_drilling_2019,Drilling {In,no_IaC_term;no_quality_term
-jones_using_2019,Using {Code,no_IaC_term;no_quality_term
-soh_tools_2020,Tools and {Training,no_IaC_term;no_quality_term
+steffen_agile_2021,Agile Business Engineering: From Transformation Towards ContinuousInnovation,no_IaC_term;no_quality_term
+buchanan_regulatory_2021,Regulatory and Security Compliance for Azure Arc Servers,no_IaC_term
+lourenco_experimenting_2020,Experimenting with Liveness in Cloud Infrastructure Management,no_IaC_term;no_quality_term
+harrison_drilling_2019,Drilling In,no_IaC_term;no_quality_term
+jones_using_2019,Using Code Generation to Enforce Uniformity in Software Delivery Pipelines,no_IaC_term;no_quality_term
+soh_tools_2020,Tools and Training to Up-Skill Existing IT Teams,no_IaC_term;no_quality_term
 tomarchio_cloud_2020,Cloud resource orchestration in the multi-cloud landscape: a systematic review of existing frameworks,no_IaC_term;no_quality_term
-halstenberg_devops-aktivitaten_2020,{DevOps,no_IaC_term;no_quality_term
-angara_devops_2018,{DevOps,no_IaC_term;no_quality_term
+halstenberg_devops-aktivitaten_2020,DevOps-Aktivitäten,no_IaC_term;no_quality_term
+angara_devops_2018,DevOps with Continuous Testing Architecture and Its Metrics Model,no_IaC_term
 moore_learning_2020,Learning,no_IaC_term;no_quality_term
 oluyisola_designing_2021,Designing and developing smart production planning and control systems in the industry 4.0 era: a methodology and case study,no_IaC_term;no_quality_term
-harrison_interviews_2019,Interviews and {Case,no_IaC_term;no_quality_term
+harrison_interviews_2019,Interviews and Case Studies,no_IaC_term;no_quality_term
 porath_i_2020,I,no_IaC_term;no_quality_term
-riti_introduction_2021,Introduction to {Go,no_IaC_term;no_quality_term
-shivakumar_digital_2019,Digital {Transformation,no_IaC_term;no_quality_term
-udayakumar_getting_2022,Getting {Started,no_IaC_term;no_quality_term
-rajasekharaiah_securing_2020,Securing {Microservices,no_IaC_term;no_quality_term
-harrison_numbers_2019,Numbers {Lead,no_IaC_term;no_quality_term
-serdyukova_system_2020,System {Structure,no_IaC_term;no_quality_term
+riti_introduction_2021,Introduction to Go,no_IaC_term;no_quality_term
+shivakumar_digital_2019,Digital Transformation to Next-Generation Workplaces,no_IaC_term;no_quality_term
+udayakumar_getting_2022,Getting Started with AVS,no_IaC_term;no_quality_term
+rajasekharaiah_securing_2020,Securing Microservices on Cloud,no_IaC_term;no_quality_term
+harrison_numbers_2019,Numbers Lead the Way,no_IaC_term;no_quality_term
+serdyukova_system_2020,System Structure Randomness and Integrity. Random Graphs Models,no_IaC_term;no_quality_term
 beneken_einfuhrung_2022,Einführung,no_IaC_term;no_quality_term
-bogelsack_sap_2022-1,{SAP,no_IaC_term;no_quality_term
-campbell_infra_2019,Infra the {Beginning,no_IaC_term;no_quality_term
-png_oracle_2022,Oracle {Machine,no_IaC_term;no_quality_term
-rajasekharaiah_core_2020,Core {Cloud,no_IaC_term;no_quality_term
-bird_derivation_2020,Derivation of a {Conceptual,no_IaC_term;no_quality_term
-stefanovic_virtual_2021,Virtual {Machine,no_IaC_term;no_quality_term
-paraschis_system_2020,System innovations in open {WDM,no_IaC_term;no_quality_term
-choi_introduction_2021,Introduction to {Python,no_IaC_term;no_quality_term
-jakobczyk_automating_2020,Automating {Cloud,no_IaC_term;no_quality_term
-karl_case_2019,A {Case,no_IaC_term;no_quality_term
-modi_azure_2021,Azure and {Terraform,no_quality_term
-sabella_mec_2021,{MEC,no_IaC_term;no_quality_term
-jones_proposal_2019,A {Proposal,no_IaC_term;no_quality_term
-garbis_zero_2021,Zero {Trust,no_IaC_term;no_quality_term
-thelen_beschleunigung_2020,Beschleunigung der digitalen {Produktentwicklung,no_IaC_term;no_quality_term
-campbell_current_2019,The {Current,no_IaC_term;no_quality_term
-soh_implementing_2020,Implementing {Azure,no_IaC_term;no_quality_term
-vetter_online_2019,Online {Detection,no_IaC_term;no_quality_term
-ullah_micado-edge_2021,{MiCADO,no_IaC_term;no_quality_term
-shivakumar_web_2020,Web {Performance,no_IaC_term
+bogelsack_sap_2022-1,SAP S/4HANA on AWS Elastic Compute Cloud – Concepts and Architecture,no_IaC_term;no_quality_term
+campbell_infra_2019,Infra the Beginning,no_IaC_term;no_quality_term
+png_oracle_2022,Oracle Machine Learning REST Services,no_IaC_term;no_quality_term
+rajasekharaiah_core_2020,Core Cloud Concepts: Compute,no_IaC_term;no_quality_term
+bird_derivation_2020,Derivation of a Conceptual Framework to Assess and Mitigate Identified Customer Cybersecurity Risks by Utilizing the Public Cloud,no_IaC_term
+stefanovic_virtual_2021,Virtual Machine: Virtual Machine Scale Sets in Azure Compute,no_IaC_term;no_quality_term
+paraschis_system_2020,System innovations in open WDM DCI networks,no_IaC_term;no_quality_term
+choi_introduction_2021,Introduction to Python Network Automation,no_IaC_term;no_quality_term
+jakobczyk_automating_2020,Automating Cloud Infrastructure,no_IaC_term;no_quality_term
+karl_case_2019,A Case for a New IT Ecosystem: On-The-Fly Computing,no_IaC_term;no_quality_term
+modi_azure_2021,Azure and Terraform,no_quality_term
+sabella_mec_2021,MEC in Virtualized Environments,no_IaC_term;no_quality_term
+jones_proposal_2019,A Proposal for Integrating DevOps into Software Engineering Curricula,no_IaC_term;no_quality_term
+garbis_zero_2021,Zero Trust Scenarios,no_IaC_term;no_quality_term
+thelen_beschleunigung_2020,Beschleunigung der digitalen Produktentwicklung durch den Einsatz von Open Source Bausteinen,no_IaC_term;no_quality_term
+campbell_current_2019,The Current Landscape,no_IaC_term;no_quality_term
+soh_implementing_2020,Implementing Azure Networking,no_IaC_term;no_quality_term
+vetter_online_2019,Online Detection of Operator Errors in Cloud Computing Using Anti-patterns,no_IaC_term
+ullah_micado-edge_2021,MiCADO-Edge: Towards an Application-level Orchestrator for the Cloud-to-Edge Computing Continuum,no_IaC_term;no_quality_term
+shivakumar_web_2020,Web Performance Monitoring and Infrastructure Planning,no_IaC_term
 wurster_essential_2019,The essential deployment metamodel: a systematic review of deployment automation technologies,no_IaC_term;no_quality_term
-kousa_teaching_2020,Teaching {Container,no_quality_term
-ots_logging_2021,Logging and {Monitoring,no_IaC_term;no_quality_term
-weissman_big_2020,Big {Data,no_IaC_term;no_quality_term
-bahadori_devops_2019,{DevOps,no_IaC_term;no_quality_term
-harrison_abyss_2019,The {Abyss,no_IaC_term;no_quality_term
-millward_new_2021,The {New,no_IaC_term;no_quality_term
-patel_introduction_2020,Introduction to {Cloud,no_IaC_term;no_quality_term
-soh_azure_2020,Azure {Web,no_IaC_term;no_quality_term
-harrison_end_2019,The {End,no_IaC_term;no_quality_term
-jakobczyk_building_2020,Building {Your,no_IaC_term;no_quality_term
-tinetti_evaluating_2019,Evaluating {Performance,no_IaC_term
-davis_devops_2019,{DevOps,no_IaC_term;no_quality_term
-siebra_empowering_2019,Empowering {Continuous,no_IaC_term;no_quality_term
-soh_budgeting_2020,Budgeting and {Cloud,no_IaC_term;no_quality_term
-rademacher_graphical_2019,Graphical and {Textual,no_IaC_term;no_quality_term
+ots_logging_2021,Logging and Monitoring,no_IaC_term;no_quality_term
+weissman_big_2020,Big Data Cluster Architecture,no_IaC_term;no_quality_term
+bahadori_devops_2019,DevOps Meets Dynamic Orchestration,no_IaC_term;no_quality_term
+harrison_abyss_2019,The Abyss Stares Back,no_IaC_term;no_quality_term
+millward_new_2021,The New Normal: Cybersecurity and Associated Drivers for a Post-COVID-19 Cloud,no_IaC_term
+patel_introduction_2020,Introduction to Cloud Computing and Amazon Web Services (AWS),no_IaC_term;no_quality_term
+soh_azure_2020,Azure Web Apps,no_IaC_term;no_quality_term
+harrison_end_2019,The End of the Beginning,no_IaC_term;no_quality_term
+jakobczyk_building_2020,Building Your First Cloud Application,no_IaC_term;no_quality_term
+tinetti_evaluating_2019,Evaluating Performance of Web Applications in (Cloud) Virtualized Environments,no_IaC_term
+davis_devops_2019,DevOps,no_IaC_term;no_quality_term
+siebra_empowering_2019,Empowering Continuous Delivery in Software Development: The DevOps Strategy,no_IaC_term;no_quality_term
+soh_budgeting_2020,Budgeting and Cloud Economics,no_IaC_term;no_quality_term
+rademacher_graphical_2019,Graphical and Textual Model-Driven Microservice Development,no_IaC_term;no_quality_term
 laukkanen_comparison_2018,Comparison of release engineering practices in a large mature company and a startup,no_IaC_term
-blum_simplify_2020,Simplify and {Rationalize,no_IaC_term;no_quality_term
-hemon_agile_2019,From {Agile,no_IaC_term;no_quality_term
-gunnarsson_-premises_2020,On-{Premises,no_IaC_term;no_quality_term
-alt_transformation_2018,Transformation of {Consulting,no_IaC_term;no_quality_term
-simm_models_2020,Models in the {Cloud,no_IaC_term;no_quality_term
-macero_garcia_common_2020,Common {Patterns,no_IaC_term;no_quality_term
-de_tender_introduction_2019,Introduction to {Azure,no_IaC_term;no_quality_term
-krishna_kaiser_introduction_2018,Introduction to {DevOps,no_IaC_term;no_quality_term
-orzechowski_reproducibility_2020,Reproducibility of {Computational,no_IaC_term;no_quality_term
-riti_introduction_2018,Introduction to {DevOps,no_IaC_term;no_quality_term
-chakraborty_recovering_2020,Recovering {Microsoft,no_IaC_term;no_quality_term
-chandrasekara_working_2018,Working on the {Iteration,no_IaC_term;no_quality_term
-perez-palacin_uml_2019,A {UML,no_IaC_term;no_quality_term
-alam_software_2020,Software {Defined,no_IaC_term;no_quality_term
-frischbier_managing_2019,Managing the {Complexity,no_IaC_term;no_quality_term
-chen_semi-supervised_2019,Semi-{Supervised,no_IaC_term;no_quality_term
-lenz_conclusions_2018,Conclusions and {Outlook,no_IaC_term;no_quality_term
-sabharwal_introduction_2020-1,Introduction to {GKE,no_IaC_term;no_quality_term
-sandobalin_model-driven_2018,A {Model,no_IaC_term;no_quality_term
-hochrein_scaling_2019,Scaling {Development,no_IaC_term;no_quality_term
-harrison_where_2019,Where {Do,no_IaC_term;no_quality_term
-stone_it_2018,{IT,no_IaC_term;no_quality_term
-sarmiento_creating_2020,Creating {Custom,no_IaC_term;no_quality_term
-osborne_developing_2018,Developing a {Spiral,no_IaC_term;no_quality_term
-soh_overview_2020,Overview of {Azure,no_IaC_term;no_quality_term
-ng_predicting_2018,Predicting {Issues,no_IaC_term;no_quality_term
-bagnato_developer-centric_2018,Developer-{Centric,no_IaC_term;no_quality_term
-kneuper_selected_2018,Selected {Current,no_IaC_term;no_quality_term
-konig_devopswelcome_2019,{DevOps,no_IaC_term;no_quality_term
-capozucca_design_2019,Design of a ({Yet,no_IaC_term;no_quality_term
+blum_simplify_2020,Simplify and Rationalize IT and Security,no_IaC_term
+hemon_agile_2019,From Agile to DevOps: Smart Skills and Collaborations,no_IaC_term;no_quality_term
+gunnarsson_-premises_2020,On-Premises Data Gateway,no_IaC_term;no_quality_term
+alt_transformation_2018,Transformation of Consulting for Software-Defined Businesses: Lessons from a DevOps Case Study in a German IT Company,no_IaC_term;no_quality_term
+simm_models_2020,Models in the Cloud: Exploring Next Generation Environmental Software Systems,no_IaC_term;no_quality_term
+macero_garcia_common_2020,Common Patterns in Microservice Architectures,no_IaC_term;no_quality_term
+de_tender_introduction_2019,Introduction to Azure Governance at Scale for the Enterprise,no_IaC_term;no_quality_term
+krishna_kaiser_introduction_2018,Introduction to DevOps,no_IaC_term;no_quality_term
+orzechowski_reproducibility_2020,Reproducibility of Computational Experiments on Kubernetes-Managed Container Clouds with HyperFlow,no_quality_term
+riti_introduction_2018,Introduction to DevOps,no_IaC_term;no_quality_term
+chakraborty_recovering_2020,Recovering Microsoft Azure Workloads to Another Azure Region,no_IaC_term;no_quality_term
+chandrasekara_working_2018,Working on the Iteration,no_IaC_term;no_quality_term
+perez-palacin_uml_2019,"A UML Profile for the Design, Quality Assessment and Deployment of Data-intensive Applications",no_IaC_term
+alam_software_2020,Software Defined Infrastructure for Operational Numerical Weather Prediction,no_IaC_term;no_quality_term
+frischbier_managing_2019,Managing the Complexity of Processing Financial Data at Scale - An Experience Report,no_IaC_term;no_quality_term
+chen_semi-supervised_2019,Semi-Supervised Learning Based Tag Recommendation for Docker Repositories,no_quality_term
+lenz_conclusions_2018,Conclusions and Outlook,no_IaC_term;no_quality_term
+sabharwal_introduction_2020-1,Introduction to GKE,no_IaC_term;no_quality_term
+sandobalin_model-driven_2018,A Model-Driven Approach to Continuous Delivery of Cloud Resources,no_IaC_term;no_quality_term
+hochrein_scaling_2019,Scaling Development,no_IaC_term;no_quality_term
+harrison_where_2019,Where Do I Start?,no_IaC_term;no_quality_term
+stone_it_2018,IT Equals “It’s Tough”,no_IaC_term;no_quality_term
+sarmiento_creating_2020,Creating Custom SQL Server on Linux Container Images,no_quality_term
+osborne_developing_2018,Developing a Spiral Curriculum for Teaching Agile at the National Software Academy,no_IaC_term;no_quality_term
+soh_overview_2020,Overview of Azure Infrastructure as a Service (IaaS) Services,no_IaC_term;no_quality_term
+ng_predicting_2018,Predicting Issues for Resolving in the Next Release,no_IaC_term;no_quality_term
+bagnato_developer-centric_2018,Developer-Centric Knowledge Mining from Large Open-Source Software Repositories (CROSSMINER),no_IaC_term;no_quality_term
+kneuper_selected_2018,Selected Current Trends in Software Processes,no_IaC_term;no_quality_term
+konig_devopswelcome_2019,DevOps—Welcome to the Jungle,no_IaC_term;no_quality_term
+capozucca_design_2019,Design of a (Yet Another?) DevOps Course,no_IaC_term;no_quality_term
 northwood_deployment_2018,Deployment,no_IaC_term;no_quality_term
-haff_open_2018,Open {Source,no_IaC_term;no_quality_term
-benkler_auf_2018,Auf dem {Gerät,no_IaC_term;no_quality_term
-ivanov_implementation_2018,Implementation of a {DevOps,no_IaC_term;no_quality_term
-jakobczyk_introducing_2020,Introducing {Oracle,no_IaC_term;no_quality_term
-chakraborty_continuous_2019,Continuous {Monitoring,no_IaC_term;no_quality_term
-medina_provisioning_2018,Provisioning the {SharePoint,no_IaC_term;no_quality_term
+haff_open_2018,Open Source Development Model,no_IaC_term;no_quality_term
+benkler_auf_2018,Auf dem Gerät: Sicherheit,no_IaC_term;no_quality_term
+ivanov_implementation_2018,Implementation of a DevOps Pipeline for Serverless Applications,no_IaC_term;no_quality_term
+jakobczyk_introducing_2020,Introducing Oracle Cloud Infrastructure,no_IaC_term;no_quality_term
+chakraborty_continuous_2019,Continuous Monitoring and Changes,no_IaC_term;no_quality_term
+medina_provisioning_2018,Provisioning the SharePoint Farm to Azure Using Terraform,no_quality_term
 davis_salesforce_2019,Salesforce,no_IaC_term;no_quality_term
-weissman_big_2019,Big {Data,no_IaC_term;no_quality_term
-chaganti_dsc_2018,{DSC,no_IaC_term;no_quality_term
+weissman_big_2019,Big Data Cluster Architecture,no_IaC_term;no_quality_term
+chaganti_dsc_2018,DSC and the Release Pipeline,no_IaC_term;no_quality_term
 medina_introduction_2018,Introduction,no_IaC_term;no_quality_term
-keeriyattil_microsegmentation_2019,Microsegmentation and {Zero,no_IaC_term;no_quality_term
-juner_praxisbasierte_2017,Praxisbasierte {Capability,no_IaC_term;no_quality_term
-joseph_probe_2018,A {Probe,no_IaC_term;no_quality_term
-walker-roberts_artificial_2018,Artificial {Intelligence,no_IaC_term;no_quality_term
-zhou_semitagrec_2019,{SemiTagRec,no_IaC_term;no_quality_term
-riti_creating_2018,Creating and {Managing,no_IaC_term;no_quality_term
-castellanos_executing_2018,Executing {Architectural,no_IaC_term;no_quality_term
-farooqui_evolution_2018,Evolution of {Teams,no_IaC_term;no_quality_term
-syrewicze_continue_2018,Continue {Learning,no_IaC_term;no_quality_term
+keeriyattil_microsegmentation_2019,Microsegmentation and Zero Trust: Introduction,no_IaC_term;no_quality_term
+juner_praxisbasierte_2017,Praxisbasierte Capability-Modelle für DevOps-Einsätze in Unternehmen,no_IaC_term;no_quality_term
+joseph_probe_2018,A Probe into the Technological Enablers of Microservice Architectures,no_IaC_term;no_quality_term
+walker-roberts_artificial_2018,Artificial Intelligence Agents as Mediators of Trustless Security Systems and Distributed Computing Applications,no_IaC_term
+zhou_semitagrec_2019,SemiTagRec: A Semi-supervised Learning Based Tag Recommendation Approach for Docker Repositories,no_quality_term
+riti_creating_2018,Creating and Managing Infrastructure in GCP,no_IaC_term;no_quality_term
+castellanos_executing_2018,Executing Architectural Models for Big Data Analytics,no_IaC_term;no_quality_term
+farooqui_evolution_2018,Evolution of Teams,no_IaC_term;no_quality_term
+syrewicze_continue_2018,Continue Learning,no_IaC_term;no_quality_term
 shahin_empirical_2018,An empirical study of architecting for continuous delivery and deployment,no_IaC_term;no_quality_term
-krishna_kaiser_teams_2018,Teams and {Structures,no_IaC_term;no_quality_term
-medina_build_2018,Build a {Dev,no_IaC_term;no_quality_term
-sandobalin_argon_2018,{ARGON,no_IaC_term;no_quality_term
-faily_further_2018,Further {Applications,no_IaC_term;no_quality_term
+krishna_kaiser_teams_2018,Teams and Structures,no_IaC_term;no_quality_term
+medina_build_2018,Build a Dev SharePoint Farm with Vagrant and ServerSpec,no_quality_term
+sandobalin_argon_2018,ARGON: A Tool for Modeling Cloud Resources,no_IaC_term;no_quality_term
+faily_further_2018,Further Applications of CAIRIS for Usable and Secure Software Design,no_IaC_term;no_quality_term
 falkenthal_algebraic_2019,On the algebraic properties of concrete solution aggregation,no_IaC_term;no_quality_term
-garverick_development_2018,Development {Concepts,no_IaC_term;no_quality_term
-lalanda_service-oriented_2018,Service-{Oriented,no_IaC_term;no_quality_term
-ullrich_benchmark_2018,A {Benchmark,no_IaC_term;no_quality_term
-raj_distinct_2018,The {Distinct,no_IaC_term;no_quality_term
-krishna_kaiser_integration_2018,Integration: {Alignment,no_IaC_term;no_quality_term
-garverick_transition_2018,Transition {Architectures,no_IaC_term;no_quality_term
-dhall_polyglot_2018,Polyglot {Persistence,no_IaC_term;no_quality_term
+garverick_development_2018,Development Concepts,no_IaC_term;no_quality_term
+lalanda_service-oriented_2018,Service-Oriented Approach for Analytics in Industry 4.0,no_IaC_term;no_quality_term
+ullrich_benchmark_2018,A Benchmark Model for the Creation of Compute Instance Performance Footprints,no_IaC_term
+raj_distinct_2018,The Distinct Trends and Transitions in the Information Technology (IT) Space,no_IaC_term;no_quality_term
+krishna_kaiser_integration_2018,Integration: Alignment of Processes,no_IaC_term;no_quality_term
+garverick_transition_2018,Transition Architectures,no_IaC_term;no_quality_term
+dhall_polyglot_2018,Polyglot Persistence,no_IaC_term;no_quality_term
 acetozi_docker_2017,Docker,no_quality_term
-tomlinson_drupal_2017,Drupal 8 {DevOps,no_IaC_term;no_quality_term
-zhou_cloudsstorm_2018,{CloudsStorm,no_IaC_term;no_quality_term
-varga_scale_2017,Scale of {Deployment,no_IaC_term;no_quality_term
-cuppett_automation_2016,Automation and {Code,no_IaC_term;no_quality_term
-dhall_concepts_2018,Concepts {We,no_IaC_term;no_quality_term
+tomlinson_drupal_2017,Drupal 8 DevOps,no_IaC_term;no_quality_term
+zhou_cloudsstorm_2018,CloudsStorm: An Application-Driven Framework to Enhance the Programmability and Controllability of Cloud Virtual Infrastructures,no_IaC_term;no_quality_term
+varga_scale_2017,Scale of Deployment,no_IaC_term;no_quality_term
+cuppett_automation_2016,Automation and Code Control,no_IaC_term;no_quality_term
+dhall_concepts_2018,Concepts We Tend to Ignore,no_IaC_term;no_quality_term
 reagan_deployment_2017,Deployment,no_IaC_term;no_quality_term
-familiar_devops_2017,{DevOps,no_IaC_term;no_quality_term
-cole_eve_2017,{EVE,no_IaC_term;no_quality_term
-nadon_updating_2017,Updating the {Stack,no_IaC_term;no_quality_term
-alt_innovationsorientiertes_2017,Innovationsorientiertes {IT,no_IaC_term;no_quality_term
-cuppett_integrating_2016,Integrating {Database,no_IaC_term;no_quality_term
+familiar_devops_2017,"DevOps Using PowerShell, ARM, and VSTS",no_quality_term
+cole_eve_2017,EVE: Cloud-Based Annotation of Human Genetic Variants,no_IaC_term;no_quality_term
+nadon_updating_2017,Updating the Stack,no_IaC_term;no_quality_term
+alt_innovationsorientiertes_2017,Innovationsorientiertes IT-Management mit DevOps,no_IaC_term;no_quality_term
+cuppett_integrating_2016,Integrating Database Technologies and DevOps Tools,no_IaC_term;no_quality_term
 brandes_blick_2017,Blick nach vorn,no_IaC_term;no_quality_term
-cuppett_optimizing_2016,Optimizing {Application,no_IaC_term;no_quality_term
+cuppett_optimizing_2016,Optimizing Application Performance with Change Management Improvements,no_IaC_term
 opara-martins_critical_2016,Critical analysis of vendor lock-in and its impact on cloud computing migration: a business perspective,no_IaC_term
-cuppett_dbas_2016,{DBAs,no_IaC_term;no_quality_term
-cuppett_devops_2016,{DevOps,no_IaC_term;no_quality_term
-vijayakumar_devops_2017,{DevOps,no_IaC_term;no_quality_term
-vyas_openstack_2016,{OpenStack,no_IaC_term;no_quality_term
-carneiro_deploying_2016,Deploying and {Running,no_IaC_term;no_quality_term
-colavita_devops_2016,{DevOps,no_IaC_term;no_quality_term
-ravichandran_it_2016,{IT,no_IaC_term;no_quality_term
-preston_configuration_2016,Configuration {Management,no_IaC_term;no_quality_term
-cuppett_integrating_2016-1,Integrating {DBA,no_IaC_term;no_quality_term
-brandes_qualitatsmanagement_2016,Qualitätsmanagement in agilen {IT,no_IaC_term;no_quality_term
-ravichandran_devops_2016,{DevOps,no_IaC_term;no_quality_term
-heap_getting_2016,Getting {Started,no_IaC_term;no_quality_term
+cuppett_dbas_2016,DBAs for DevOps,no_IaC_term;no_quality_term
+cuppett_devops_2016,DevOps for DBAs,no_IaC_term;no_quality_term
+vijayakumar_devops_2017,DevOps with Visual Studio Team Services and Azure,no_IaC_term;no_quality_term
+vyas_openstack_2016,OpenStack Deployment,no_IaC_term;no_quality_term
+carneiro_deploying_2016,Deploying and Running Microservices,no_IaC_term;no_quality_term
+colavita_devops_2016,"DevOps Movement of Enterprise Agile Breakdown Silos, Create Collaboration, Increase Quality, and Application Speed",no_IaC_term
+ravichandran_it_2016,IT Impasse,no_IaC_term;no_quality_term
+preston_configuration_2016,Configuration Management using Chef,no_quality_term
+cuppett_integrating_2016-1,Integrating DBA and DevOps Processes,no_IaC_term;no_quality_term
+brandes_qualitatsmanagement_2016,Qualitätsmanagement in agilen IT-Projekten – quo vadis?,no_IaC_term;no_quality_term
+ravichandran_devops_2016,DevOps Finetuning,no_IaC_term;no_quality_term
+heap_getting_2016,Getting Started,no_IaC_term;no_quality_term
 magoutis_design_2015,Design and implementation of a social networking platform for cloud deployment specialists,no_IaC_term;no_quality_term
-cuppett_overcoming_2016,Overcoming {Language,no_IaC_term;no_quality_term
-lemke_managementsystem_2017,Das {Managementsystem,no_IaC_term;no_quality_term
-lwakatare_dimensions_2015,Dimensions of {DevOps,no_IaC_term;no_quality_term
-hummer_testing_2013,Testing {Idempotence,no_IaC_term
+cuppett_overcoming_2016,Overcoming Language and Cultural Barriers Between DBAs and DevOps,no_IaC_term;no_quality_term
+lemke_managementsystem_2017,Das Managementsystem zur Gestaltung im digitalen Zeitalter: Gestaltungstechniken,no_IaC_term;no_quality_term
+lwakatare_dimensions_2015,Dimensions of DevOps,no_IaC_term;no_quality_term
 sabharwal_introduction_2014,Introduction,no_IaC_term;no_quality_term
-huttermann_infrastructure_2012,Infrastructure as {Code,no_IaC_term;no_quality_term
-janjic_reuse-oriented_2013,Reuse-{Oriented,no_IaC_term;no_quality_term
-feigenbaum_feasibility_2014,On the {Feasibility,no_IaC_term;no_quality_term
-huttermann_quality_2012,Quality and {Testing,no_IaC_term
-sacks_web_2012,Web {Testing,no_IaC_term
-brauk_zuruckeroberung_2013,Zurückeroberung der {Zukunft,no_IaC_term;no_quality_term
-huttermann_automatic_2012,Automatic {Releasing,no_IaC_term;no_quality_term
-huttermann_beginning_2012,Beginning {DevOps,no_IaC_term;no_quality_term
-huttermann_introducing_2012,Introducing {DevOps,no_IaC_term;no_quality_term
-huttermann_specification_2012,Specification by {Example,no_IaC_term;no_quality_term
+huttermann_infrastructure_2012,Infrastructure as Code,no_quality_term
+janjic_reuse-oriented_2013,Reuse-Oriented Code Recommendation Systems,no_IaC_term;no_quality_term
+feigenbaum_feasibility_2014,On the Feasibility of a Technological Response to the Surveillance Morass,no_IaC_term;no_quality_term
+huttermann_quality_2012,Quality and Testing,no_IaC_term
+sacks_web_2012,Web Testing Practices,no_IaC_term
+brauk_zuruckeroberung_2013,Zurückeroberung der Zukunft — Chancen agiler IT,no_IaC_term;no_quality_term
+huttermann_automatic_2012,Automatic Releasing,no_IaC_term;no_quality_term
+huttermann_beginning_2012,Beginning DevOps for Developers,no_IaC_term;no_quality_term
+huttermann_introducing_2012,Introducing DevOps,no_IaC_term;no_quality_term
+huttermann_specification_2012,Specification by Example,no_IaC_term;no_quality_term
 pracht_gemeinsam_2011,Gemeinsam produktiv werden,no_IaC_term;no_quality_term
 KUMAR2023101207,Machine learning with word embedding for detecting web-services anti-patterns,no_IaC_term
 WU2023111677,A systematic literature review on Android-specific smells,no_IaC_term
@@ -1204,7 +1185,6 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10.1145/3699839.3699841,VeriFog: A Generic Model-based Approach for Verifying Fog Systems at Design Time and Generating Deployment Configurations,no_IaC_term
 10.1145/2915970.2916009,"Usage, usefulness and quality of defect reports: an industrial case study",no_IaC_term
 10.1145/3183440.3183465,Strategy for continuous testing in iDevOps,no_IaC_term
-10.1145/3613372.3613390,Empirical evidence on technical challenges when adopting continuous practices,no_IaC_term
 10.14778/3750601.3750613,Unlocking the Power of CI/CD for Data Pipelines in Distributed Data Warehouses,no_IaC_term
 10.1109/ICSE55347.2025.00067,AssetHarvester: A Static Analysis Tool for Detecting Secret-Asset Pairs in Software Artifacts,no_IaC_term
 10.1109/ICSE55347.2025.00208,PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps,no_IaC_term
@@ -1458,7 +1438,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10.1145/3544548.3580918,Are Embodied Avatars Harmful to our Self-Experience? The Impact of Virtual Embodiment on Body Awareness,no_quality_term
 10.1145/3502870.3506569,Designing Dissemination and Validation of a Framework for Teaching Cloud Fundamentals,no_IaC_term
 10.1145/3501772,A Genetic-algorithm-based Approach to the Design of DCT Hardware Accelerators,no_IaC_term
-10.1145/3334480.3383156,A Demonstration of Kilo H\={o,no_IaC_term
+10.1145/3334480.3383156,A Demonstration of Kilo H\=ok\=u-Implementing Hawaiian Star Navigation Methods in Virtual Reality,no_IaC_term
 10.1145/3639265,Robustness of Updatable Learning-based Index Advisors against Poisoning Attack,no_IaC_term
 10.1145/3330482.3330522,Proposing Automatic Dataset Generation System to Support Android Sensitive Data Leakage Detection Systems,no_IaC_term
 10.1145/3293881.3295781,Cloud computing: developing contemporary computer science curriculum for a cloud-first future,no_quality_term
@@ -1468,13 +1448,12 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10.1145/3580305.3599856,Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance,no_IaC_term
 10.1145/3064835,Coupled Spin-Torque Nano-Oscillator-Based Computation: A Simulation Study,no_IaC_term
 10.5555/3635637.3663041,Multi-Agent Alternate Q-Learning,no_IaC_term
-10.5555/3507788.3507833,Proactive AIOps through digital twins,no_IaC_term
 10.1145/2976767.2976778,The quest for open source projects that use UML: mining GitHub,no_IaC_term;no_quality_term
 10.1145/3230967,Coupled Clustering Ensemble by Exploring Data Interdependence,no_IaC_term
 10.1145/3702191.3705513,Optimization Control of Multi-port Energy Router Based on Model Predictive Control,no_IaC_term
 10.1145/3357236.3395473,Siloseam: A Morphogenetic Workflow for the Design and Fabrication of Inflatable Silicone Bladders,no_IaC_term
 10.5555/3201607.3201643,Fastpass: fast timing path search for generalized timing exception handling,no_IaC_term
-10.1145/3397875,SketchADoodle: Touch-surface Multi-stroke Gesture Handling by B\'{e,no_IaC_term
+10.1145/3397875,SketchADoodle: Touch-surface Multi-stroke Gesture Handling by B\'ezier Curves,no_IaC_term
 10.1145/1185642.1185647,An improved IDL compiler for optimizing CORBA applications,no_quality_term
 10.1145/3565023,Trajectory Planning using Transfer Learning and Wireless Sensor Network for Target Search Mobile Robot,no_IaC_term;no_quality_term
 10.1109/ICSE.2017.37,"An efficient, robust, and scalable approach for analyzing interacting android apps",no_IaC_term
@@ -1550,7 +1529,6 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10.1145/2808006.2808015,Rebirth of IT Degree Program to Create Your Future Again,no_IaC_term
 10.1145/1454630.1454646,A collaborative model for representing wireless sensor networks' entities and properties,no_IaC_term;no_quality_term
 10.1145/55482.55495,A verified connection management protocol for the transport layer,no_IaC_term;no_quality_term
-10.1145/3555115,"""I needed to solve their overwhelmness"": How System Administration Work was Affected by COVID-19",no_IaC_term
 10.1145/3061665,Algorithm 978: Safe Scaling in the Level 1 BLAS,no_IaC_term
 10.1145/2811780.2811957,EchoWear: smartwatch technology for voice and speech treatments of patients with Parkinson's disease,no_IaC_term
 10.1145/3514262.3514304,The Role of Technological Platforms in the Innovative Development of Industrial Enterprises,no_IaC_term;no_quality_term
@@ -1573,7 +1551,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10.1145/2207676.2208289,Choosing to interleave: human error and information access cost,no_IaC_term;no_quality_term
 10.1145/3332165.3347922,Beyond the Input Stream: Making Text Entry Evaluations More Flexible with Transcription Sequences,no_IaC_term
 10.1145/3234698.3234701,Using a Robot Trader for Automatic Trading,no_IaC_term;no_quality_term
-10.5555/3458064.3458217,On indexing and compressing finite automata,no_IaC_term;no_quality_term
+10.5555/3458064.3458217,On indexing and compressing finite automata,no_IaC_term
 10.1145/3494193.3494218,Reframing E-participation for Sustainable Development,no_IaC_term
 10.1145/3209415.3209432,E-government: Factor of public administration efficiency and effectiveness. Case of the Ministry of Higher Education and Scientific Research in Madagascar,no_IaC_term
 10.1145/219308.773573,Surfing the Net for Software Engineering Notes,no_IaC_term;no_quality_term
@@ -1716,7 +1694,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10.1145/263552.263607,Expected usability and product preference,no_IaC_term;no_quality_term
 10.1145/221270.221329,A new parallel signature file method for efficient information retrieval,no_IaC_term;no_quality_term
 10.1007/BF01215407,"On sequential composition, action prefixes and process prefix",no_IaC_term;no_quality_term
-10.1145/800204.806308,Evaluation of high-order polynomial triangular finite elements using FORMAC,no_IaC_term;no_quality_term
+10.1145/800204.806308,Evaluation of high-order polynomial triangular finite elements using FORMAC,no_quality_term
 10.1145/320435.320485,A methodology for the design and implementation of virtual interfaces,no_IaC_term;no_quality_term
 10.1145/336992.337032,iBundle: an efficient ascending price bundle auction,no_IaC_term;no_quality_term
 10.3115/991250.991259,On the proper role of coercion in semantic typing,no_IaC_term;no_quality_term
@@ -1820,7 +1798,6 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 7905750,Similarity analysis of motion based on motion capture technology,no_IaC_term
 8280581,Velocity and acceleration analysis from kinematics linear punch using optical motion capture,no_IaC_term
 8780411,a. Multi-Facet Analysis of Technology-Enhanced Learning,no_IaC_term
-8191735,Cosmic microwave background observations with the Jodrell Bank-IAC interferometer at 33 GHz,no_quality_term
 8280628,Why does people use e-payment systems in C2C e-marketplace? a trust transfer perspective,no_IaC_term
 8780554,Cluster Analysis of Indonesian Province Based on Prices of Several Basic Food Commodities,no_IaC_term
 7905755,Analysis of online training system from economic perspective using Ranti's Generic IS/IT Business Value: (Case study: Bank Rakyat Indonesia),no_IaC_term
@@ -1905,7 +1882,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 8780462,Analysis the Acceptance of Use for Document Management System Using Technology Acceptance Model,no_IaC_term
 8780564,5-Star Hotel Website Quality Criteria Analysis,no_IaC_term
 8280586,A novel scheme for handwritten binarization method on sundanese palm leaf document images,no_IaC_term
-9647987,Pisces VII: discovery of a possible satellite of Messier 33 in the DESI legacy imaging surveys,no_IaC_term;no_quality_term
+9647987,Pisces VII: discovery of a possible satellite of Messier 33 in the DESI legacy imaging surveys,no_IaC_term
 9111144,RedDots: a temperate 1.5 Earth-mass planet candidate in a compact multiterrestrial planet system around GJ 1061,no_IaC_term
 8280611,Image segmentation using the Otsu method in Dental X-rays,no_IaC_term
 8780504,Critical Success Factors for Project Management Office: An Insight from Indonesia,no_IaC_term;no_quality_term
@@ -1941,7 +1918,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 9669283,A data-driven model for the generation of Virtual Cohorts,no_IaC_term
 10363915,Fixed-Time Dynamic Surface Tracking of Nonlinear Systems with Unknown Control Directions,no_IaC_term
 905038,MPI collective communication operations on large shared memory systems,no_IaC_term
-9541815,Manipulation of Temporal Localized Structures in a VECSEL With Optical Feedback,no_quality_term
+9541815,Manipulation of Temporal Localized Structures in a VECSEL With Optical Feedback,no_IaC_term;no_quality_term
 9623852,Spectral properties of near-Earth objects with low-Jovian Tisserand invariant,no_IaC_term
 8826584,Differential Sensor Based on Electroinductive Wave Transmission Lines for Dielectric Constant Measurements and Defect Detection,no_IaC_term
 9480494,28–40 GHz variability and polarimetry of bright compact sources in the QUIJOTE cosmological fields,no_IaC_term
@@ -1978,7 +1955,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10919419,Neural Network-Based Adaptive Fixed-Time Terminal Sliding Mode Control for Unknown Nonlinear Systems,no_IaC_term;no_quality_term
 10363823,Finite-Time Adaptive Optimal Control of Uncertain Strict-Feedback Nonlinear Systems with Event-Triggered Based on Fuzzy Observer and Reinforcement Learning,no_IaC_term
 10919358,Bimodal Regression Method for Passenger Flow Prediction in Large Airport Terminals,no_IaC_term
-10364178,Some Discussions on the Relation between $H_{2,no_IaC_term;no_quality_term
+10364178,Some Discussions on the Relation between $H_2/H_\infty$ Control and Nash Game for Infinite MJSSs,no_IaC_term;no_quality_term
 10363704,Adaptive Fixed-Time Neural Tracking Control for Nonlinear Systems with Unknown Disturbances,no_IaC_term
 11160971,Intelligent Gold Ore Exploration System Integrating Laser-Induced Breakdown Spectroscopy and Genetic Algorithm-Optimized Neural Network,no_IaC_term;no_quality_term
 10919386,Nonparametric Identification Modeling of Ship Manoeuvering Motion Based on Gaussian Mixture Model,no_IaC_term
@@ -2017,7 +1994,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10364026,Parallel Control for Robust Optimal Tracking via Adaptive Dynamic Programming,no_IaC_term
 8780416,Android-Based Text Recognition on Receipt Bill for Tax Sampling System,no_IaC_term
 8280649,License plate Recognition for moving vehicles case : At night and under rain condition,no_IaC_term
-9111149,The bias of dark matter tracers: assessing the accuracy of mapping techniques,no_IaC_term;no_quality_term
+9111149,The bias of dark matter tracers: assessing the accuracy of mapping techniques,no_IaC_term
 9267446,Statistical analysis of Galactic globular cluster type properties,no_IaC_term
 8280535,The effect of e-CRM towards service quality and net benefits using structure equation modeling,no_IaC_term
 8280539,Problematic Internet Use (PIU): The role of emotional factors on social media activities,no_IaC_term;no_quality_term
@@ -2035,7 +2012,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 8780437,Literature review on Artificial Neural Networks Techniques Application for Stock Market Prediction and as Decision Support Tools,no_IaC_term
 8780408,Implementation of Green IT In Education Industries,no_IaC_term
 8280633,A survey regarding the readiness of campus in Indonesia on the adoption of green computing,no_IaC_term
-9584416,The intermediate polar cataclysmic variable GK Persei 120 years after the nova explosion: a first dynamical mass study,no_IaC_term;no_quality_term
+9584416,The intermediate polar cataclysmic variable GK Persei 120 years after the nova explosion: a first dynamical mass study,no_IaC_term
 9111268,Characterization of M-stars in the LMC in the JWST era,no_IaC_term
 8280572,A cluster validity for spatial clustering based on davies bouldin index and Polygon Dissimilarity function,no_IaC_term
 8780569,Texture Feature Extraction Based On GLCM and DWT for Beef Tenderness Classification,no_IaC_term
@@ -2052,7 +2029,7 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 7905760,Wall shear stress calculation based on MRI image in patients with abdominal aortic aneurysm (AAA),no_IaC_term
 8280644,Factors influencing continuance intention of travel agency information system use: A case study of Powersuite,no_IaC_term
 8780431,Predicting Grade Promotion Using Decision Tree and Naïve Bayes Classification Algorithms,no_IaC_term
-8280538,Hamiltonicity on Enhanced Extended Fibonacci Cube,no_IaC_term
+8280538,Hamiltonicity on Enhanced Extended Fibonacci Cube,no_IaC_term;no_quality_term
 1234178,A testbed for data fusion for helicopter diagnostics and prognostics,no_IaC_term
 9111198,NGC 6712: the variable star population of a tidally disrupted globular cluster,no_IaC_term
 9109163,Analysis of absorption lines in the high-resolution spectra of five hot post-AGB candidates,no_IaC_term
@@ -2199,7 +2176,6 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10690765,High Directivity Improvements using the Theory of Characteristic Modes for High-Resolution Imaging of Brain Tumors,no_IaC_term
 5951757,On the Use of the WRF Model to Mitigate Tropospheric Phase Delay Effects in SAR Interferograms,no_IaC_term
 9466748,APOGEE view of the globular cluster NGC 6544,no_IaC_term
-9114172,Arm–interarm gas abundance variations explored with MUSE: the role of spiral structure in the chemical enrichment of galaxies,no_quality_term
 9583978,On the relation between active-region lifetimes and the autocorrelation function of light curves,no_IaC_term
 5966729,Automatic identification of alpha-helices in X-ray diffraction patterns,no_IaC_term
 9480479,Probing the existence of a rich galaxy overdensity at z = 5.2,no_IaC_term
@@ -2228,6 +2204,5 @@ CASCAVILLA2021102258,Cybercrime threat intelligence: A systematic multi-vocal li
 10077254,INSPIRE: INvestigating Stellar Population In RElics – IV. The initial mass function slope in relics,no_IaC_term
 11008222,Determination of the Equivalence of Magnetic and Electric Mode Radiation Efficiencies in Advanced Metamaterial Antennas Through Characteristic Modes Theory,no_IaC_term
 9403875,Toward Long-Term and Archivable Reproducibility,no_IaC_term
-11127350,BETTY Dataset: A Multi-Modal Dataset for Full-Stack Autonomy,no_IaC_term
 8280658,[Front matter],no_IaC_term
 8780549,[Front matter],no_IaC_term

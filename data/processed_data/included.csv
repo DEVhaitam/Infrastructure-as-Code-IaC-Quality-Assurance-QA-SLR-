@@ -1,13 +1,32 @@
 key,title,iac_matches,quality_matches
 war_vulnerabilities_2025,"Vulnerabilities in infrastructure as code: what, how many, and who?",infrastructure as code,vulnerabilit
-bessghaier_towards_2025,Towards understanding code review practices for infrastructure-as-code: {An,infrastructure-as-code,practice
-nasiri_towards_2024,Towards a {Taxonomy,ansible;iac;infrastructure as code,fault;misconfig;misconfiguration
+bessghaier_towards_2025,Towards understanding code review practices for infrastructure-as-code: An empirical study on OpenStack projects,infrastructure-as-code,practice
+nasiri_towards_2024,Towards a Taxonomy of Infrastructure as Code Misconfigurations: An Ansible Study,ansible;iac;infrastructure as code,fault;misconfig;misconfiguration
 shimizu_test-suite-guided_2024,Test-suite-guided discovery of least privilege for cloud infrastructure as code,infrastructure as code,test
+hong_enhancing_2025,Enhancing Software Defect Prediction in Ansible Scripts Using Code-Smell-Guided Prompting with Large Language Models in Edge-Cloud Infrastructures,ansible,defect;smell
+borovits_findici_2022,FindICI: Using machine learning to detect linguistic inconsistencies between code and natural language descriptions in infrastructure-as-code,infrastructure-as-code,inconsistenc
+zeini_preliminary_2023,Preliminary Investigation into a Security Approach for Infrastructure as Code,infrastructure as code,security
+wang_overview_2024,An Overview of Infrastructure as Code (IaC) with Performance and Availability Assessment on Google Cloud Platform,iac;infrastructure as code,performance
 rahman_as_2020,The ‘as code’ activities: development anti-patterns for infrastructure as code,infrastructure as code,anti-pattern
+golis_creating_2024,Creating a Self-Service DevOps Platform for Black-Box Testing on Kubernetes,kubernetes,test;testing
+lepiller_analyzing_2021,Analyzing Infrastructure as Code to Prevent Intra-update Sniping Vulnerabilities,infrastructure as code,analyzing;vulnerabilit
+ntentos_assessing_2022,Assessing Architecture Conformance to Coupling-Related Infrastructure-as-Code Best Practices: Metrics and Case Studies,infrastructure-as-code,practice
+kwon_exploring_2024,Exploring the Feasibility of ChatGPT for Improving the Quality of Ansible Scripts in Edge-Cloud Infrastructures Through Code Recommendation,ansible,quality
+mahavaishnavi_secure_2024,Secure container Orchestration: A framework for detecting and mitigating Orchestrator - level vulnerabilities,container,vulnerabilit
 verdet_assessing_2025,Assessing the adoption of security policies by developers in terraform across different cloud providers,terraform,security
-eng_patterns_2024,Patterns of multi-container composition for service orchestration with {Docker,container;docker;docker compose,analysis
+stencel_best_2025,Best Practices in Kubernetes,kubernetes,practice
+neharika_investigations_2022,Investigations into Secure IaC Practices,iac,practice
+eng_patterns_2024,Patterns of multi-container composition for service orchestration with Docker Compose,container;docker;docker compose,analysis
+minna_analyzing_2025,Analyzing and mitigating (with LLMs) the security misconfigurations of Helm charts from Artifact Hub,helm,analyzing;misconfig;misconfiguration;security
+modi_terraform_2021,Terraform Unit Testing,terraform,test;testing
 10.1007/s10664-023-10432-6,An empirical study of task infections in Ansible scripts,ansible;infrastructure as code,analysis;security
-SUHAIL2024100706,TRIPLE: A blockchain-based digital twin framework for cyber–physical systems security,iac;infrastructure-as-code,security
+singh_survey_2022,Survey of Predictive Autoscaling and Security of Cloud Resources Using Artificial Neural Networks,tosca,security
+vlasov_analysis_2020,Analysis of Modern Continuous Integration/Deployment Workflows Based on Virtualization Tools and Containerization Techniques,container;containerization,analysis
+ikeshita_test_2017,Test Suite Reduction in Idempotence Testing of Infrastructure as Code,infrastructure as code,test;testing
+copeland_azure_2020-1,Azure Kubernetes Services: Container Security,container;kubernetes,security
+kousa_teaching_2020,Teaching Container-Based DevOps Practices,container,practice
+hummer_testing_2013,Testing Idempotence for Infrastructure as Code,infrastructure as code,test;testing
+SUHAIL2024100706,TRIPLE: A blockchain-based digital twin framework for cyber–physical systems security,iac;infrastructure-as-code,inconsistenc;security
 ABE20222771,"Neuroscience Cloud Analysis As a Service: An open-source platform for scalable, reproducible data analysis",infrastructure-as-code,analysis
 SCHWANCK2025107626,A Framework for testing Federated Learning algorithms using an edge-like environment,container;kubernetes,test;testing
 ALMUAIRFI202013,Security controls in infrastructure as code,iac;infrastructure as code,security
@@ -85,7 +104,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 10.1145/3417113.3422154,Characterizing co-located insecure coding patterns in infrastructure as code scripts,iac;infrastructure as code;puppet,security
 10.1145/3183440.3195034,Defect prediction metrics for infrastructure as code scripts in DevOps,iac;infrastructure as code,defect
 10.1145/3416505.3423563,Singling the odd ones out: a novelty detection approach to find defects in infrastructure-as-code,ansible;iac;infrastructure-as-code,defect;performance
-10.1145/3416505.3423564,DeepIaC: deep learning-based linguistic anti-pattern detection in IaC,iac;infrastructure as code,anti-pattern;defect;maintainability;practice
+10.1145/3416505.3423564,DeepIaC: deep learning-based linguistic anti-pattern detection in IaC,iac;infrastructure as code,anti-pattern;defect;inconsistenc;maintainability;practice
 10.1145/3603166.3632135,Compliance Management of IaC-Based Cloud Deployments During Runtime,iac;infrastructure-as-code,practice
 10.1145/3663530.3665019,Evaluating the Quality of Open Source Ansible Playbooks: An Executability Perspective,ansible;iac;infrastructure as code,practice;quality
 10.1145/3664476.3670929,Enhancing Secure Deployment with Ansible: A Focus on Least Privilege and Automation for Linux,ansible;iac;infrastructure as code,practice;security
@@ -116,6 +135,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 10.1145/3417990.3420194,An empirical study on visual programming docker compose configurations,docker;docker compose;iac;infrastructure-as-code,bug;misconfig;misconfiguration;validate
 10.1145/3465481.3469181,MI-LXC: A Small-Scale Internet-Like Environment for Network Security Teaching,infrastructure-as-code,practice;security
 10.1145/3236386.3237207,GitOps: A Path to More Self-service IT: IaC + PR = GitOps,iac,test;testing
+10.1145/3613372.3613390,Empirical evidence on technical challenges when adopting continuous practices,helm,analysis;practice;quality;reliability;security;test;testing
 10.1145/3463274.3463786,System and Software Processes in Practice: Insights from Chinese Industry,infrastructure-as-code,practice
 10.1145/3084226.3084264,What industry wants from academia in software testing? Hearing practitioners' opinions,iac,test;testing
 10.5555/2820518.2820527,Co-evolution of infrastructure and source code: an empirical study,chef;infrastructure-as-code;puppet,bug;test
@@ -137,7 +157,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 10.1145/3102254.3102266,"Design, implementation and test of a flexible tor-oriented web mining toolkit",arm,performance;security;test
 10.1145/3643991.3644921,DRMiner: A Tool For Identifying And Analyzing Refactorings In Dockerfile,container;containerization;docker;dockerfile,analyzing
 10.1145/3696410.3714798,LLMCloudHunter: Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI,arm,analysis;quality;security
-10.1145/3749220,Inside Job: Defending Kubernetes Clusters Against Network Misconfigurations,container;kubernetes,analysis;misconfig;misconfiguration;security
+10.1145/3749220,Inside Job: Defending Kubernetes Clusters Against Network Misconfigurations,container;helm;kubernetes,analysis;misconfig;misconfiguration;security
 10.1145/3007788.3007795,Analysis of Trusted Execution Environment usage in Samsung KNOX,container,analysis;security;vulnerabilit
 10.1145/3377812.3382169,Exploring the relationship between dockerfile quality and project characteristics,docker;dockerfile,analysis;practice;quality
 10.1145/3084226.3084279,"Industry-academia collaborations in software engineering: An empirical analysis of challenges, patterns and anti-patterns in research projects",iac,analysis;anti-pattern
@@ -147,7 +167,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 10.1145/3664476.3670437,"The PRECINCT Ecosystem Platform for Critical Infrastructure Protection: Architecture, Deployment and Transferability",tosca,security
 10.5555/3374138.3374159,Application of blockchain in interoperable simulation for strategic decision making,heat,performance;reliability
 10.1145/3691620.3695277,Ansible Lightspeed: A Code Generation Service for IT Automation,ansible,analysis
-10.1145/3639478.3643534,Automated Security Repair for Helm Charts,k8s;kubernetes,bug;misconfig;misconfiguration;security
+10.1145/3639478.3643534,Automated Security Repair for Helm Charts,helm;k8s;kubernetes,bug;inconsistenc;misconfig;misconfiguration;security
 10.1145/3538705,A Human Factors Approach to Validating Driver Models for Interaction-aware Automated Vehicles,iac,validate;validation
 10.1145/3531056.3542769,mira: an Application Containerisation Pipeline for Small Software Development Teams in Low Resource Settings,container;docker,practice;validate
 10.1109/ASE51524.2021.9678585,Refactorings and technical debt in docker projects: an empirical study,compose file;container;containerization;docker;docker-compose;dockerfile,practice;quality
@@ -172,8 +192,9 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 10.1145/3209281.3209309,Analyzing e-governance assessment initiatives: an exploratory study,iac,analyzing
 10.1145/3634713.3634723,Towards Feature-based Versioning for Musicological Research,arm,analysis
 10.5555/3124497.3124517,Patterns for software orchestration on the cloud,container;containerization,practice
-10.1145/2975969.2975974,CRDTs for the configuration of distributed Erlang systems,arm,fault
+10.1145/2975969.2975974,CRDTs for the configuration of distributed Erlang systems,arm,fault;inconsistenc
 10.1613/jair.1.14386,On Centralized Critics in Multi-Agent Reinforcement Learning,arm,practice
+10.5555/3507788.3507833,Proactive AIOps through digital twins,helm,analysis;fault;practice;quality
 10.5555/1999416.1999448,The role of MSIAC in supporting modeling and simulation,iac,analysis;quality
 10.1145/2999572.2999602,Flurries: Countless Fine-Grained NFs for Flexible Per-Flow Customization,container;docker,performance
 10.1145/2691195.2691310,Thailand new ICT master plan to promote ICT innovations and services for e-ageing,iac,analysis;quality;test
@@ -181,6 +202,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 10.1145/3339252.3341481,Applicability of the IEC 62443 standard in Industry 4.0 / IIoT,iac,analysis;security
 10.1145/3463340,Skills Gaps in the Industry: Opinions of Embedded Software Practitioners,iac,analyzing
 10.1145/3386415.3387033,A Brief Overview of The Status and Prospects of Railway Static Power Conditioner,arm,quality
+10.1145/3555115,"""I needed to solve their overwhelmness"": How System Administration Work was Affected by COVID-19",helm,analysis;security
 10.1145/3387940.3392161,DockerKG: A Knowledge Graph of Docker Artifacts,docker;dockerfile,analyzing
 10.1145/2568195.2568214,Application of pedagogical fundamentals for the holistic development of cybersecurity professionals,arm,quality;security
 10.1145/2536811,The Role of Sound Source Perception in Gestural Sound Description,arm,test;validate
@@ -231,7 +253,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 10965635,LLM Agentic Workflow for Automated Vulnerability Detection and Remediation in Infrastructure-as-Code,iac;infrastructure as code;infrastructure-as-code,analysis;misconfig;misconfiguration;practice;security;vulnerabilit;vulnerability
 9860198,Assessing Architecture Conformance to Security-Related Practices in Infrastructure as Code Based Deployments,iac;infrastructure as code,analysis;practice;security
 10927871,Building Resilient CICD Pipelines: A DevOps Security-First Framework,container;containerization;docker;iac;infrastructure as code;kubernetes;terraform,analysis;security;test;testing;vulnerabilit;vulnerability
-11100474,Enhancing Cloud Marketplace Operations with Infrastructure as Code: DOME - A Case Study,iac;infrastructure as code,analysis;security
+11100474,Enhancing Cloud Marketplace Operations with Infrastructure as Code: DOME - A Case Study,helm;iac;infrastructure as code,analysis;security
 10960053,Provisioning a Reliable Kubernetes cluster with CI/CD,iac;infrastructure as code;infrastructure-as-code;kubernetes,reliability;test;testing
 10092644,Practitioner Perceptions of Ansible Test Smells,ansible;iac;infrastructure as code,lint;linting;practice;quality;smell;test;testing
 9730211,Assessing Network Infrastructure-as-Code Security using Open Source Software Analysis Techniques Applied to BGP/BIRD,infrastructure-as-code,analysis;bug;quality;security;test;testing
@@ -274,6 +296,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 9377755,Automating Tiny ML Intelligent Sensors DevOPS Using Microsoft Azure,arm;infrastructure as code,quality;test
 8326951,Single Inductor Dual Output Buck Converter for Low Power Applications and Its Stability Analysis,iac,analysis
 5970350,Identification and discussion of open issues in perceptual video coding based on image analysis and completion,iac,analysis;quality
+8191735,Cosmic microwave background observations with the Jodrell Bank-IAC interferometer at 33 GHz,iac,analysis
 11155568,Workflow Optimization Using Hybrid Methodologies for Mitigating Overtasking,ansible;iac;infrastructure as code,analysis;practice;quality
 11025635,It Works (only) on My Machine: A Study on Reproducibility Smells in Ansible Scripts,ansible;iac;infrastructure as code,analysis;practice;smell;validate
 7905759,A framework of training ANFIS using Chicken Swarm Optimization for solving classification problems,arm,analysis;performance;reliability;test;testing
@@ -295,7 +318,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 7905742,Detecting most central actors of an unknown network using friendship paradox,arm,analysis
 8780469,Mel-frequency Cepstral Coefficient-Vector Quantization Implementation for Voice Detection of Rice-Eating Birds in The Rice Fields,arm,test;testing
 9014526,Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners,iac,analysis;performance
-10173942,"Helm Charts for Kubernetes Applications: Evolution, Outdatedness and Security Risks",container;infrastructure-as-code;kubernetes,analysis;practice;security;vulnerabilit
+10173942,"Helm Charts for Kubernetes Applications: Evolution, Outdatedness and Security Risks",container;helm;infrastructure-as-code;kubernetes,analysis;practice;security;vulnerabilit
 5985466,Perception-oriented Video Coding based on Image Analysis and Completion: A Review,iac,analysis;quality
 11109523,Normal Dispersion Kerr Cavity Solitons: Beyond the Mean Field Limit,arm,analysis
 8780461,Development of Robotic Arm for Color Based Goods Sorter in Factory Using TCS3200 Sensor with a Web-Based Monitoring System,arm;container,analysis
@@ -364,6 +387,7 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 7063918,Improvements to the Volume Measurement of 28Si Spheres to Determine the Avogadro Constant,iac,analysis
 9172769,UAV Pre-Study for In-Air-Capturing Maneuver,iac,test;validate;validation
 9383219,Context-Based Feature Technique for Sarcasm Identification in Benchmark Datasets Using Deep Learning and BERT Model,iac,analysis;test
+9114172,Arm–interarm gas abundance variations explored with MUSE: the role of spiral structure in the chemical enrichment of galaxies,arm,analysis
 11105683,Indigo-Functionalized Activated Carbon Electrode for Screen-Printed Eco-Friendly Supercapacitors,iac,analysis
 10254980,Cost-Aware Multifaceted Reconfiguration of Service-and Cloud-Based Dynamic Routing Applications,infrastructure-as-code;tosca,analysis;performance;quality;reliability
 10505793,Queuing Delay Analysis for Wavelength Routing Optical Satellite Networks Over Dual-Layer Constellation,iac,analysis
@@ -412,10 +436,11 @@ JUNG2021102305,Containers and orchestration of numerical ocean model for computa
 8858239,NGC 7457: evidence for merger-driven cylindrical rotation in disc galaxies,arm;heat,analysis
 4449359,Characterization of the Variability of the Ocean Acoustic Environment,iac,analysis
 5977739,Comparison of the GLONASS orbit products for UTC time transfer,iac,analysis
-10978928,Architecture as Code,infrastructure as code,analysis;practice
+10978928,Architecture as Code,infrastructure as code,analysis;inconsistenc;practice
 8272605,Agree to disagree: Improving disagreement detection with dual GRUs,iac,analysis;performance
 10326683,Robust adaptive dynamic programming based attitude tracking control for hypersonic vehicle,iac,analysis;performance
 8806677,Reorchestration: a Reactive Orchestration Architecture,infrastructure-as-code,analysis
+11127350,BETTY Dataset: A Multi-Modal Dataset for Full-Stack Autonomy,iac,analysis;performance;test;testing
 10876008,er.autopilot 1.0: The Full Autonomous Stack for Oval Racing at High Speeds,iac,performance;test;testing
 6669116,Resonance stability in electrical railway systems - A dissipativity approach,arm;iac,analysis
 270450,Interacting acceleration compensation algorithm for tracking maneuvering targets,iac,performance;test;testing
