@@ -25,6 +25,7 @@ This subfolder contains the processed data files generated after applying the sc
   - `title`: Title of the study.
   - `reason`: Reason for exclusion.
 - `random_verification.csv`: A CSV file containing the random 45 selected studies for verification.
+- `filtered_studies`: Contains two sheets, presenting the manual processes' results after the automatic filtering. Title + Abstract sheet presents the set of 143 studies that passed title and abstract reading, and Full text reading presents the set of studies passed the full text reading.
 
 
 ### 3. `results/`

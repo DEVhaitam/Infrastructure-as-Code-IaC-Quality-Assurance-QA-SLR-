@@ -40,3 +40,12 @@ This script randomly selects 45 studies from the exclude.csv file for verificati
 python random_verification.py
 ```
 By default the script takes `../data/processed_data/excluded.csv` as input, and has `../data/processed_data/random_verification.csv` as output.
+
+
+### 4. `check_goldset.py`
+This script evaluates how many of the 25 quasi-goldset papers are present in a given BibTeX file. It uses a Jaccard similarity score to match titles from the gold set with entries in the BibTeX file.
+
+#### Usage:
+```bash
+python check_goldset.py <input.bib>
+```

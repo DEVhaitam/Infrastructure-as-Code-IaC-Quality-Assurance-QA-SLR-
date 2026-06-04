@@ -17,6 +17,13 @@ The following folders are included in this replication package:
     - `raw_data/`: Contains the raw data file, `all.bib`, retrieved through applying the search query.
     - `processed_data/`: Contains intermediate and processed data files, such as `non-duplicate.bib`, `filtered_nondup.bib`, and `screened.bib`.
     - `results/`: Contains the main spreadsheet presenting the final results of the study.
+2. **`goldset/`**  
+    This folder contains the gold set of references and related metadata used for evaluating the search queries. It contains:
+    - `goldset.md/`: Contains the details about the goldset papers, as well as queries' evaluation.
+    - `related_surveys_references.md/`: Contains references from the closet related surveys`.
+    - and the results of execution of the different search queries.
+    
+
 
 ## Process Overview
 
