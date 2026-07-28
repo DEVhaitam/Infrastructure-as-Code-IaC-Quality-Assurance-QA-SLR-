@@ -1,0 +1,117 @@
+Does your configuration code smell?
+Gang of Eight: A Defect Taxonomy for Infrastructure as Code Scripts
+DeepIaC: deep learning-based linguistic anti-pattern detection in IaC
+Polyglot Code Smell Detection for Infrastructure as Code with GLITCH
+Smelly variables in ansible infrastructure code: detection, prevalence, and lifetime
+As Code Testing: Characterizing Test Quality in Open Source Ansible Development
+State Reconciliation Defects in Infrastructure as Code
+Toward a catalog of software quality metrics for infrastructure code
+Smells-sus: Sustainability Smells in IaC
+Security Smells in Ansible and Chef Scripts: A Replication Study
+Rehearsal: a configuration verification tool for puppet
+Within-Project Defect Prediction of Infrastructure-as-Code Using Product and Process Metrics
+Defuse: A Data Annotator and Model Builder for Software Defect Prediction
+TerraMetrics: An Open Source Tool for Infrastructure-as-Code (IaC) Quality Metrics in Terraform
+Repairing Infrastructure-as-Code using Large Language Models
+Security in DevSecOps: Applying Tools and Machine Learning to Verification and Monitoring Steps
+InfraFix: Technology-Agnostic Repair of Infrastructure as Code
+Towards Sustainable Cloud Deployments: A Cost (Anti)Patterns Catalog for Terraform and Cloudformation
+A Framework for Measuring the Quality of Infrastructure-as-Code Scripts
+Statically Inferring Usage Bounds for Infrastructure as Code
+A Comparative Study on the Security of Kubernetes Deployments
+A Pilot Study of Testing Infrastructure as Code for Cloud Systems
+An Empirical Study of Task Infections in Ansible Scripts
+Unearthing Semantic Checks for Cloud Infrastructure-as-Code Programs
+KubeHound: Detecting Microservices’ Security Smells in Kubernetes Deployments
+Towards a Taxonomy of Infrastructure as Code Misconfigurations: An Ansible Study
+Automated Infrastructure as Code Program Testing
+Detecting and Characterizing Propagation of Security Weaknesses in Puppet-Based Infrastructure Management
+Patterns of Multi-Container Composition for Service Orchestration with Docker Compose
+Exploring LLM-Based Automated Repairing of Ansible Script in Edge-Cloud Infrastructures
+An Empirical Study on Kubernetes Operator Bugs
+Control and Data Flow in Security Smell Detection for Infrastructure as Code: Is It Worth the Effort?
+On the Prevalence, Co-occurrence, and Impact of Infrastructure-as-Code Smells
+Fine-Grained Just-In-Time Defect Prediction at the Block Level in Infrastructure-as-Code (IaC)
+Smoke Testing of Cloud Systems
+Source code properties of defective infrastructure as code scripts
+Security Misconfigurations in Open Source Kubernetes Manifests: An Empirical Study
+Infrastructure as code for dynamic deployments
+Towards the self-healing of Infrastructure as Code projects using constrained LLM technologies
+Leveraging Practitioners’ Feedback to Improve a Security Linter
+Characterizing Co-located Insecure Coding Patterns in Infrastructure as Code Scripts
+Ansible Lightspeed: A Code Generation Service for IT Automation
+The Seven Sins: Security Smells in Infrastructure as Code Scripts
+Tortoise: Interactive system configuration repair
+Dockerlive : A live development environment for Dockerfiles
+Code Smells in Infrastructure as Code
+Towards Reliable Infrastructure as Code
+Securing Infrastructure as Code (IaC) through DevSecOps:A Comprehensive Risk Management Framework
+Extensible Testing for Infrastructure as Code
+K8s Pro Sentinel: Extend Secret Security in Kubernetes Cluster
+Uncovering Threats in Container Systems: A Study on Misconfigured Container Components in the Wild
+Automatically Generating Dockerfiles via Deep Learning: Challenges and Promises
+Assessing and Improving the Quality of Docker Artifacts
+AnsibleMetrics: A Python library for measuring Infrastructure-as-Code blueprints in Ansible
+How good is your puppet? An empirically defined and validated quality model for puppet
+Empirical Study of the Docker Smells Impact on the Image Size
+The Docker Hub Image Inheritance Network: Construction and Empirical Insights
+Detecting and Resolving Coupling-Related Infrastructure as Code Based Architecture Smells in Microservice Deployments
+Characterizing Static Analysis Alerts for Terraform Manifests: An Experience Report
+Co-evolution of infrastructure and source code: an empirical study
+LLM Agentic Workflow for Automated Vulnerability Detection and Remediation in Infrastructure-as-Code
+Assessing the adoption of security policies by developers in terraform across different cloud providers
+“Through the looking-glass …” An empirical study on blob infrastructure blueprints in the Topology and Orchestration Specification for Cloud Applications
+An Empirical Analysis of the Docker Container Ecosystem on GitHub
+DockerCleaner: Automatic Repair of Security Smells in Dockerfiles
+It Works (only) on My Machine: A Study on Reproducibility Smells in Ansible Scripts
+Singling the odd ones out: a novelty detection approach to find defects in infrastructure-as-code
+Automatically detecting risky scripts in infrastructure code
+Shhh!: 12 Practices for Secret Management in Infrastructure as Code
+Towards Semantic Detection of Smells in Cloud Infrastructure Code
+Analyzing and mitigating (with LLMs) the security misconfigurations of Helm charts from Artifact Hub
+Sommelier: A tool for validating TOSCA application topologies
+Analyzing Infrastructure as Code to Prevent Intra-update Sniping Vulnerabilities
+Test Suite Reduction in Idempotence Testing of Infrastructure as Code
+Assessing Architecture Conformance to Coupling-Related Infrastructure-as-Code Best Practices: Metrics and Case Studies
+FindICI: Using machine learning to detect linguistic inconsistencies between code and natural language descriptions in infrastructure-as-code
+Vulnerabilities in infrastructure as code: what, how many, and who?
+The ‘as code’ activities: development anti-patterns for infrastructure as code
+Secure container Orchestration: A framework for detecting and mitigating Orchestrator - level vulnerabilities
+Container security: Precaution levels, mitigation strategies, and research perspectives
+On the practice of semantic versioning for Ansible galaxy roles: An empirical study and a change classification model
+Optimizing resource allocation using proactive scaling with predictive models and custom resources
+Hybrid Fuzzing of Infrastructure as Code Programs (Short Paper)
+TerrARA: Automated Security Threat Modeling for Infrastructure as Code
+On the Understandability of Design-Level Security Practices in Infrastructure-as-Code Scripts and Deployment Architectures
+Compliance Management of IaC-Based Cloud Deployments During Runtime
+Enhancing Secure Deployment with Ansible: A Focus on Least Privilege and Automation for Linux
+Asserting reliable convergence for configuration management scripts
+Practical fault detection in puppet programs
+DRMiner: A Tool For Identifying And Analyzing Refactorings In Dockerfile
+DRIVE: Dockerfile Rule Mining and Violation Detection
+Shipwright: A Human-in-the-Loop System for Dockerfile Repair
+Harnessing the Power of LLMs for Code Smell Detection in Terraform Infrastructure as Code
+Characterizing Defective Configuration Scripts Used for Continuous Deployment
+Automated Bug Discovery in Cloud Infrastructure-as-Code Updates with LLM Agents
+Code Smell-Guided Prompting for LLM-Based Defect Prediction in Ansible Scripts
+An Approach to Identifying Error Patterns for Infrastructure as Code
+Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution
+Test-Based Least Privilege Discovery on Cloud Infrastructure as Code
+Assessing Architecture Conformance to Security-Related Practices in Infrastructure as Code Based Deployments
+A Catalog of Cost Patterns and Antipatterns for Infrastructure as Code
+Different Kind of Smells: Security Smells in Infrastructure as Code Scripts
+Lessons from Research to Practice on Writing Better Quality Puppet Scripts
+Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential
+Enhancing Software Defect Prediction in Ansible Scripts Using Code-Smell-Guided Prompting with Large Language Models in Edge-Cloud Infrastructures
+* RUDSEA: recommending updates of Dockerfiles via software environment analysis
+* Metadata Assisted Supply-Chain Attack Detection for Ansible
+* Kivi: Verification for Cluster Management
+* EPScan: Automated Detection of Excessive RBAC Permissions in Kubernetes Applications
+* Automatic generation of smoke test suites for kubernetes
+* An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency
+* DockInsight: A Knowledge-Augmented Dependency Extraction Approach for Dockerfile
+* Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study
+* An Empirical Case Study on the Temporary File Smell in Dockerfiles
+* Dr. Docker: A Large-Scale Security Measurement of Docker Image Ecosystem
+* Dockerfile Flakiness: Characterization and Repair
+* Dockerfile TF Smell Detection Based on Dynamic and Static Analysis Methods
