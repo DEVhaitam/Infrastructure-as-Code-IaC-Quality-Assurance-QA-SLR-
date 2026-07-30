@@ -19,7 +19,9 @@ import re
 import csv
 
 # === KEYWORDS ===
-#IAC_TERMS = ["infrastructure as code", "infrastructure-as-code", "iac", "configuration as code"]
+#Use this list for agnostic screening (i.e., only check for IaC terms, not specific tools)
+IAC_TERMS_AGNOSTIC= ["infrastructure as code", "infrastructure-as-code", "iac", "configuration as code"]
+
 IAC_TERMS = [
     "infrastructure as code", "infrastructure-as-code", "iac", "configuration as code",
     "ansible", "terraform", "chef", "puppet", "pulumi", "docker", "dockerfile", "docker-compose",
