@@ -23,7 +23,6 @@
 * DockInsight: A Knowledge-Augmented Dependency Extraction Approach for Dockerfile
     - Forward:
     - Backward:
-        - DRMiner: A Tool For Identifying And Analyzing Refactorings In Dockerfile
 * Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study
     - Forward: 
         - Not all dockerfile smells are the same: An empirical evaluation of hadolint writing practices by experts
@@ -31,17 +30,10 @@
     - Backward:
 * An Empirical Case Study on the Temporary File Smell in Dockerfiles
     - Forward: 
-        - Static Vulnerability Analysis of Docker Images
         - CONTAIN4n6: a systematic evaluation of container artifacts
-        - Automatic Repair Method for Dockerfile Build Errors: Extracting Dependencies Between Build Error-Inducing Instructions based on Frequent Subtree Mining
     - Backward:
-
 * Dr. Docker: A Large-Scale Security Measurement of Docker Image Ecosystem
     - Forward: 
-    - Backward:
-        - ContainerLeaks: Emerging Security Threats of Information Leakages in Container Clouds
-* Dockerfile Flakiness: Characterization and Repair
-    - Forward:
     - Backward:
 * Dockerfile TF Smell Detection Based on Dynamic and Static Analysis Methods
     - Forward:

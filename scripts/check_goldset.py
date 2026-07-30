@@ -1,5 +1,5 @@
 """
-check_goldset.py — checks how many of the 25 quasi-goldset papers are
+check_goldset.py — checks how many of the 52 quasi-goldset papers are
 present in a given BibTeX file.
 
 Usage:
@@ -10,35 +10,76 @@ import sys
 import os
 import re
 
-# ── 25 quasi-goldset papers (id, title, year) ────────────────────────────────
+# ── 53 quasi-goldset papers (id, title, year) ────────────────────────────────
+# Built from goldset/qgs_zhang.md
 GOLDSET = [
-    # From close related surveys (16)
-    (1,  "The seven sins: security smells in infrastructure as code scripts",                             2019),
+    # From MSR (10)
+    (1,  "Co-evolution of infrastructure and source code: an empirical study",                           2015),
     (2,  "Does your configuration code smell?",                                                          2016),
-    (3,  "Security smells in ansible and chef scripts: a replication study",                             2021),
-    (4,  "Within-project defect prediction of infrastructure-as-code using product and process metrics", 2021),
-    (5,  "Rehearsal: a configuration verification tool for puppet",                                      2016),
-    (6,  "Code smells in infrastructure as code",                                                        2018),
-    (7,  "Gang of eight: a defect taxonomy for infrastructure as code scripts",                          2020),
-    (8,  "Characterizing defective configuration scripts used for continuous deployment",                 2018),
-    (9,  "Source code properties of defective infrastructure as code scripts",                           2019),
-    (10, "Glitch: automated polyglot security smell detection in infrastructure as code",                 2022),
-    (11, "Towards semantic detection of smells in cloud infrastructure code",                            2020),
-    (12, "Analyzing infrastructure as code to prevent intra-update sniping vulnerabilities",             2021),
-    (13, "DeepIaC: deep learning-based linguistic anti-pattern detection in IaC",                        2020),
-    (14, "Automatically detecting risky scripts in infrastructure code",                                 2020),
-    (15, "As code testing: characterizing test quality in open source ansible development",              2022),
-    (16, "Sommelier: a tool for validating TOSCA application topologies",                                2017),
-    # From academic IaC expertise (9)
-    (17, "Security misconfigurations in open source kubernetes manifests: an empirical study",           2023),
-    (18, "Co-evolution of infrastructure and source code: an empirical study",                           2015),
-    (19, "Toward a catalog of software quality metrics for infrastructure code",                         2020),
-    (20, "How good is your puppet? an empirically defined and validated quality model for puppet",       2018),
-    (21, "Control and data flow in security smell detection for infrastructure as code: is it worth the effort?", 2023),
-    (22, "Smelly variables in ansible infrastructure code: detection, prevalence, and lifetime",         2022),
-    (23, "Automated infrastructure as code program testing",                                             2024),
-    (24, "Infrastructure as code for dynamic deployments",                                               2022),
-    (25, "Characteristics of defective infrastructure as code scripts in devops",                       2018),
+    (3,  "An empirical analysis of the docker container ecosystem on GitHub",                            2017),
+    (4,  "Smelly variables in ansible infrastructure code: detection, prevalence, and lifetime",         2022),
+    (5,  "Control and data flow in security smell detection for infrastructure as code: is it worth the effort?", 2023),
+    (6,  "Fine-grained just-in-time defect prediction at the block level in infrastructure-as-code (IaC)", 2024),
+    (7,  "DRMiner: a tool for identifying and analyzing refactorings in Dockerfile",                     2024),
+    (8,  "Smells-sus: sustainability smells in IaC",                                                     2025),
+    (9,  "It works (only) on my machine: a study on reproducibility smells in ansible scripts",          2025),
+    (10, "Refactoring for Dockerfile quality: a dive into developer practices and automation potential", 2025),
+    # From ICSE (5)
+    (11, "The seven sins: security smells in infrastructure as code scripts",                            2019),
+    (12, "Gang of eight: a defect taxonomy for infrastructure as code scripts",                          2020),
+    (13, "Practical fault detection in puppet programs",                                                 2020),
+    (14, "Shipwright: a human-in-the-loop system for Dockerfile repair",                                 2021),
+    (15, "Empirical study of the docker smells impact on the image size",                                2024),
+    # From ASE (4)
+    (16, "Tortoise: interactive system configuration repair",                                            2017),
+    (17, "Polyglot code smell detection for infrastructure as code with GLITCH",                         2023),
+    (18, "Leveraging practitioners' feedback to improve a security linter",                               2023),
+    (19, "Ansible Lightspeed: a code generation service for IT automation",                               2024),
+    # From FSE (2)
+    (20, "Infrastructure as code for dynamic deployments",                                                2022),
+    (21, "State reconciliation defects in infrastructure as code",                                        2024),
+    # From ICST (3)
+    (22, "Characterizing defective configuration scripts used for continuous deployment",                2018),
+    (23, "As code testing: characterizing test quality in open source ansible development",              2022),
+    (24, "Smoke testing of cloud systems",                                                                2022),
+    # From SANER (3)
+    (25, "How good is your puppet? an empirically defined and validated quality model for puppet",       2018),
+    (26, "Lessons from research to practice on writing better quality puppet scripts",                   2022),
+    (27, "On the prevalence, co-occurrence, and impact of infrastructure-as-code smells",                 2024),
+    # From ICSME (3)
+    (28, "Assessing and improving the quality of docker artifacts",                                       2022),
+    (29, "Defuse: a data annotator and model builder for software defect prediction",                     2022),
+    (30, "DockerCleaner: automatic repair of security smells in Dockerfiles",                             2023),
+    # From ISSTA (3)
+    (31, "An empirical study on Kubernetes operator bugs",                                                2024),
+    (32, "InfraFix: technology-agnostic repair of infrastructure as code",                                2025),
+    (33, "Hybrid fuzzing of infrastructure as code programs",                                             2025),
+    # From TSE (3)
+    (34, "Within-project defect prediction of infrastructure-as-code using product and process metrics", 2022),
+    (35, "Detecting and characterizing propagation of security weaknesses in puppet-based infrastructure management", 2023),
+    (36, "Automated infrastructure as code program testing",                                              2024),
+    # From TOSEM (4)
+    (37, "Security smells in ansible and chef scripts: a replication study",                              2021),
+    (38, "Security misconfigurations in open source kubernetes manifests: an empirical study",            2023),
+    (39, "DRIVE: Dockerfile rule mining and violation detection",                                         2023),
+    (40, "On the understandability of design-level security practices in infrastructure-as-code scripts and deployment architectures", 2024),
+    # From EMSE (7)
+    (41, "The \"as code\" activities: development anti-patterns for infrastructure as code",              2020),
+    (42, "FindICI: using machine learning to detect linguistic inconsistencies between code and natural language descriptions in infrastructure-as-code", 2022),
+    (43, "An empirical study of task infections in ansible scripts",                                      2023),
+    (44, "Patterns of multi-container composition for service orchestration with docker compose",         2024),
+    (45, "Assessing the adoption of security policies by developers in terraform across different cloud providers", 2025),
+    (46, "Analyzing and mitigating (with LLMs) the security misconfigurations of helm charts from artifact hub", 2025),
+    (47, "Vulnerabilities in infrastructure as code: what, how many, and who?",                           2025),
+    # From JSS (2)
+    (48, "Toward a catalog of software quality metrics for infrastructure code",                          2020),
+    (49, "On the practice of semantic versioning for ansible galaxy roles: an empirical study and a change classification model", 2021),
+    #From SoCC (1)
+    (50, "Automatically detecting risky scripts in infrastructure code",                                  2020),
+    # From past SLRs (3)
+    (51, "Code smells in infrastructure as code",                                                         2018),
+    (52, "DeepIaC: deep learning-based linguistic anti-pattern detection in IaC",                         2020),
+    (53, "Sommelier: a tool for validating TOSCA application topologies",                                 2017),
 ]
 
 STOP = {

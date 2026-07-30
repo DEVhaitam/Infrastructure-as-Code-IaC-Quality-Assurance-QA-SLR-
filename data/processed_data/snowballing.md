@@ -58,7 +58,6 @@
 * Empirical Study of the Docker Smells Impact on the Image Size
     - Forward:
         - Dr. Docker: A Large-Scale Security Measurement of Docker Image Ecosystem
-        - Dockerfile Flakiness: Characterization and Repair   
     - Backward:
         - Dockerfile TF Smell Detection Based on Dynamic and Static Analysis Methods
 * The Docker Hub Image Inheritance Network: Construction and Empirical Insights:

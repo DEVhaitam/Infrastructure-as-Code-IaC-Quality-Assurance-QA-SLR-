@@ -1,0 +1,79 @@
+Vulnerabilities in infrastructure as code: what, how many, and who?
+Towards a Taxonomy of Infrastructure as Code Misconfigurations: An Ansible Study
+Enhancing Software Defect Prediction in Ansible Scripts Using Code-Smell-Guided Prompting with Large Language Models in Edge-Cloud Infrastructures
+FindICI: Using machine learning to detect linguistic inconsistencies between code and natural language descriptions in infrastructure-as-code
+The ‘as code’ activities: development anti-patterns for infrastructure as code
+Analyzing Infrastructure as Code to Prevent Intra-update Sniping Vulnerabilities
+Assessing Architecture Conformance to Coupling-Related Infrastructure-as-Code Best Practices: Metrics and Case Studies
+Secure container Orchestration: A framework for detecting and mitigating Orchestrator - level vulnerabilities
+Patterns of multi-container composition for service orchestration with Docker Compose
+Analyzing and mitigating (with LLMs) the security misconfigurations of Helm charts from Artifact Hub
+An empirical study of task infections in Ansible scripts
+Test Suite Reduction in Idempotence Testing of Infrastructure as Code
+Toward a catalog of software quality metrics for infrastructure code
+Container security: Precaution levels, mitigation strategies, and research perspectives
+AnsibleMetrics: A Python library for measuring Infrastructure-as-Code blueprints in Ansible
+Source code properties of defective infrastructure as code scripts
+On the practice of semantic versioning for Ansible galaxy roles: An empirical study and a change classification model
+Optimizing resource allocation using proactive scaling with predictive models and custom resources
+InfraFix: Technology-Agnostic Repair of Infrastructure as Code
+Hybrid Fuzzing of Infrastructure as Code Programs (Short Paper)
+State Reconciliation Defects in Infrastructure as Code
+Extensible Testing for Infrastructure as Code
+Unearthing Semantic Checks for Cloud Infrastructure-as-Code Programs
+TerrARA: Automated Security Threat Modeling for Infrastructure as Code
+Infrastructure as code for dynamic deployments
+Polyglot Code Smell Detection for Infrastructure as Code with GLITCH
+Fine-Grained Just-In-Time Defect Prediction at the Block Level in Infrastructure-as-Code (IaC)
+On the Understandability of Design-Level Security Practices in Infrastructure-as-Code Scripts and Deployment Architectures
+TerraMetrics: An Open Source Tool for Infrastructure-as-Code (IaC) Quality Metrics in Terraform
+Characterizing co-located insecure coding patterns in infrastructure as code scripts
+Singling the odd ones out: a novelty detection approach to find defects in infrastructure-as-code
+DeepIaC: deep learning-based linguistic anti-pattern detection in IaC
+Compliance Management of IaC-Based Cloud Deployments During Runtime
+Enhancing Secure Deployment with Ansible: A Focus on Least Privilege and Automation for Linux
+Security Smells in Ansible and Chef Scripts: A Replication Study
+Automatically detecting risky scripts in infrastructure code
+Leveraging Practitioners’ Feedback to Improve a Security Linter
+Co-evolution of infrastructure and source code: an empirical study
+Asserting reliable convergence for configuration management scripts
+An empirical analysis of the docker container ecosystem on GitHub
+Security Misconfigurations in Open Source Kubernetes Manifests: An Empirical Study
+Practical fault detection in puppet programs
+DRMiner: A Tool For Identifying And Analyzing Refactorings In Dockerfile
+Ansible Lightspeed: A Code Generation Service for IT Automation
+DRIVE: Dockerfile Rule Mining and Violation Detection
+Shipwright: A Human-in-the-Loop System for Dockerfile Repair
+Gang of Eight: A Defect Taxonomy for Infrastructure as Code Scripts
+Towards Reliable Infrastructure as Code
+A Pilot Study of Testing Infrastructure as Code for Cloud Systems
+Securing Infrastructure as Code (IaC) through DevSecOps:A Comprehensive Risk Management Framework
+The Seven Sins: Security Smells in Infrastructure as Code Scripts
+Control and Data Flow in Security Smell Detection for Infrastructure as Code: Is It Worth the Effort?
+Towards the Self-Healing of Infrastructure as Code Projects Using Constrained LLM Technologies
+Automated Infrastructure as Code Program Testing
+Harnessing the Power of LLMs for Code Smell Detection in Terraform Infrastructure as Code
+Within-Project Defect Prediction of Infrastructure-as-Code Using Product and Process Metrics
+Characterizing Defective Configuration Scripts Used for Continuous Deployment
+As Code Testing: Characterizing Test Quality in Open Source Ansible Development
+On the Prevalence, Co-occurrence, and Impact of Infrastructure-as-Code Smells
+Automated Bug Discovery in Cloud Infrastructure-as-Code Updates with LLM Agents
+Smells-sus: Sustainability Smells in IaC
+Code Smell-Guided Prompting for LLM-Based Defect Prediction in Ansible Scripts
+An Approach to Identifying Error Patterns for Infrastructure as Code
+Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution
+Code Smells in Infrastructure as Code
+Repairing Infrastructure-as-Code using Large Language Models
+Test-Based Least Privilege Discovery on Cloud Infrastructure as Code
+LLM Agentic Workflow for Automated Vulnerability Detection and Remediation in Infrastructure-as-Code
+Assessing Architecture Conformance to Security-Related Practices in Infrastructure as Code Based Deployments
+A Catalog of Cost Patterns and Antipatterns for Infrastructure as Code
+Different Kind of Smells: Security Smells in Infrastructure as Code Scripts
+Does Your Configuration Code Smell?
+Lessons from Research to Practice on Writing Better Quality Puppet Scripts
+Detecting and Characterizing Propagation of Security Weaknesses in Puppet-Based Infrastructure Management
+Defuse: A Data Annotator and Model Builder for Software Defect Prediction
+It Works (only) on My Machine: A Study on Reproducibility Smells in Ansible Scripts
+Smelly Variables in Ansible Infrastructure Code: Detection, Prevalence, and Lifetime
+Exploring LLM-Based Automated Repairing of Ansible Script in Edge-Cloud Infrastructures
+Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential

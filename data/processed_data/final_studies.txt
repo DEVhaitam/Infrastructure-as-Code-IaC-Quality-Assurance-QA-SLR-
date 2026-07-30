@@ -113,16 +113,11 @@ Enhancing Software Defect Prediction in Ansible Scripts Using Code-Smell-Guided 
 * Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study
 * An Empirical Case Study on the Temporary File Smell in Dockerfiles
 * Dr. Docker: A Large-Scale Security Measurement of Docker Image Ecosystem
-* Dockerfile Flakiness: Characterization and Repair
 * Dockerfile TF Smell Detection Based on Dynamic and Static Analysis Methods
 - Refactorings and Technical Debt in Docker Projects: An Empirical Study
 - Anvil: Verifying Liveness of Cluster Management Controllers
 - KubeFence: Security Hardening of the Kubernetes Attack Surface
 - DFScan: Security Scanner of the Dockerfile Based on Instruction Coverage and Attack Perspective
-- DRMiner: A Tool For Identifying And Analyzing Refactorings In Dockerfile
 - Not all dockerfile smells are the same: An empirical evaluation of hadolint writing practices by experts
 - Fixing Dockerfile smells: an empirical study
-- Static Vulnerability Analysis of Docker Images
 - CONTAIN4n6: a systematic evaluation of container artifacts
-- Automatic Repair Method for Dockerfile Build Errors: Extracting Dependencies Between Build Error-Inducing Instructions based on Frequent Subtree Mining
-- ContainerLeaks: Emerging Security Threats of Information Leakages in Container Clouds
