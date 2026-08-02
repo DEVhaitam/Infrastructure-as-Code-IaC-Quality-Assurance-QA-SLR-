@@ -11,15 +11,17 @@ The following folders are included in this replication package:
     - `remove_types.py`: Removes irrelevant references such as books, book chapters, and entries with empty titles.
     - `keyword_screen.py`: Filters papers based on title, abstract, and specific keywords related to IaC and quality.
     - `random_selection.py`: Randomly selects 45 studies out of the excluded papers.
+    - `check_goldset.py`: Checks the papers retreived by the different search queries against the QGS
+    - `techno_frequenecy.py`: Calculates the lexical of the different IaC techno during the screeing stage
 
 2. **`data/`**  
     This folder contains raw and processed data files:
-    - `raw_data/`: Contains the raw data file, `all.bib`, retrieved through applying the search query.
-    - `processed_data/`: Contains intermediate and processed data files, such as `non-duplicate.bib`, `filtered_nondup.bib`, and `screened.bib`.
+    - `raw_data/`: Contains the raw data file, `all.bib`, retrieved through applying the search query, and the classifications.md showcasing the intermediate classes used for classifying quality issues and techniques
+    - `processed_data/`: Contains intermediate and processed data files, such as `non-duplicate.bib`, `filtered_nondup.bib`, and `screened.bib`, and the `snowballing` folder presenting data generated during the different snowballing iterations.
     - `results/`: Contains the main spreadsheet presenting the final results of the study.
 2. **`goldset/`**  
     This folder contains the gold set of references and related metadata used for evaluating the search queries. It contains:
-    - `goldset.md/`: Contains the details about the goldset papers, as well as queries' evaluation.
+    - `qgs_zhang.md/`: Contains the details about the goldset papers, as well as queries' evaluation.
     - `related_surveys_references.md/`: Contains references from the closet related surveys`.
     - and the results of execution of the different search queries.
     
