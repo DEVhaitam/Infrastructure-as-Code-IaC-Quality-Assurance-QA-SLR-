@@ -4,7 +4,7 @@ Period (~ 10 years): 1 January 2015 to 29 July 2025
 
 Venues: We identified papers from well-known contributors (Rahman et. al., Dalla Palma et. al., Sokolowski et. al., Opdebeeck et. al.), plus venues from authors' expertise. About journals, we selected the top ones (Q1), but we enlarged the scope for conferences to catch more papers for the QGS. Ranks for journals are from [SCImago](https://www.scimagojr.com/) and for conferences, from [CORE2026](https://portal.core.edu.au/conf-ranks/). Note that we retained several venues in which the well-known contributors have published non-IaC work, as these venues remain suitable for IaC research. The search engine used for getting the papers of the different venues was google scholar.
 
-## Journals (4)
+## Journals (5)
 
 - TSE: Transactions on Software Engineering                     (IEEE - Q1)
     * Sokolowski
@@ -20,7 +20,7 @@ Venues: We identified papers from well-known contributors (Rahman et. al., Dalla
 - IST: Information and Software Technology (ScienceDirect - Q1)
     * Authors' expertise
 
-## Conferences (8)
+## Conferences (18)
 
 - ASE:      International Conference on Automated Software Engineering                                      (rank A*)
     * Authors' expertise
